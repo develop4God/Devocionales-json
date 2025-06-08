@@ -1,0 +1,50 @@
+{
+    "data": {
+        "es": {
+            "2025-06-08": [
+                {
+                    "id": "mateo633_20250608",
+                    "date": "2025-06-08",
+                    "language": "es",
+                    "version": "RVR1960",
+                    "versiculo": "Mateo 6:33: Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+                    "reflexion": "Este versículo es una brújula para la vida cristiana. Nos recuerda la importancia de priorizar la búsqueda de Dios y su voluntad por encima de las preocupaciones materiales. La frase 'buscad primeramente' es un llamado a la acción, a poner a Dios en el centro de nuestras vidas, en cada decisión y en cada pensamiento. No se trata de negar las necesidades básicas, sino de entender que, al enfocar nuestra atención en el Reino de Dios, Él se encargará de proveer para nosotros. \n\nLa 'justicia' a la que se refiere el versículo no es solo la rectitud personal, sino también la justicia del Reino, la que Dios anhela para toda la humanidad. Implica vivir de acuerdo con los principios de Dios, amando a nuestro prójimo, perdonando a quienes nos ofenden y buscando la verdad en todas las cosas. Al hacer esto, demostramos nuestra fe en Dios y abrimos nuestro corazón a las bendiciones que Él tiene preparadas para nosotros. \n\nEn un mundo lleno de distracciones y ansiedades, este versículo nos anima a mantener la mirada fija en lo eterno. Nos recuerda que la verdadera riqueza no se encuentra en las posesiones, sino en la relación con Dios y en la vida que vivimos para Él. Al buscar el Reino de Dios y su justicia, encontramos paz, propósito y la seguridad de que Él cuidará de nosotros.",
+                    "para_meditar": [
+                        {
+                            "cita": "Proverbios 3:5-6",
+                            "texto": "Fíate de Jehová de todo tu corazón, Y no te apoyes en tu propia prudencia. Reconócele en todos tus caminos, Y él enderezará tus veredas."
+                        },
+                        {
+                            "cita": "Filipenses 4:6-7",
+                            "texto": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias. Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús."
+                        }
+                    ],
+                    "oracion": "Amado Padre Celestial, te damos gracias por tu amor y tu provisión constante. Hoy, te pedimos que nos ayudes a buscarte a ti primeramente, a poner tu Reino y tu justicia por encima de todas nuestras preocupaciones. Ayúdanos a confiar en tu promesa de que todas las cosas nos serán añadidas. Perdónanos por las veces que nos hemos enfocado en lo material y hemos descuidado nuestra relación contigo. Danos la sabiduría para discernir tu voluntad y la valentía para obedecer tus mandamientos. Que tu paz inunde nuestros corazones y nos guíe en cada paso que damos. Te amamos y te adoramos, en el nombre de Jesús. Amén.",
+                    "tags": [
+                        "Fe",
+                        "Prioridades",
+                        "Confianza",
+                        "Provisión",
+                        "Reino"
+                    ]
+                }
+            ],
+            "2025-06-09": [
+                {
+                    "id": "error_b5efafe1-0442-4971-8fe7-5c3217eb566a",
+                    "date": "2025-06-09",
+                    "language": "es",
+                    "version": "RVR1960",
+                    "versiculo": "Error en la generación para es-RVR1960",
+                    "reflexion": "Hubo un problema al generar el devocional: Fallo en la generación principal",
+                    "para_meditar": [],
+                    "oracion": "Por favor, reintente la generación o revise los logs.",
+                    "tags": [
+                        "Error"
+                    ]
+                }
+            ]
+        },
+        "en": {}
+    }
+}
