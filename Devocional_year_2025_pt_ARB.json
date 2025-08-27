@@ -1,131 +1,151 @@
 {
-   "data":{
-      "pt":{
-         "2025-08-27":[
-            {
-               "id":"proverbios3_5-6_ARB",
-               "date":"2025-08-27",
-               "language":"pt",
-               "version":"ARB",
-               "versiculo":"Provérbios 3:5-6 ARB: \"Confia no SENHOR de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e Ele endireitará as tuas veredas.\"",
-               "reflexion":"A nossa natureza humana nos leva a buscar a independência e a confiar em nossa própria inteligência. Contudo, a Palavra de Deus nos chama a uma entrega total, a uma confiança que vai além do que podemos compreender. Confiar no Senhor significa submeter nossas decisões e planos a Ele, reconhecendo que a Sua sabedoria é infinita. Ao fazermos isso, Ele nos dá a certeza de que nos guiará e endireitará os nosso caminhos, removendo os obstáculos e nos levando à plenitude de Seu propósito.",
-               "para_meditar":[
-                  {
-                     "cita":"Salmos 37:5",
-                     "texto":"Entrega o teu caminho ao SENHOR, confia nele, e Ele tudo fará."
-                  },
-                  {
-                     "cita":"Jeremias 17:7",
-                     "texto":"Bendito o varão que confia no SENHOR, e cuja esperança é o SENHOR."
-                  }
-               ],
-               "oracion":"Amado Pai, ensina-me a confiar em Ti de todo o meu coração e a não depender da minha própria sabedoria. Ajuda-me a reconhecer a Tua presença em cada passo que dou e a descansar na Tua promessa de guiar os meus caminhos. Em nome de Jesus, amém.",
-               "tags":[
-                  "Confiança",
-                  "Fé"
-               ]
-            }
-         ],
-         "2025-08-28":[
-            {
-               "id":"isaias41_10_ARB",
-               "date":"2025-08-28",
-               "language":"pt",
-               "version":"ARB",
-               "versiculo":"Isaías 41:10 ARB: \"Não temas, porque Eu sou contigo; não te assombres, porque Eu sou o teu Deus; Eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça.\"",
-               "reflexao":"O medo é um sentimento que nos paralisa e nos impede de avançar. No entanto, este versículo é uma poderosa declaração de Deus para nós: Ele está conosco, é nosso Deus, e nos fortalece. A Sua presença dissipa a sombra do medo, e a Sua mão direita, símbolo de Sua justiça e poder, nos sustenta em tempos de dificuldade. Essa promessa é uma âncora para a nossa alma, uma certeza de que não estamos sozinhos e de que podemos enfrentar qualquer desafio com a força que Ele nos dá.",
-               "para_meditar":[
-                  {
-                     "cita":"Josué 1:9",
-                     "texto":"Não to mandei Eu? Sê forte e corajoso; não temas, nem te espantes; porque o SENHOR teu Deus é contigo, por onde quer que andares."
-                  },
-                  {
-                     "cita":"Salmos 27:1",
-                     "texto":"O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem me recearei?"
-                  }
-               ],
-               "oracao":"Senhor, em momentos de incerteza e medo, lembra-me de que Tu és o meu Deus. Fortalece o meu espírito e ajuda-me a confiar que Tu me sustentarás com a Tua mão poderosa. Que o medo não me domine, mas que a Tua paz me guarde. Amém.",
-               "tags":[
-                  "Coragem",
-                  "Proteção"
-               ]
-            }
-         ],
-         "2025-08-29":[
-            {
-               "id":"romanos8_28_ARB",
-               "date":"2025-08-29",
-               "language":"pt",
-               "version":"ARB",
-               "versiculo":"Romanos 8:28 ARB: \"E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito.\"",
-               "reflexao":"Este versículo nos dá uma perspectiva de esperança em meio aos desafios da vida. Ele nos assegura que, mesmo as situações mais difíceis, não são aleatórias; elas têm um propósito. Deus é soberano e pode usar qualquer circunstância para nos moldar, nos ensinar e nos aproximar de Si. O bem aqui não se refere necessariamente à nossa felicidade imediata, mas ao nosso crescimento espiritual e à conformidade com a imagem de Cristo. Viver com esta verdade nos permite ter esperança e resiliência em todas as circunstâncias.",
-               "para_meditar":[
-                  {
-                     "cita":"Filipenses 1:6",
-                     "texto":"Tendo por certo isto mesmo, que aquele que em vós começou a boa obra a aperfeiçoará até ao dia de Jesus Cristo."
-                  },
-                  {
-                     "cita":"Gênesis 50:20",
-                     "texto":"Vós bem intentastes mal contra mim; porém Deus o tornou em bem, para fazer como se vê neste dia, para conservar em vida a um povo grande."
-                  }
-               ],
-               "oracao":"Pai, obrigado por me lembrares de que há um propósito em tudo que enfrento. Ajuda-me a ter a certeza de que Tu estás no controle e que as dificuldades contribuem para o meu bem e para a Tua glória. Que a minha fé seja fortalecida ao ver a Tua mão em todas as coisas. Em nome de Jesus, amém.",
-               "tags":[
-                  "Propósito",
-                  "Esperança"
-               ]
-            }
-         ],
-         "2025-08-30":[
-            {
-               "id":"filipenses4_6-7_ARB",
-               "date":"2025-08-30",
-               "language":"pt",
-               "version":"ARB",
-               "versiculo":"Filipenses 4:6-7 ARB: \"Não andeis ansiosos por coisa alguma; antes, em tudo, pela oração e súplicas, com ações de graças, sejam conhecidas diante de Deus as vossas petições. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus.\"",
-               "reflexao":"A ansiedade é uma das maiores batalhas da nossa época. Deus não nos pede para ignorar os nossos problemas, mas para abordá-los de uma maneira diferente: através da oração e da gratidão. A ansiedade é transformada em paz quando entregamos nossas preocupações a Deus. A paz que Ele nos oferece não é a ausência de problemas, mas uma segurança interna que transcende qualquer circunstância. É um presente de Deus que guarda nossos corações e mentes em Cristo Jesus, o que nos permite descansar e confiar plenamente Nele.",
-               "para_meditar":[
-                  {
-                     "cita":"Mateus 6:34",
-                     "texto":"Não vos inquieteis, pois, pelo dia de amanhã, porque o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu mal."
-                  },
-                  {
-                     "cita":"1 Pedro 5:7",
-                     "texto":"Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
-                  }
-               ],
-               "oracao":"Senhor, entrego a Ti toda a minha ansiedade. Ajuda-me a transformar minhas preocupações em oração e a Te buscar com um coração grato. Que a Tua paz, que é incomparável, guarde a minha mente e o meu coração. Ensina-me a confiar em Ti em todas as coisas. Amém.",
-               "tags":[
-                  "Oração",
-                  "Paz"
-               ]
-            }
-         ],
-         "2025-08-31":[
-            {
-               "id":"joao14_6_ARB",
-               "date":"2025-08-31",
-               "language":"pt",
-               "version":"ARB",
-               "versiculo":"João 14:6 ARB: \"Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida; ninguém vem ao Pai, senão por mim.\"",
-               "reflexao":"Em um mundo cheio de opções, Jesus nos dá uma declaração clara e definitiva. Ele não é apenas um dos caminhos para Deus, mas o único. Ele não apenas nos aponta para a verdade, mas é a própria verdade encarnada. E Ele não oferece apenas a vida, mas é a própria fonte dela. Essa afirmação nos lembra da exclusividade e centralidade de Jesus em nossa fé. Não há atalhos, nem outras filosofias que possam nos conduzir a Deus. Apenas através de Jesus, podemos ter um relacionamento genuíno com o Pai e a promessa da vida eterna.",
-               "para_meditar":[
-                  {
-                     "cita":"Atos 4:12",
-                     "texto":"E em nenhum outro há salvação; porque debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos."
-                  },
-                  {
-                     "cita":"1 João 5:11-12",
-                     "texto":"E o testemunho é este: que Deus nos deu a vida eterna, e esta vida está em seu Filho. Aquele que tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida."
-                  }
-               ],
-               "oracao":"Senhor Jesus, obrigado por seres o único caminho para o Pai. Ajuda-me a seguir Teus passos fielmente, a viver a Tua verdade e a desfrutar da vida abundante que Tu me dás. Que a minha fé esteja sempre centrada em Ti, a única esperança de minha salvação. Amém.",
-               "tags":[
-                  "Jesus",
-                  "Salvação"
-               ]
-            }
-         ]
-      }
-   }
+    "data": {
+        "pt": {
+            "2025-08-27": [
+                {
+                    "id": "1joao51415ARC",
+                    "date": "2025-08-27",
+                    "language": "pt",
+                    "version": "ARC",
+                    "versiculo": "1 João 5:14-15 ARC: \"E esta é a confiança que temos nele, que, se pedirmos alguma coisa, segundo a sua vontade, ele nos ouve. E, se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as petições que lhe fizemos.\"",
+                    "reflexion": "A passagem de 1 João 5:14-15 nos oferece um profundo ensinamento sobre a oração e a confiança em Deus. O apóstolo João nos assegura que podemos nos aproximar de Deus com confiança, sabendo que Ele nos ouve. A chave para essa confiança reside em orar de acordo com a vontade de Deus. Isso não significa que devemos adivinhar a vontade de Deus, mas sim, buscar conhecê-la através da Palavra e da oração. Quando nossas orações se alinham com os propósitos de Deus, podemos ter a certeza de que Ele nos ouve. A promessa de que alcançamos as petições que lhe fizemos é um incentivo poderoso para perseverarmos na oração. É um convite a crer que Deus está presente em nossas vidas, atendendo às nossas necessidades e anseios. Ao orarmos, devemos lembrar que a oração não é apenas uma lista de pedidos, mas um relacionamento com Deus. É um momento de comunhão, de entrega e de reconhecimento da soberania divina. A confiança em Deus nos capacita a perseverar na oração, mesmo quando não vemos resultados imediatos. Ela nos lembra que Deus está trabalhando em nossas vidas, mesmo quando não entendemos os caminhos Dele. Que possamos, portanto, cultivar uma vida de oração constante, buscando a vontade de Deus em tudo o que fazemos e confiando em Sua fidelidade.",
+                    "para_meditar": [
+                        {
+                            "cita": "Mateus 7:7",
+                            "texto": "Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á."
+                        },
+                        {
+                            "cita": "Filipenses 4:6",
+                            "texto": "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças."
+                        },
+                        {
+                            "cita": "Salmos 37:4",
+                            "texto": "Deleita-te também no Senhor, e ele te concederá os desejos do teu coração."
+                        }
+                    ],
+                    "oracion": "Amado Pai Celestial, agradecemos por Tua Palavra que nos guia e nos ensina a orar com fé e confiança. Reconhecemos que a oração é um diálogo contigo e que podemos nos aproximar de Ti com ousadia, crendo que nos ouves. Ajuda-nos a alinhar nossas orações com a Tua vontade, buscando conhecer Teus propósitos em nossas vidas. Concede-nos a graça de perseverar na oração, mesmo quando não vemos resultados imediatos, sabendo que estás trabalhando em nosso favor. Fortalece nossa fé para que possamos crer que recebemos o que pedimos, quando oramos segundo a Tua vontade. Que possamos experimentar a Tua presença constante em nossas vidas, sentindo o Teu amor e cuidado em cada situação. Renova nossa esperança e nos enche de gratidão por tudo o que tens feito por nós. Em nome de Jesus, amén.",
+                    "tags": [
+                        "Oração",
+                        "Confiança"
+                    ]
+                }
+            ],
+            "2025-08-28": [
+                {
+                    "id": "1Corintios7_23ARC",
+                    "date": "2025-08-28",
+                    "language": "pt",
+                    "version": "ARC",
+                    "versiculo": "1 Coríntios 7:23 ARC: \"Fostes comprados por bom preço; não vos façais servos dos homens.\"",
+                    "reflexion": "O apóstolo Paulo, em sua carta aos Coríntios, nos lembra de uma verdade fundamental: fomos comprados por um preço, o sangue precioso de Jesus Cristo. Este versículo, 1 Coríntios 7:23, é uma poderosa declaração de liberdade. Não somos mais escravos do pecado, nem de qualquer outra forma de opressão. Fomos libertados, redimidos, e agora pertencemos a Cristo. A expressão \"não vos façais servos dos homens\" nos convida a refletir sobre a nossa lealdade. A quem estamos servindo? Estamos permitindo que as opiniões, os medos, ou as pressões do mundo nos ditem como viver? Ou estamos vivendo de acordo com a vontade de Deus, buscando agradá-lo em tudo o que fazemos?\n\nEsta reflexão é um chamado à liberdade que recebemos em Cristo. Significa que não precisamos nos curvar às expectativas alheias, nem nos deixar manipular por aqueles que buscam nos escravizar. Devemos, sim, buscar a vontade de Deus e viver uma vida que o honre. A liberdade que temos em Cristo não é uma licença para viver sem responsabilidade, mas sim a oportunidade de servir a Deus com alegria e gratidão, reconhecendo que somos Seus filhos amados. É um lembrete constante de que nossa identidade e valor estão em Cristo, e não nas opiniões alheias ou nas conquistas terrenas.",
+                    "para_meditar": [
+                        {
+                            "cita": "João 8:36",
+                            "texto": "Se, pois, o Filho vos libertar, verdadeiramente sereis livres."
+                        },
+                        {
+                            "cita": "Gálatas 5:1",
+                            "texto": "Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a meter-vos debaixo do jugo da servidão."
+                        },
+                        {
+                            "cita": "Romanos 6:22",
+                            "texto": "Mas, agora, libertados do pecado, e feitos servos de Deus, tendes o vosso fruto para a santificação, e por fim a vida eterna."
+                        }
+                    ],
+                    "oracion": "Amado Deus, obrigado pela liberdade que me deste em Cristo Jesus. Reconheço que fui comprado por um alto preço, e agora pertenço a Ti. Ajuda-me a viver de acordo com a Tua vontade, e a não me deixar escravizar pelas opiniões e pressões do mundo. Que eu possa servir-Te com alegria e gratidão, reconhecendo que sou Teu filho amado. Livra-me de todo medo e insegurança, e guia meus passos para que eu possa glorificar Teu nome em tudo o que fizer. Capacita-me a viver em liberdade, e a testemunhar o Teu amor a todos que me cercam. Em nome de Jesus, amén.",
+                    "tags": [
+                        "Liberdade",
+                        "Servidão"
+                    ]
+                }
+            ],
+            "2025-08-29": [
+                {
+                    "id": "1pedro4v8ARC20250829",
+                    "date": "2025-08-29",
+                    "language": "pt",
+                    "version": "ARC",
+                    "versiculo": "1 Pedro 4:8 ARC: \"Mas, sobretudo, tende ardente amor uns para com os outros, porque o amor cobrirá multidão de pecados.\"",
+                    "reflexion": "No coração da vida cristã reside o amor, um amor que vai além das palavras e se manifesta em ações concretas. Em 1 Pedro 4:8, somos exortados a ter um amor ardente uns pelos outros. Este amor não é superficial ou condicional; é um amor que se esforça, que se entrega e que é capaz de perdoar. A expressão \"cobrirá multidão de pecados\" revela a profundidade e o poder transformador do amor. O amor verdadeiro não ignora os erros, mas os enfrenta com graça e compaixão. Ele busca a restauração e o perdão, construindo pontes em vez de muros. Este amor é o reflexo do amor de Deus por nós, que enviou Seu Filho para nos resgatar e perdoar nossos pecados. Ao praticarmos este amor ardente, demonstramos a essência do evangelho e testemunhamos a transformação que Cristo opera em nossas vidas. É um chamado a amar sem reservas, a perdoar sem limites e a viver uma vida que honra a Deus através do amor.",
+                    "para_meditar": [
+                        {
+                            "cita": "João 13:34",
+                            "texto": "Um novo mandamento lhes dou: Amem uns aos outros. Como eu os amei, vocês devem amar uns aos outros."
+                        },
+                        {
+                            "cita": "Romanos 12:10",
+                            "texto": "Amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos outros."
+                        },
+                        {
+                            "cita": "1 Coríntios 13:4",
+                            "texto": "O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha."
+                        }
+                    ],
+                    "oracion": "Senhor, obrigado pelo Teu amor incondicional que nos alcança e transforma. Ajuda-nos a amar uns aos outros com um amor ardente, um amor que cobre multidão de pecados. Capacita-nos a perdoar, a ser pacientes e bondosos, a colocar as necessidades dos outros acima das nossas. Que o Teu amor transborde em nossas vidas, em nossas famílias e em nossas comunidades. Que possamos ser instrumentos do Teu amor, refletindo a Tua graça e compaixão em tudo o que fazemos. Que o Espírito Santo nos guie a amar como Tu nos amaste, incondicionalmente e sem reservas, em cada momento de nossas vidas. Em cada palavra, em cada ação, que possamos demonstrar o Teu amor. Concede-nos um coração cheio de amor e compaixão, para que possamos amar e servir uns aos outros. Em nome de Jesus, amém.",
+                    "tags": [
+                        "Amor",
+                        "Perdão"
+                    ]
+                }
+            ],
+            "2025-08-30": [
+                {
+                    "id": "1joao520ARC20250830",
+                    "date": "2025-08-30",
+                    "language": "pt",
+                    "version": "ARC",
+                    "versiculo": "1 João 5:20 ARC: \"E sabemos que o Filho de Deus é vindo, e nos deu entendimento, para que conheçamos aquele que é verdadeiro; e estamos naquele que é verdadeiro, isto é, em seu Filho Jesus Cristo. Este é o verdadeiro Deus e a vida eterna.\"",
+                    "reflexion": "O versículo de hoje, 1 João 5:20, é uma afirmação poderosa sobre a natureza de Jesus Cristo e a nossa posição nEle. João nos assegura que o Filho de Deus veio, nos concedeu entendimento e nos colocou em comunhão com o Verdadeiro. Esta verdade fundamental nos diferencia do mundo e nos conecta com a fonte da vida eterna.\n\nA expressão \"nos deu entendimento\" sugere que, através do conhecimento de Cristo, recebemos a capacidade de discernir a verdade. Antes de conhecê-Lo, vivíamos na escuridão, sem compreender o propósito da vida ou a esperança da salvação. Agora, iluminados pelo Espírito Santo, podemos reconhecer a verdade de Deus e a falsidade do mundo. A promessa de \"vida eterna\" nos lembra que a nossa fé em Jesus não é apenas para esta vida, mas para a eternidade. Essa promessa nos oferece esperança, conforto e segurança, mesmo em meio às dificuldades.\n\nAo meditar neste versículo, somos desafiados a examinar a nossa compreensão de Cristo. Estamos vivendo de acordo com a verdade que conhecemos? Estamos buscando crescer em nosso conhecimento e amor por Ele? Que possamos nos agarrar a esta verdade, vivendo em comunhão com o Verdadeiro e desfrutando da vida eterna que Ele nos oferece.",
+                    "para_meditar": [
+                        {
+                            "cita": "João 14:6",
+                            "texto": "Respondeu-lhe Jesus: Eu sou o caminho, a verdade e a vida; ninguém vem ao Pai, senão por mim."
+                        },
+                        {
+                            "cita": "Colossenses 2:2-3",
+                            "texto": "Para que o coração deles seja confortado e vinculado em amor, e eles tenham toda a riqueza da certeza do entendimento, para compreender o mistério de Deus, Cristo, em quem estão escondidos todos os tesouros da sabedoria e do conhecimento."
+                        },
+                        {
+                            "cita": "Tito 1:2",
+                            "texto": "na esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos eternos."
+                        }
+                    ],
+                    "oracion": "Amado Pai, agradecemos por enviar Teu Filho Jesus Cristo, que nos revelou a verdade e nos deu entendimento. Reconhecemos que Ele é o caminho, a verdade e a vida, e que a vida eterna encontramos nEle. Pedimos que nos ajudes a crescer em nosso conhecimento e amor por Jesus, e que possamos viver de acordo com a verdade que conhecemos. Concede-nos a sabedoria para discernir a Tua vontade e a força para perseverar em nossa fé. Que possamos refletir a Tua luz em tudo o que fizermos, guiando outros a Ti. Fortalece-nos em meio às provações, lembrando-nos da promessa da vida eterna em Cristo. Que a Tua paz, que excede todo o entendimento, guarde os nossos corações e mentes. Em nome de Jesus, amén.",
+                    "tags": [
+                        "Cristo",
+                        "Verdade"
+                    ]
+                }
+            ],
+            "2025-08-31": [
+                {
+                    "id": "1Tess4v3-5ARC20250831",
+                    "date": "2025-08-31",
+                    "language": "pt",
+                    "version": "ARC",
+                    "versiculo": "1 Tessalonicenses 4:3-5 ARC: \"Porque esta é a vontade de Deus, a vossa santificação: que vos abstenhais da prostituição, que cada um de vós saiba possuir o seu vaso em santidade e honra, não na paixão da concupiscência, como os gentios, que não conhecem a Deus.\"",
+                    "reflexion": "O trecho de 1 Tessalonicenses 4:3-5 nos apresenta um chamado claro e direto à santidade. Paulo, escrevendo aos tessalonicenses, revela a vontade de Deus: a nossa santificação. Esta santificação se manifesta em duas áreas cruciais: a pureza sexual e o domínio próprio. O apóstolo nos exorta a nos abster da prostituição, reconhecendo que a imoralidade sexual é contrária à vontade de Deus. Ele nos lembra que cada um de nós deve saber como possuir o seu próprio corpo (vaso) em santidade e honra, não na paixão da concupiscência. A comparação com os gentios, que não conhecem a Deus, é um lembrete de que nossa conduta deve ser diferente, moldada pela nossa fé e pelo conhecimento de Deus. A santidade, portanto, não é apenas uma questão de evitar o mal, mas também de buscar a pureza e o respeito pelo nosso corpo e pelo corpo do próximo. É um chamado à autodisciplina e ao entendimento de que somos templos do Espírito Santo. A busca pela santidade é um processo contínuo, que exige esforço, oração e a graça de Deus.",
+                    "para_meditar": [
+                        {
+                            "cita": "Romanos 12:2",
+                            "texto": "E não vos conformeis com este século, mas transformai-vos pela renovação da vossa mente, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus."
+                        },
+                        {
+                            "cita": "1 Coríntios 6:19-20",
+                            "texto": "Ou não sabeis que o vosso corpo é santuário do Espírito Santo, que habita em vós, o qual tendes da parte de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço; glorificai, pois, a Deus no vosso corpo."
+                        },
+                        {
+                            "cita": "Hebreus 12:14",
+                            "texto": "Segui a paz com todos, e a santificação, sem a qual ninguém verá o Senhor."
+                        }
+                    ],
+                    "oracion": "Senhor, agradecemos por Tua Palavra, que nos revela a Tua vontade para as nossas vidas. Reconhecemos que a santidade é o Teu desejo para nós, e que a pureza sexual e o domínio próprio são partes essenciais dessa jornada. Pedimos que nos fortaleças a resistir às tentações e a viver de acordo com a Tua vontade. Ajuda-nos a honrar o nosso corpo e o corpo do próximo, reconhecendo que somos templos do Espírito Santo. Concede-nos a graça de buscar a santidade em todas as áreas da nossa vida. Que possamos viver de forma que glorifiquemos a Ti em tudo o que fazemos e pensamos. Derrama o Teu Espírito Santo sobre nós, para que possamos ser guiados por Ti e viver uma vida que Te agrade. Em nome de Jesus, amén.",
+                    "tags": [
+                        "Santidade",
+                        "Pureza"
+                    ]
+                }
+            ]
+        }
+    }
 }
