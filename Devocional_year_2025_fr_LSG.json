@@ -1,131 +1,151 @@
 {
-  "data": {
-    "fr": {
-      "2025-08-27": [
-        {
-          "id": "proverbes3_5-6_LSG1910",
-          "date": "2025-08-27",
-          "language": "fr",
-          "version": "LSG1910",
-          "versiculo": "Proverbes 3:5-6 LSG1910: \"Confie en l'Éternel de tout ton cœur, Et ne t'appuie pas sur ta sagesse; Reconnais-le dans toutes tes voies, Et il aplanira tes sentiers.\"",
-          "reflexion": "La confiance est au cœur de notre marche avec Dieu. Ce verset nous invite à ne pas nous fier à notre propre intelligence, qui est limitée, mais à placer notre foi en l'Éternel, dont la sagesse est infinie. En le reconnaissant dans chaque aspect de notre vie, qu'il s'agisse de grandes décisions ou de petites actions quotidiennes, il promet d'aplanir nos sentiers. Cela ne signifie pas que le chemin sera sans défis, mais que Dieu nous guidera à travers eux, en nous assurant la paix et la direction.",
-          "para_meditar": [
-            {
-              "cita": "Psaumes 37:5",
-              "texto": "Recommande ton sort à l'Éternel, Mets en lui ta confiance, et il agira."
-            },
-            {
-              "cita": "Jérémie 17:7",
-              "texto": "Béni soit l'homme qui se confie dans l'Éternel, Et dont l'Éternel est l'espérance!"
-            }
-          ],
-          "oracion": "Seigneur, je te confie mon cœur et toutes mes voies. Aide-moi à ne pas m'appuyer sur ma propre sagesse, mais à te faire confiance entièrement. Guide mes pas et aplanie mes sentiers selon ta volonté. Amen.",
-          "tags": [
-            "Confiance",
-            "Sagesse"
-          ]
+    "data": {
+        "fr": {
+            "2025-08-27": [
+                {
+                    "id": "apocalypse1_7_fr_lsg1910",
+                    "date": "2025-08-27",
+                    "language": "fr",
+                    "version": "LSG1910",
+                    "versiculo": "Apocalypse 1:7 LSG1910: \"Voici, il vient avec les nuées. Et tout oeil le verra, et ceux même qui l'ont percé; et toutes les tribus de la terre se lamenteront à cause de lui. Oui. Amen!\"",
+                    "reflexion": "Le verset d'Apocalypse 1:7 est une puissante déclaration de la seconde venue de Jésus-Christ. Il annonce son retour glorieux, visible à tous, confirmant la prophétie et la promesse de son retour. L'expression « Voici, il vient avec les nuées » évoque la majesté et la puissance divine, une manifestation sans équivoque de la présence du Christ. La mention que « tout œil le verra » souligne l'universalité de cet événement, atteignant chaque personne, sans exception. La réaction des « tribus de la terre » qui « se lamenteront » révèle une prise de conscience de la réalité du jugement divin, suscitant une profonde tristesse et regret. La présence de ceux qui « l'ont percé » suggère une reconnaissance poignante de ceux qui ont contribué à sa mort, illustrant la gravité de leur péché. La réponse « Oui. Amen ! » est une confirmation solennelle et une acceptation de la vérité, exprimant une foi et une confiance en la promesse de Dieu. Ce verset nous exhorte à la vigilance spirituelle, à la repentance et à la préparation pour le retour imminent de notre Seigneur, nous rappelant l'importance de vivre une vie qui Lui est agréable.",
+                    "para_meditar": [
+                        {
+                            "cita": "Matthieu 24:30",
+                            "texto": "Alors le signe du Fils de l'homme paraîtra dans le ciel, et toutes les tribus de la terre se lamenteront, et elles verront le Fils de l'homme venant sur les nuées du ciel avec puissance et une grande gloire."
+                        },
+                        {
+                            "cita": "Actes 1:11",
+                            "texto": "et dirent: Hommes Galiléens, pourquoi vous arrêtez-vous à regarder au ciel? Ce Jésus, qui a été enlevé au ciel du milieu de vous, viendra de la même manière que vous l'avez vu allant au ciel."
+                        },
+                        {
+                            "cita": "Philippiens 2:10-11",
+                            "texto": "afin qu'au nom de Jésus tout genou fléchisse dans les cieux, sur la terre et sous la terre, et que toute langue confesse que Jésus-Christ est Seigneur, à la gloire de Dieu le Père."
+                        }
+                    ],
+                    "oracion": "Père céleste, nous te remercions pour la promesse du retour de Jésus-Christ. Nous reconnaissons que ce jour sera un jour de jugement et de joie pour ceux qui t'ont accepté. Aide-nous à vivre chaque jour en te cherchant, à nous repentir de nos péchés et à nous préparer pour son retour. Que notre cœur soit rempli d'espoir et de confiance en ta fidélité. Accorde-nous la sagesse et la force de témoigner de ton amour à tous ceux qui nous entourent. Que nous puissions être trouvés fidèles et prêts lorsque le Seigneur reviendra. Que ta volonté soit faite dans nos vies et dans le monde entier. Nous te prions, Seigneur, pour que nous ayons un cœur disposé à reconnaître ta souveraineté et à nous soumettre à ta volonté. Nous te demandons de nous accorder la grâce de vivre une vie qui t'honore, en marchant dans la lumière de ta Parole. en le nom de Jésus, amen.",
+                    "tags": [
+                        "Retour",
+                        "Jugement"
+                    ]
+                }
+            ],
+            "2025-08-28": [
+                {
+                    "id": "eph11314LS1910",
+                    "date": "2025-08-28",
+                    "language": "fr",
+                    "version": "LS1910",
+                    "versiculo": "Éphésiens 1:13-14 LS1910: \"En lui vous aussi, après avoir ouï la parole de la vérité, l'Evangile de votre salut, en lui vous avez cru et avez été scellés du Saint-Esprit qui avait été promis, qui est un acompte de notre héritage, pour la rédemption de ceux que Dieu s'est acquis, à la louange de sa gloire.\"",
+                    "reflexion": "Ce passage d'Éphésiens 1:13-14 est une puissante affirmation de notre identité en Christ et de la sécurité que nous avons en lui. Paul nous rappelle que notre salut est un processus complet qui commence par l'écoute de la Parole de vérité, l'Évangile. Ensuite, nous croyons et, par cette foi, nous sommes scellés du Saint-Esprit. Ce sceau est une garantie, un acompte de l'héritage qui nous est réservé. Le Saint-Esprit est la preuve tangible de l'amour de Dieu et de son engagement envers nous. Il est la promesse de notre rédemption finale, le rachat complet de tout ce qui nous retient loin de la gloire de Dieu. Méditons sur cette vérité : nous sommes acquis par Dieu, non pas pour notre propre gloire, mais pour la sienne. Chaque jour, le Saint-Esprit travaille en nous, nous transformant à l'image de Christ et nous préparant à l'héritage éternel. Cette réflexion nous incite à vivre une vie de gratitude et d'adoration, reconnaissants pour l'amour infini de Dieu et la promesse de sa grâce.",
+                    "para_meditar": [
+                        {
+                            "cita": "Romains 8:23",
+                            "texto": "Et non seulement elles, mais aussi nous-mêmes, qui avons les prémices de l'Esprit, nous aussi nous soupirons en nous-mêmes, en attendant l'adoption, la rédemption de notre corps."
+                        },
+                        {
+                            "cita": "2 Corinthiens 1:22",
+                            "texto": "lequel nous a aussi scellés et qui a mis dans nos cœurs les arrhes de l'Esprit."
+                        },
+                        {
+                            "cita": "Galates 4:6",
+                            "texto": "Et parce que vous êtes fils, Dieu a envoyé dans nos cœurs l'Esprit de son Fils, lequel crie : Abba ! Père !"
+                        }
+                    ],
+                    "oracion": "Père céleste, nous Te remercions pour le don inestimable de Ton Fils, Jésus-Christ, et pour le Saint-Esprit qui habite en nous. Nous Te sommes reconnaissants pour le sceau de Ton Esprit, qui est la garantie de notre héritage éternel. Aide-nous à vivre chaque jour conscients de cette vérité, à marcher dans la foi et à nous laisser transformer par Ton Esprit. Accorde-nous la sagesse pour comprendre la profondeur de Ton amour et la grâce de vivre une vie qui Te glorifie. Que nous soyons toujours remplis de gratitude et d'adoration pour Ta bonté et Ta fidélité. Guide-nous sur le chemin de la rédemption et aide-nous à attendre avec joie le jour où nous serons pleinement rachetés. En ce jour, nous espérons contempler Ta gloire. en el nombre de Jesús, amén.",
+                    "tags": [
+                        "Salut",
+                        "Esprit"
+                    ]
+                }
+            ],
+            "2025-08-29": [
+                {
+                    "id": "jean812LSG1910",
+                    "date": "2025-08-29",
+                    "language": "fr",
+                    "version": "LS1910",
+                    "versiculo": "Jean 8:12 LSG1910: \"Jésus leur parla de nouveau, et dit: Je suis la lumière du monde; celui qui me suit ne marchera point dans les ténèbres, mais il aura la lumière de la vie.\"",
+                    "reflexion": "Le verset de Jean 8:12 est une déclaration fondamentale de Jésus sur sa nature et son rôle. Il se présente comme la lumière du monde, une métaphore puissante qui résonne profondément dans un contexte de ténèbres spirituelles et morales. Jésus ne se contente pas d'affirmer qu'il possède la lumière, mais qu'il EST la lumière. Il est la source de la vérité, de la révélation et de la vie. \n\nCeux qui choisissent de le suivre, de le prendre comme guide, ne marcheront pas dans les ténèbres. Cela implique une promesse de direction, de clarté et de sécurité. Les ténèbres représentent l'ignorance, le péché, la confusion et la mort spirituelle. En suivant Jésus, nous sommes libérés de ces ténèbres et introduits dans la lumière de la vie. Cette lumière n'est pas seulement une illumination intellectuelle, mais une transformation de l'être entier. C'est une vie abondante, pleine d'espoir, de joie et de communion avec Dieu. \n\nCe verset nous rappelle que nous avons le choix. Nous pouvons soit marcher dans les ténèbres, errant dans l'incertitude et la peur, soit suivre Jésus et entrer dans la lumière de la vie. Le défi est constant: choisir chaque jour de marcher dans la lumière, en obéissant à ses enseignements et en vivant une vie qui reflète sa grâce.",
+                    "para_meditar": [
+                        {
+                            "cita": "Psaumes 119:105",
+                            "texto": "Ta parole est une lampe à mes pieds, Et une lumière sur mon sentier."
+                        },
+                        {
+                            "cita": "Matthieu 5:14",
+                            "texto": "Vous êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée."
+                        },
+                        {
+                            "cita": "Jean 1:4",
+                            "texto": "En lui était la vie, et la vie était la lumière des hommes."
+                        }
+                    ],
+                    "oracion": "Seigneur Jésus, merci d'être la lumière du monde. Merci de m'avoir appelé à sortir des ténèbres et à marcher dans ta lumière. Aide-moi à te suivre chaque jour, à faire de toi mon guide et à me laisser éclairer par ta vérité. Permets que je puisse refléter ta lumière dans ce monde, apportant espoir et joie à ceux qui m'entourent. Accorde-moi la sagesse et le discernement pour distinguer le bien du mal, et pour toujours choisir le chemin qui mène à toi. Que ta lumière brille en moi et à travers moi, pour la gloire de ton nom. Je prie pour que je puisse vivre une vie abondante, pleine de ta présence. Enlève toute peur et doute de mon cœur et remplis-moi de ta paix qui surpasse toute compréhension, en le nom de Jésus, amén.",
+                    "tags": [
+                        "Lumière",
+                        "Vie"
+                    ]
+                }
+            ],
+            "2025-08-30": [
+                {
+                    "id": "philippiens313_14LSG1910",
+                    "date": "2025-08-30",
+                    "language": "fr",
+                    "version": "LSG1910",
+                    "versiculo": "Philippiens 3:13-14 LSG1910: \"Frères, je ne pense pas l'avoir saisi; mais je fais une chose: oubliant ce qui est derrière et me portant vers ce qui est en avant, je cours vers le but, pour remporter le prix de la vocation céleste de Dieu en Jésus Christ.\"",
+                    "reflexion": "Le passage de Philippiens 3:13-14 nous offre un appel puissant à la persévérance et à la focalisation spirituelle. L'apôtre Paul, loin de se considérer comme parfait, reconnaît humblement qu'il n'a pas encore atteint l'objectif ultime. Il nous donne une leçon précieuse : au lieu de s'attarder sur le passé, avec ses succès et ses échecs, il faut se tourner vers l'avenir, vers le but que Dieu nous a fixé. L'expression \"oubliant ce qui est derrière\" ne signifie pas effacer complètement le passé, mais plutôt de ne pas se laisser paralyser par lui. Les erreurs, les regrets, les succès passés, tout cela ne doit pas nous détourner de la course qui nous est proposée. Paul se concentre sur \"ce qui est en avant\", sur la vocation céleste qui est en Jésus-Christ. Il court vers le but, avec détermination et un seul objectif en tête : remporter le prix. Ce prix n'est pas une récompense matérielle, mais la communion avec Dieu, la vie éternelle. Cet appel à l'action nous incite à abandonner nos fardeaux, nos distractions et à nous engager pleinement dans la poursuite de notre foi, en gardant les yeux fixés sur Jésus-Christ, l'auteur et le parfait de notre foi.",
+                    "para_meditar": [
+                        {
+                            "cita": "Hébreux 12:1",
+                            "texto": "Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetons tout fardeau, et le péché qui nous enveloppe si facilement, et courons avec persévérance dans la carrière qui nous est ouverte,"
+                        },
+                        {
+                            "cita": "2 Corinthiens 5:17",
+                            "texto": "Si quelqu'un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées; voici, toutes choses sont devenues nouvelles."
+                        },
+                        {
+                            "cita": "Matthieu 6:33",
+                            "texto": "Cherchez premièrement le royaume et la justice de Dieu; et toutes ces choses vous seront données par-dessus."
+                        }
+                    ],
+                    "oracion": "Père céleste, je Te remercie pour cette exhortation à persévérer et à me concentrer sur l'avenir que Tu as préparé pour moi. Aide-moi à oublier les erreurs du passé, à rejeter les fardeaux qui m'entravent, et à me tourner vers Toi avec un cœur nouveau. Donne-moi la force et la détermination de courir avec persévérance la course qui m'est proposée, en gardant les yeux fixés sur Jésus-Christ, l'auteur et le parfait de ma foi. Que je puisse toujours me souvenir de la vocation céleste que Tu m'as donnée et aspirer à la communion éternelle avec Toi. Guide mes pas et aide-moi à vivre chaque jour en accord avec Ta volonté, en recherchant constamment Ta présence. Envoie Ton Saint-Esprit pour me fortifier et me guider sur le chemin de la foi. Amen, en le nom de Jésus, amén.",
+                    "tags": [
+                        "Persévérance",
+                        "Objectif"
+                    ]
+                }
+            ],
+            "2025-08-31": [
+                {
+                    "id": "1Corinthiens13_1-3LSG1910_20250831",
+                    "date": "2025-08-31",
+                    "language": "fr",
+                    "version": "LSG1910",
+                    "versiculo": "1 Corinthiens 13:1-3 LSG1910: \"Si je parle les langues des hommes et des anges, mais que je n'aie pas la charité, je suis un airain qui résonne, ou une cymbale qui retentit. Et si j'ai le don de prophétie, la science de tous les mystères et toute la connaissance, si j'ai même toute la foi jusqu'à transporter des montagnes, mais que je n'aie pas la charité, je ne suis rien. Et si je distribue tous mes biens pour la nourriture des pauvres, si je livre même mon corps pour être brûlé, mais que je n'aie pas la charité, cela ne me sert de rien.\"",
+                    "reflexion": "Ce passage de 1 Corinthiens 13:1-3 est l'une des plus belles et profondes méditations sur l'amour que l'on puisse trouver. Paul, inspiré par Dieu, nous révèle que l'amour, la charité (agapè en grec), est le fondement de tout. Il souligne que les dons spirituels les plus extraordinaires, tels que la prophétie, la connaissance et la foi capable de déplacer des montagnes, ne valent rien sans l'amour. L'amour n'est pas simplement un sentiment, mais une action, une manifestation concrète de l'amour de Dieu. Il est le fil conducteur qui donne du sens à toutes nos actions. Sans l'amour, nos paroles ne sont que du bruit, nos connaissances sont vaines, et même nos sacrifices les plus grands sont insignifiants. Paul nous rappelle que l'amour est le critère ultime pour évaluer nos vies et nos relations avec Dieu et avec les autres. Il nous invite à examiner nos cœurs et à nous assurer que l'amour, le vrai amour de Dieu, est la motivation première de toutes nos actions et de toutes nos pensées.",
+                    "para_meditar": [
+                        {
+                            "cita": "Jean 13:34",
+                            "texto": "Je vous donne un commandement nouveau: Aimez-vous les uns les autres; comme je vous ai aimés, vous aussi, aimez-vous les uns les autres."
+                        },
+                        {
+                            "cita": "Romains 12:9",
+                            "texto": "Que la charité soit sans hypocrisie. Ayez le mal en horreur; attachez-vous au bien."
+                        },
+                        {
+                            "cita": "1 Jean 4:16",
+                            "texto": "Et nous, nous avons connu l'amour que Dieu a pour nous, et nous y avons cru. Dieu est amour; et celui qui demeure dans l'amour demeure en Dieu, et Dieu demeure en lui."
+                        }
+                    ],
+                    "oracion": "Seigneur, ouvre mon cœur à ton amour. Aide-moi à comprendre la profondeur de la charité et à la vivre pleinement dans toutes mes actions. Que mes paroles, mes connaissances et mes dons soient guidés par l'amour, afin qu'ils portent du fruit pour ta gloire et pour le bien des autres. Accorde-moi la grâce de voir les autres avec tes yeux, de les aimer comme tu les aimes, et de servir avec un cœur plein d'amour. Que je puisse me souvenir chaque jour que sans l'amour, je ne suis rien. Renouvelle mon esprit et remplis-moi de ton amour, afin que je puisse refléter ta lumière dans ce monde. Je te prie pour que mon amour pour toi et pour les autres grandisse chaque jour, en le nom de Jésus, amen.",
+                    "tags": [
+                        "Amour",
+                        "Charité"
+                    ]
+                }
+            ]
         }
-      ],
-      "2025-08-28": [
-        {
-          "id": "esaie41_10_LSG1910",
-          "date": "2025-08-28",
-          "language": "fr",
-          "version": "LSG1910",
-          "versiculo": "Ésaïe 41:10 LSG1910: \"Ne crains rien, car je suis avec toi; Ne promène pas des regards inquiets, car je suis ton Dieu; Je te fortifie, je viens à ton secours, Je te soutiens de ma droite triomphante.\"",
-          "reflexion": "La peur est une chaîne qui nous empêche d'avancer. Dans ce verset, Dieu nous assure de sa présence constante. Il ne nous dit pas que nous n'aurons pas de difficultés, mais qu'il sera avec nous à travers elles. Il nous promet sa force, son aide et son soutien. Sa main droite triomphante est le symbole de sa puissance et de sa victoire sur toutes les forces du mal. Lorsque nous sommes tentés par la peur ou l'inquiétude, nous pouvons nous accrocher à cette promesse et trouver la paix en sachant qu'il est notre protecteur et notre Dieu.",
-          "para_meditar": [
-            {
-              "cita": "Josué 1:9",
-              "texto": "Ne t'ai-je pas donné cet ordre: Fortifie-toi et prends courage? Ne t'effraie point et ne t'épouvante point, car l'Éternel, ton Dieu, est avec toi dans tout ce que tu entreprendras."
-            },
-            {
-              "cita": "Psaumes 27:1",
-              "texto": "L'Éternel est ma lumière et mon salut: De qui aurais-je crainte? L'Éternel est le soutien de ma vie: De qui aurais-je peur?"
-            }
-          ],
-          "oracion": "Père, je te remercie pour ta promesse d'être avec moi. Aide-moi à surmonter la peur et l'anxiété. Je te confie mes fardeaux, sachant que tu me fortifies et me soutiens. Que ta présence soit ma paix. Amen.",
-          "tags": [
-            "Courage",
-            "Protection"
-          ]
-        }
-      ],
-      "2025-08-29": [
-        {
-          "id": "romains8_28_LSG1910",
-          "date": "2025-08-29",
-          "language": "fr",
-          "version": "LSG1910",
-          "versiculo": "Romains 8:28 LSG1910: \"Nous savons, du reste, que toutes choses concourent au bien de ceux qui aiment Dieu, de ceux qui sont appelés selon son dessein.\"",
-          "reflexion": "Ce verset nous donne une perspective éternelle sur nos épreuves. Même dans les situations les plus difficiles, il y a un but. Dieu travaille en coulisse pour transformer nos difficultés en opportunités de croissance. Cela ne signifie pas que tout est facile, mais que le mal ne peut pas avoir le dernier mot. Si nous l'aimons et vivons selon son plan, il peut utiliser n'importe quelle situation pour notre bien et sa gloire. Cette vérité nous apporte une espérance inébranlable, car nous savons que rien n'est vain dans notre vie si nous sommes en Christ.",
-          "para_meditar": [
-            {
-              "cita": "Philippiens 1:6",
-              "texto": "Je suis persuadé que celui qui a commencé en vous cette bonne œuvre la rendra parfaite jusqu'au jour de Jésus-Christ."
-            },
-            {
-              "cita": "Genèse 50:20",
-              "texto": "Vous aviez médité de me faire du mal; Dieu l'a changé en bien, pour accomplir ce qui arrive aujourd'hui, pour sauver la vie à un peuple nombreux."
-            }
-          ],
-          "oracion": "Seigneur, aide-moi à voir ton dessein dans toutes les choses de ma vie. Je sais que tu es à l'œuvre pour mon bien, même lorsque je ne comprends pas. Donne-moi la foi de croire en ton plan parfait et d'avoir de l'espoir en toutes circonstances. Amen.",
-          "tags": [
-            "Espoir",
-            "Foi"
-          ]
-        }
-      ],
-      "2025-08-30": [
-        {
-          "id": "philippiens4_6-7_LSG1910",
-          "date": "2025-08-30",
-          "language": "fr",
-          "version": "LSG1910",
-          "versiculo": "Philippiens 4:6-7 LSG1910: \"Ne vous inquiétez de rien; mais en toute chose faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâces. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ.\"",
-          "reflexion": "Dans un monde rempli de stress et d'inquiétudes, ce verset nous offre un remède simple et puissant: la prière. Au lieu de nous inquiéter, nous sommes appelés à présenter toutes nos préoccupations à Dieu avec un cœur reconnaissant. C'est en faisant cela que nous recevons un don incroyable: la paix de Dieu, une paix qui dépasse notre compréhension. Cette paix n'est pas l'absence de problèmes, mais une sérénité intérieure qui nous garde et nous protège, nous permettant de faire face à tout ce qui se présente avec confiance et sérénité. C'est un fruit de l'Esprit qui ne peut venir que de Dieu.",
-          "para_meditar": [
-            {
-              "cita": "Matthieu 6:34",
-              "texto": "Ne vous inquiétez donc pas du lendemain; car le lendemain aura soin de lui-même. À chaque jour suffit sa peine."
-            },
-            {
-              "cita": "1 Pierre 5:7",
-              "texto": "et déchargez-vous sur lui de tous vos soucis, car lui-même prend soin de vous."
-            }
-          ],
-          "oracion": "Seigneur, je te confie toutes mes inquiétudes. Je choisis de remplacer mon anxiété par la prière et la gratitude. Je te demande de me donner ta paix, qui dépasse toute intelligence, et qui gardera mon cœur et mes pensées en Jésus-Christ. Amen.",
-          "tags": [
-            "Prière",
-            "Paix"
-          ]
-        }
-      ],
-      "2025-08-31": [
-        {
-          "id": "jean14_6_LSG1910",
-          "date": "2025-08-31",
-          "language": "fr",
-          "version": "LSG1910",
-          "versiculo": "Jean 14:6 LSG1910: \"Jésus lui dit: Je suis le chemin, la vérité, et la vie. Nul ne vient au Père que par moi.\"",
-          "reflexion": "Dans un monde où l'on cherche la vérité de différentes manières, Jésus fait une déclaration audacieuse et exclusive. Il ne nous dit pas qu'il est l'un des chemins, mais le seul. Il n'est pas seulement un enseignant de la vérité, mais la vérité incarnée. Il n'est pas seulement celui qui donne la vie, mais la source de toute vie. Ce verset nous rappelle que notre relation avec le Père ne peut se faire que par Jésus-Christ. C'est un appel à le suivre, à vivre dans sa vérité et à embrasser la vie éternelle qu'il nous a promise.",
-          "para_meditar": [
-            {
-              "cita": "Actes 4:12",
-              "texto": "Il n'y a de salut en aucun autre; car il n'y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous devions être sauvés."
-            },
-            {
-              "cita": "1 Jean 5:11-12",
-              "texto": "Et voici ce témoignage, c'est que Dieu nous a donné la vie éternelle, et que cette vie est dans son Fils. Celui qui a le Fils a la vie; celui qui n'a pas le Fils de Dieu n'a pas la vie."
-            }
-          ],
-          "oracion": "Seigneur Jésus, je te remercie d'être le chemin, la vérité et la vie. Aide-moi à marcher fidèlement sur ton chemin et à vivre dans ta vérité. Que je ne cherche jamais à te contourner, car je sais que tu es mon seul espoir de salut. Amen.",
-          "tags": [
-            "Jésus",
-            "Salut"
-          ]
-        }
-      ]
     }
-  }
 }
