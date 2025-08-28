@@ -7,9 +7,9 @@
                     "date": "2025-08-26",
                     "language": "en",
                     "version": "KJV",
-                    "versiculo": "1 John 5:3 KJV: \"For this is the love of God, that we keep his commandments: and his commandments are not grievous.\"",
-                    "reflexion": "Today's verse speaks to the very heart of the Christian life: obedience born of love. John tells us that loving God is intrinsically linked to keeping His commandments. This isn't about a grudging adherence to a list of rules, but rather a joyful response to the overwhelming love God has shown us through Jesus Christ. The beauty of this verse lies in the promise that God's commandments are 'not grievous.' They are not a heavy burden designed to weigh us down. Instead, they are a pathway to life, a framework for living in harmony with God and with each other. When we truly love God, we desire to please Him. We find delight in following His instructions because we understand they are for our good and for the glory of His name. This love transforms obedience from a duty into a privilege. It softens our hearts, making us more receptive to the Holy Spirit's guidance and empowering us to live a life that reflects Christ's love. The challenges of life may still come, but armed with this love, and a heart set on obedience, we find strength and peace, knowing we are walking in step with the One who loves us most.",
-                    "para_meditar": [
+                    "verse": "1 John 5:3 KJV: \"For this is the love of God, that we keep his commandments: and his commandments are not grievous.\"",
+                    "reflection": "Today's verse speaks to the very heart of the Christian life: obedience born of love. John tells us that loving God is intrinsically linked to keeping His commandments. This isn't about a grudging adherence to a list of rules, but rather a joyful response to the overwhelming love God has shown us through Jesus Christ. The beauty of this verse lies in the promise that God's commandments are 'not grievous.' They are not a heavy burden designed to weigh us down. Instead, they are a pathway to life, a framework for living in harmony with God and with each other. When we truly love God, we desire to please Him. We find delight in following His instructions because we understand they are for our good and for the glory of His name. This love transforms obedience from a duty into a privilege. It softens our hearts, making us more receptive to the Holy Spirit's guidance and empowering us to live a life that reflects Christ's love. The challenges of life may still come, but armed with this love, and a heart set on obedience, we find strength and peace, knowing we are walking in step with the One who loves us most.",
+                    "to_meditate": [
                         {
                             "cita": "John 14:15",
                             "texto": "If ye love me, keep my commandments."
@@ -23,7 +23,7 @@
                             "texto": "Love worketh no ill to his neighbour: therefore love is the fulfilling of the law."
                         }
                     ],
-                    "oracion": "Heavenly Father, thank You for Your boundless love, a love that surpasses all understanding. Help us to understand the depth of Your love, that it may overflow in our hearts and inspire us to obedience. Give us a heart that yearns to please You, a heart that finds joy in keeping Your commandments. Grant us the strength to resist the temptations that pull us away from Your will, and fill us with the Holy Spirit to guide us in all our ways. May we always remember that Your commandments are not a burden but a blessing, leading us to a life of fullness and peace. Help us to live each day as a testament to Your love, and to share that love with others. We ask all these things, in the name of Jesus, amen.",
+                    "prayer": "Heavenly Father, thank You for Your boundless love, a love that surpasses all understanding. Help us to understand the depth of Your love, that it may overflow in our hearts and inspire us to obedience. Give us a heart that yearns to please You, a heart that finds joy in keeping Your commandments. Grant us the strength to resist the temptations that pull us away from Your will, and fill us with the Holy Spirit to guide us in all our ways. May we always remember that Your commandments are not a burden but a blessing, leading us to a life of fullness and peace. Help us to live each day as a testament to Your love, and to share that love with others. We ask all these things, in the name of Jesus, amen.",
                     "tags": [
                         "Love",
                         "Obedience"
@@ -7371,4 +7371,5 @@
     }
 
 }
+
 
