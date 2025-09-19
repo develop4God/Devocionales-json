@@ -1,14 +1,37 @@
 {
   "version": "1.0",
   "lastUpdated": "2024-12-19",
-  "badges": [
+ y habitó entre nosotros",
+      "reference": "Juan 1:14",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_bible_wine.jpg",
+      "minDonation": 1
+    },
     {
-      "id": "shield",
-      "name": "Protector Fiel",
-      "verse": "Mas el Señor es fiel, que os afirmará y guardará del mal",
-      "reference": "2 Tesalonicenses 3:3",
-      "imageUrl": "https://raw.githubusercontent.com/develop4God/Devocionales-json/main/badges/images/badge_shield.jpg",
-      "minDonation": 5
+      "id": "peace",
+      "name": "Portador de Paz",
+      "description": "Badge de la paz divina",
+      "verse": "La paz os dejo, mi paz os doy; no como el mundo la da",
+      "reference": "Juan 14:27",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_peace.jpg",
+      "minDonation": 1
+    },
+    {
+      "id": "mountain",
+      "name": "Fe que Mueve Montañas",
+      "description": "Badge de fe inquebrantable",
+      "verse": "Si tuvieres fe como un grano de mostaza, diréis a este monte: Pásate de aquí allá",
+      "reference": "Mateo 17:20",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_montain.jpg",
+      "minDonation": 1
+    },
+    {
+      "id": "lighthouse",
+      "name": "Luz del Mundo",
+      "description": "Badge de guía espiritual",
+      "verse": "Yo soy la luz del mundo; el que me sigue no andará en tinieblas",
+      "reference": "Juan 8:12",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_lighthouse.jpg",
+      "minDonation": 1
     }
   ]
 }
