@@ -1,10 +1,38 @@
 {
   "version": "1.0",
   "lastUpdated": "2024-12-19",
- y habitó entre nosotros",
+  "badges": [
+    {
+      "id": "shield",
+      "name": "Protector Fiel",
+      "description": "Badge de protección divina",
+      "verse": "Mas el Señor es fiel, que os afirmará y guardará del mal",
+      "reference": "2 Tesalonicenses 3:3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_shield.jpg"
+    },
+    {
+      "id": "sea_miracle",
+      "name": "Testigo del Mar Rojo",
+      "description": "Badge del milagro del Mar Rojo",
+      "verse": "Por la fe pasaron el Mar Rojo como por tierra seca",
+      "reference": "Hebreos 11:29",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_sea_miracle.jpg"
+    },
+    {
+      "id": "bible_green",
+      "name": "Guardián de la Palabra",
+      "description": "Badge del estudio bíblico",
+      "verse": "En el principio era el Verbo, y el Verbo era con Dios",
+      "reference": "Juan 1:1",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/Badge_bible_green.jpg"
+    },
+    {
+      "id": "bible_wine",
+      "name": "Discípulo del Verbo",
+      "description": "Badge de discipulado",
+      "verse": "Y el Verbo fue hecho carne, y habitó entre nosotros",
       "reference": "Juan 1:14",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_bible_wine.jpg",
-      "minDonation": 1
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_bible_wine.jpg"
     },
     {
       "id": "peace",
@@ -12,8 +40,7 @@
       "description": "Badge de la paz divina",
       "verse": "La paz os dejo, mi paz os doy; no como el mundo la da",
       "reference": "Juan 14:27",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_peace.jpg",
-      "minDonation": 1
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_peace.jpg"
     },
     {
       "id": "mountain",
@@ -21,8 +48,7 @@
       "description": "Badge de fe inquebrantable",
       "verse": "Si tuvieres fe como un grano de mostaza, diréis a este monte: Pásate de aquí allá",
       "reference": "Mateo 17:20",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_montain.jpg",
-      "minDonation": 1
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_montain.jpg"
     },
     {
       "id": "lighthouse",
@@ -30,8 +56,7 @@
       "description": "Badge de guía espiritual",
       "verse": "Yo soy la luz del mundo; el que me sigue no andará en tinieblas",
       "reference": "Juan 8:12",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_lighthouse.jpg",
-      "minDonation": 1
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_lighthouse.jpg"
     }
   ]
 }
