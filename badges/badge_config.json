@@ -1,1 +1,14 @@
-
+{
+  "version": "1.0",
+  "lastUpdated": "2024-12-19",
+  "badges": [
+    {
+      "id": "shield",
+      "name": "Protector Fiel",
+      "verse": "Mas el Señor es fiel, que os afirmará y guardará del mal",
+      "reference": "2 Tesalonicenses 3:3",
+      "imageUrl": "https://raw.githubusercontent.com/develop4God/Devocionales-json/main/badges/images/badge_shield.jpg",
+      "minDonation": 5
+    }
+  ]
+}
