@@ -24,7 +24,7 @@
       "description": "Badge del estudio bíblico",
       "verse": "En el principio era el Verbo, y el Verbo era con Dios",
       "reference": "Juan 1:1",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/Badge_bible_green.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_bible_green.jpg"
     },
     {
       "id": "bible_wine",
@@ -48,7 +48,7 @@
       "description": "Badge de fe inquebrantable",
       "verse": "Si tuvieres fe como un grano de mostaza, diréis a este monte: Pásate de aquí allá",
       "reference": "Mateo 17:20",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_montain.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/develop4God/Devocionales-json/badges/images/badge_mountain.jpg"
     },
     {
       "id": "lighthouse",
