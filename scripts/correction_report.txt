@@ -1,0 +1,1388 @@
+================================================================================
+DEVOTIONAL JSON CORRECTION TOOL
+================================================================================
+
+Correcting: Devocional_year_2025_es_NVI.json
+
+================================================================================
+Correction Report: Devocional_year_2025_es_NVI.json
+================================================================================
+Total entries: 365
+Corrected entries: 365
+Unchanged entries: 0
+
+Corrections made: 365
+--------------------------------------------------------------------------------
+
+Date: 2025-08-27
+Entry ID: 1tesalonicenses511NVI20250827
+Original: ...manera desinteresada.  Ayúdame a ser un ejemplo de amor y unidad en la iglesia, para que otros puedan ser atraídos a ti.  En el nombre de Jesús, amén.
+Corrected: ... manera desinteresada.  Ayúdame a ser un ejemplo de amor y unidad en la iglesia, para que otros puedan ser atraídos a ti. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2025-08-28
+Entry ID: 1juan520NVI20250828
+Original: ... uses para ser luz y sal en este mundo. Gracias por tu amor incondicional y por la esperanza que tenemos en Cristo Jesús, en el nombre de Jesús, amén.
+Corrected: ... uses para ser luz y sal en este mundo. Gracias por tu amor incondicional y por la esperanza que tenemos en Cristo Jesús, En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2025-08-29
+Entry ID: 1juan419NVI20250829
+Original: ...or que tú me has amado. Guíame en este camino de amor y muéstrame cómo amarte y amar a mi prójimo de manera más efectiva. En el nombre de Jesús, amén.
+Corrected: ...or que tú me has amado. Guíame en este camino de amor y muéstrame cómo amarte y amar a mi prójimo de manera más efectiva. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2025-08-30
+Entry ID: colosenses323NVI20250830
+Original: ...imonio de mi fe y un ejemplo para otros. Te entrego mis planes y proyectos, confiando en que tú los bendecirás y guiarás. En el nombre de Jesús, amén.
+Corrected: ...imonio de mi fe y un ejemplo para otros. Te entrego mis planes y proyectos, confiando en que tú los bendecirás y guiarás. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2025-08-31
+Entry ID: apocalipsis19_11_NVI
+Original: ...Hijo regresar.  Te pedimos que nos llenes de tu Espíritu Santo para que podamos ser testigos de tu gracia en este mundo.  En el nombre de Jesús, amén.
+Corrected: ... Hijo regresar.  Te pedimos que nos llenes de tu Espíritu Santo para que podamos ser testigos de tu gracia en este mundo. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2025-09-01
+Entry ID: juan635NVI20250901
+Original: ...y por la oportunidad de tener una relación íntima contigo. Te alabo y te glorifico por ser mi fuente de vida y esperanza. En el nombre de Jesús, amén.
+Corrected: ...y por la oportunidad de tener una relación íntima contigo. Te alabo y te glorifico por ser mi fuente de vida y esperanza. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2025-09-02
+Entry ID: filipenses4v13NVI20250902
+Original: ...conmigo. Fortaléceme para amar a los demás, perdonar a quienes me ofenden y ser un testimonio de tu amor en todo momento. En el nombre de Jesús, amén.
+Corrected: ...conmigo. Fortaléceme para amar a los demás, perdonar a quienes me ofenden y ser un testimonio de tu amor en todo momento. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2025-09-03
+Entry ID: romanos120NVI20250903
+Original: ...bediencia. Dame la sabiduría para comprender la profundidad de tu amor y la humildad para reconocer mi dependencia de ti, en el nombre de Jesús, amén.
+Corrected: ...bediencia. Dame la sabiduría para comprender la profundidad de tu amor y la humildad para reconocer mi dependencia de ti, En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2025-09-04
+Entry ID: 1juan5v3NVI20250904
+Original: ...reflejo de tu amor y un testimonio de tu fidelidad. Te pido que me ayudes a amar tu Palabra y a atesorarla en mi corazón. En el nombre de Jesús, amén.
+Corrected: ...reflejo de tu amor y un testimonio de tu fidelidad. Te pido que me ayudes a amar tu Palabra y a atesorarla en mi corazón. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2025-09-05
+Entry ID: 1juan4910NVI20250905
+Original: ...r sea la base de todas nuestras acciones y decisiones. Que tu Espíritu Santo nos llene y nos capacite para amar y servir. En el nombre de Jesús, amén.
+Corrected: ...r sea la base de todas nuestras acciones y decisiones. Que tu Espíritu Santo nos llene y nos capacite para amar y servir. En el nombre de Jesús, amén.
+----------------------------------------
+
+... and 355 more corrections
+
+Correcting: Devocional_year_2025_en_NIV.json
+
+================================================================================
+Correction Report: Devocional_year_2025_en_NIV.json
+================================================================================
+Total entries: 365
+Corrected entries: 365
+Unchanged entries: 0
+
+Corrections made: 365
+--------------------------------------------------------------------------------
+
+Date: 2025-09-03
+Entry ID: luke532EN-NIV20250903
+Original: ...o you. Empower me to embrace the transformative power of repentance, allowing it to shape my thoughts, words, and actions. In the name of Jesus, amen.
+Corrected: ...o you. Empower me to embrace the transformative power of repentance, allowing it to shape my thoughts, words, and actions. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-09-04
+Entry ID: john1633NIV20250904
+Original: ...moments, You are my light and my salvation. Help me to rely on Your promise of victory, knowing that You have already won. In the name of Jesus, amen.
+Corrected: ...moments, You are my light and my salvation. Help me to rely on Your promise of victory, knowing that You have already won. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-09-05
+Entry ID: 1john412NIV20250905
+Original: ... me to love as Jesus loved, making your love visible in my life. I pray that I may be a true reflection of Your character. In the name of Jesus, amen.
+Corrected: ... me to love as Jesus loved, making your love visible in my life. I pray that I may be a true reflection of Your character. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-09-06
+Entry ID: james219NIV20250906
+Original: ...d commitment to follow Your will. Help me to not just believe, but to truly love and serve You in every aspect of my life, in the name of Jesus, amen.
+Corrected: ...d commitment to follow Your will. Help me to not just believe, but to truly love and serve You in every aspect of my life, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-09-07
+Entry ID: mark935NIV20250907
+Original: ...may serve with a genuine and loving heart. May I strive to be the very last, and the servant of all, just as Jesus taught. in the name of Jesus, amen.
+Corrected: ...may serve with a genuine and loving heart. May I strive to be the very last, and the servant of all, just as Jesus taught. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-09-08
+Entry ID: 1Timothy617-19EN-NIV20250908
+Original: ... and grace to the world. Fill me with a desire to serve others and to lay up treasures in heaven. I pray all these things, in the name of Jesus, amen.
+Corrected: ... and grace to the world. Fill me with a desire to serve others and to lay up treasures in heaven. I pray all these things, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-09-09
+Entry ID: mark1539EN_NIV20250909
+Original: ...ke for granted the price that was paid for our salvation. Guide us and strengthen us to live in accordance with your will, in the name of Jesus, amen.
+Corrected: ...ke for granted the price that was paid for our salvation. Guide us and strengthen us to live in accordance with your will, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-09-10
+Entry ID: romanos15v4NIV20250910
+Original: ...king all things together for my good. I pray that I may grow in faith, hope, and love, reflecting Your light to the world, in the name of Jesus, amen.
+Corrected: ...king all things together for my good. I pray that I may grow in faith, hope, and love, reflecting Your light to the world, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-09-11
+Entry ID: 1Corinthians3v11NIV20250911
+Original: ...deeper understanding of Your will and a stronger commitment to building our lives on the solid foundation of Jesus Christ, in the name of Jesus, amen.
+Corrected: ...deeper understanding of Your will and a stronger commitment to building our lives on the solid foundation of Jesus Christ, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-09-12
+Entry ID: jude12425EN-NIV20250912
+Original: ... goodness and mercy. We give you glory, majesty, power, and authority, through Jesus Christ our Lord, now and forevermore, in the name of Jesus, amen.
+Corrected: ... goodness and mercy. We give you glory, majesty, power, and authority, through Jesus Christ our Lord, now and forevermore, In the name of Jesus, amen.
+----------------------------------------
+
+... and 355 more corrections
+
+Correcting: Devocional_year_2025_en_KJV.json
+
+================================================================================
+Correction Report: Devocional_year_2025_en_KJV.json
+================================================================================
+Total entries: 365
+Corrected entries: 364
+Unchanged entries: 1
+
+Corrections made: 364
+--------------------------------------------------------------------------------
+
+Date: 2025-08-01
+Entry ID: john15v5KJV20250801
+Original: ...nal value. Guide us to live in constant communion with You, walking in obedience to Your Word and empowered by Your grace, in the name of Jesus, amen.
+Corrected: ...nal value. Guide us to live in constant communion with You, walking in obedience to Your Word and empowered by Your grace, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-08-02
+Entry ID: philippians25KJV20250802
+Original: ...forgive, and to live a life that honors you. I pray for the grace to grow daily in my faith and to become more like Jesus. In the name of Jesus, amen.
+Corrected: ...forgive, and to live a life that honors you. I pray for the grace to grow daily in my faith and to become more like Jesus. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-08-03
+Entry ID: romanos91516KJV20250803
+Original: ...them to the source of true mercy and compassion. Give us the wisdom to live a life worthy of the calling we have received, in the name of Jesus, amen.
+Corrected: ...them to the source of true mercy and compassion. Give us the wisdom to live a life worthy of the calling we have received, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-08-04
+Entry ID: 2Peter1_3-4_KJV_20250804
+Original: ...es of life with faith and trust in Your provision. We surrender our lives to You and pray for Your guidance in all things, in the name of Jesus, amen.
+Corrected: ...es of life with faith and trust in Your provision. We surrender our lives to You and pray for Your guidance in all things, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-08-05
+Entry ID: ephesians52527KJV20250805
+Original: ...oved us. Guide us to live a life that honors You in every aspect. Give us the grace to forgive and to seek reconciliation. In the name of Jesus, amen.
+Corrected: ...oved us. Guide us to live a life that honors You in every aspect. Give us the grace to forgive and to seek reconciliation. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-08-06
+Entry ID: phil234KJV20250806
+Original: ...ling us to act with humility, kindness, and a genuine desire to serve, so that we may build up your kingdom here on earth, in the name of Jesus, amen.
+Corrected: ...ling us to act with humility, kindness, and a genuine desire to serve, so that we may build up your kingdom here on earth, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-08-07
+Entry ID: Col4v2KJV20250807
+Original: ... thanksgiving. Strengthen me to remain steadfast in my faith and to trust in Your perfect plan for my life. I ask all this in the name of Jesus, amen.
+Corrected: ...thanksgiving. Strengthen me to remain steadfast in my faith and to trust in Your perfect plan for my life. I ask all this, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-08-08
+Entry ID: romans11kjv20250808
+Original: ...ry, and may we always remember that all things are from You, through You, and to You. We give You all the glory and honor, in the name of Jesus, amen.
+Corrected: ...ry, and may we always remember that all things are from You, through You, and to You. We give You all the glory and honor, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-08-09
+Entry ID: gal6v9KJV20250809
+Original: ...he promise of a future reward. We pray for the strength to resist the temptation to give up and to trust in your guidance. In the name of Jesus, amen.
+Corrected: ...he promise of a future reward. We pray for the strength to resist the temptation to give up and to trust in your guidance. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2025-08-10
+Entry ID: john812KJV20250810
+Original: ... and help us to live lives worthy of Your calling. May we always seek Your light and find our ultimate fulfillment in You, in the name of Jesus, amen.
+Corrected: ... and help us to live lives worthy of Your calling. May we always seek Your light and find our ultimate fulfillment in You, In the name of Jesus, amen.
+----------------------------------------
+
+... and 354 more corrections
+
+Correcting: Devocional_year_2025_pt_ARC.json
+
+================================================================================
+Correction Report: Devocional_year_2025_pt_ARC.json
+================================================================================
+Total entries: 365
+Corrected entries: 30
+Unchanged entries: 335
+
+Corrections made: 30
+--------------------------------------------------------------------------------
+
+Date: 2025-08-28
+Entry ID: 2cor6v14ARC20250828
+Original: ... redor, sem comprometer meus princípios. Renova minha mente e meu coração para que eu possa viver em obediência à Tua Palavra, em nome de Jesus, amém.
+Corrected: ... redor, sem comprometer meus princípios. Renova minha mente e meu coração para que eu possa viver em obediência à Tua Palavra, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-09-10
+Entry ID: atos133839ARC20250910
+Original: ... a Ti, reconhecendo que tudo que tenho e sou vem de Ti. Ajuda-me a confiar em Ti em todas as circunstâncias e a viver pela fé. Em nome de Jesus, amém.
+Corrected: ... a Ti, reconhecendo que tudo que tenho e sou vem de Ti. Ajuda-me a confiar em Ti em todas as circunstâncias e a viver pela fé. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-09-16
+Entry ID: hebreus21415PTARC20250916
+Original: ...e nos cercam, levando esperança e consolo. Em tua poderosa graça, pedimos que nos fortaleças e nos guies em todos os momentos. Em nome de Jesus, amém.
+Corrected: ...e nos cercam, levando esperança e consolo. Em tua poderosa graça, pedimos que nos fortaleças e nos guies em todos os momentos. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-10-02
+Entry ID: tito211-14ARC
+Original: ...ando meus passos e inspirando minhas ações. Que eu possa viver de maneira que Te agrade, honrando Teu nome em tudo o que faço. Em nome de Jesus, amém.
+Corrected: ...ando meus passos e inspirando minhas ações. Que eu possa viver de maneira que Te agrade, honrando Teu nome em tudo o que faço. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-11-09
+Entry ID: mateus419ARC20251109
+Original: ...ue encontrar. Fortalece-me em cada dia, para que eu possa caminhar em Teus caminhos e cumprir o propósito que tens para mim, em Teu nome, Jesus, amén.
+Corrected: ... que encontrar. Fortalece-me em cada dia, para que eu possa caminhar em Teus caminhos e cumprir o propósito que tens para mim, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-12-24
+Entry ID: 2Pedro1v34ARC20251224
+Original: ...dor. Que possamos ser testemunhas fiéis do Teu amor e da Tua salvação, e que a alegria do Natal encha nossos corações e lares. Em nome de Jesus, amém.
+Corrected: ...dor. Que possamos ser testemunhas fiéis do Teu amor e da Tua salvação, e que a alegria do Natal encha nossos corações e lares. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-12-30
+Entry ID: pedro189ARC
+Original: ...a-me a perseverar, confiando em Tuas promessas e vivendo uma vida que Te honre. Em Tua presença, encontro a paz e a esperança. Em nome de Jesus, amém.
+Corrected: ...a-me a perseverar, confiando em Tuas promessas e vivendo uma vida que Te honre. Em Tua presença, encontro a paz e a esperança. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-01-07
+Entry ID: hebreus1317ARC
+Original: ...por Ti e pela Tua igreja. Em especial, peço por sabedoria e discernimento para reconhecer a Tua voz e seguir os Teus caminhos, em nome de Jesus, amém.
+Corrected: ...por Ti e pela Tua igreja. Em especial, peço por sabedoria e discernimento para reconhecer a Tua voz e seguir os Teus caminhos, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-01-24
+Entry ID: 2Timoteo317ARC
+Original: ...Que eu possa ser um reflexo de Teu amor e graça para o mundo. Em cada decisão, que eu busque a Tua orientação e a Tua vontade. Em nome de Jesus, amém.
+Corrected: ...Que eu possa ser um reflexo de Teu amor e graça para o mundo. Em cada decisão, que eu busque a Tua orientação e a Tua vontade. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-01-25
+Entry ID: 1pedro5_5-6ARC20260125
+Original: ...fúgio e a minha fortaleza. Que eu possa viver uma vida que te agrada, buscando sempre a Tua vontade e glorificando o Teu nome. Em nome de Jesus, amém.
+Corrected: ...fúgio e a minha fortaleza. Que eu possa viver uma vida que te agrada, buscando sempre a Tua vontade e glorificando o Teu nome. Em nome de Jesus, amém.
+----------------------------------------
+
+... and 20 more corrections
+
+Correcting: Devocional_year_2025_pt_NVI.json
+
+================================================================================
+Correction Report: Devocional_year_2025_pt_NVI.json
+================================================================================
+Total entries: 365
+Corrected entries: 39
+Unchanged entries: 326
+
+Corrections made: 39
+--------------------------------------------------------------------------------
+
+Date: 2025-08-05
+Entry ID: 1cor311PTNVI20250805
+Original: ...a encontrar a segurança e a paz que só Jesus oferece. Renovo meu compromisso de amar, servir e honrar a Ti em tudo o que faço, em nome de Jesus, amém.
+Corrected: ...a encontrar a segurança e a paz que só Jesus oferece. Renovo meu compromisso de amar, servir e honrar a Ti em tudo o que faço, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-08-15
+Entry ID: 1Pedro2_9-10_PTNVI
+Original: ...te do Teu amor e poder. Que a nossa luz brilhe diante dos homens, para que eles vejam as nossas boas obras e glorifiquem a Ti. Em nome de Jesus, amém.
+Corrected: ...te do Teu amor e poder. Que a nossa luz brilhe diante dos homens, para que eles vejam as nossas boas obras e glorifiquem a Ti. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-08-25
+Entry ID: romanos11_33_36PTNVI
+Original: ...rania e glória em todas as coisas. Guia meus passos e fortalece minha fé, para que eu possa viver de acordo com a Tua vontade. Em nome de Jesus, amém.
+Corrected: ...rania e glória em todas as coisas. Guia meus passos e fortalece minha fé, para que eu possa viver de acordo com a Tua vontade. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-08-27
+Entry ID: colossenses2_8_PTNVI
+Original: ...r a Tua boa, agradável e perfeita vontade. Capacita-nos a viver uma vida que Te honre e que reflita o Teu amor e a Tua graça. Em Jesus, pedimos, amém.
+Corrected: ...ar a Tua boa, agradável e perfeita vontade. Capacita-nos a viver uma vida que Te honre e que reflita o Teu amor e a Tua graça. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-08-29
+Entry ID: rom5v8PTNVI
+Original: ...e serviço e obediência. Concede-nos a sabedoria para reconhecer o Teu amor em cada momento e a força para caminhar na Tua luz, em nome de Jesus, amém.
+Corrected: ...e serviço e obediência. Concede-nos a sabedoria para reconhecer o Teu amor em cada momento e a força para caminhar na Tua luz, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-08-30
+Entry ID: 2Timoteo317PTNVI
+Original: ...o meu coração. Em cada desafio, que eu encontre força e direção em Ti, e que a Tua presença me guie em todos os meus caminhos. Em nome de Jesus, amém.
+Corrected: ...o meu coração. Em cada desafio, que eu encontre força e direção em Ti, e que a Tua presença me guie em todos os meus caminhos. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-09-03
+Entry ID: romanos12v12PTNVI
+Original: ...e honre e glorifique. Fortalece a minha fé e a minha esperança, para que eu possa testemunhar o Teu amor a todos ao meu redor, em nome de Jesus, amém.
+Corrected: ...e honre e glorifique. Fortalece a minha fé e a minha esperança, para que eu possa testemunhar o Teu amor a todos ao meu redor, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-09-10
+Entry ID: atos21-4PTNVI20250910
+Original: ...e a Tua presença seja sentida em cada momento do meu dia, e que eu possa ser um instrumento do Teu amor e da Tua graça. Em Cristo Jesus, eu oro, amén.
+Corrected: ...ade. Que a Tua presença seja sentida em cada momento do meu dia, e que eu possa ser um instrumento do Teu amor e da Tua graça. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-09-23
+Entry ID: romanos6v4PTNVI
+Original: ...rreição seja a fonte da minha esperança e força diária. Guia-me em cada passo, para que eu possa viver uma vida que te agrade. Em nome de Jesus, amém.
+Corrected: ...rreição seja a fonte da minha esperança e força diária. Guia-me em cada passo, para que eu possa viver uma vida que te agrade. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2025-10-17
+Entry ID: 1Tessalonicenses4_3-5PTNVI
+Original: ...s e a sabedoria para tomar decisões que te glorifiquem. Que possamos ser luz no mundo, testemunhando o Teu amor e a Tua graça. Em nome de Jesus, amém.
+Corrected: ...s e a sabedoria para tomar decisões que te glorifiquem. Que possamos ser luz no mundo, testemunhando o Teu amor e a Tua graça. Em nome de Jesus, amém.
+----------------------------------------
+
+... and 29 more corrections
+
+Correcting: Devocional_year_2025_fr_TOB.json
+
+================================================================================
+Correction Report: Devocional_year_2025_fr_TOB.json
+================================================================================
+Total entries: 364
+Corrected entries: 123
+Unchanged entries: 241
+
+Corrections made: 123
+--------------------------------------------------------------------------------
+
+Date: 2025-08-29
+Entry ID: rom831TOB20250829
+Original: ...tection et la bénédiction sur nos vies, nos familles et nos communautés. Que ta volonté soit faite, et que ton règne vienne. en le nom de Jésus, amén.
+Corrected: ...protection et la bénédiction sur nos vies, nos familles et nos communautés. Que ta volonté soit faite, et que ton règne vienne. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-08-31
+Entry ID: 1Thess4_3-5FRTOB20250831
+Original: ...ur au monde.  Nous te le demandons, en reconnaissant notre dépendance de Toi, en nous souvenant que nous sommes Tes enfants, en le nom de Jésus, amén.
+Corrected: ...amour au monde.  Nous te le demandons, en reconnaissant notre dépendance de Toi, en nous souvenant que nous sommes Tes enfants, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-03
+Entry ID: jean319FRTOB20250903
+Original: ...isir toujours de suivre ta volonté. Accorde-nous la grâce de persévérer dans la foi et de rester ferme dans la vérité. Amen, en le nom de Jésus, amén.
+Corrected: ...choisir toujours de suivre ta volonté. Accorde-nous la grâce de persévérer dans la foi et de rester ferme dans la vérité. Amen, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-04
+Entry ID: ap316FRTOB20250904
+Original: ...une vie qui Te glorifie en tout temps,  en me rappelant que Tu es digne de toute mon adoration et de tout mon engagement.  Dans le nom de Jésus, amen.
+Corrected: ...vivre une vie qui Te glorifie en tout temps,  en me rappelant que Tu es digne de toute mon adoration et de tout mon engagement. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-08
+Entry ID: 1Tim6v12FRTOB20250908
+Original: ...de Jésus-Christ. Guide nos pas sur le chemin de la foi et de la vérité, afin que nous puissions achever la course avec joie. en le nom de Jésus, amén.
+Corrected: ...le de Jésus-Christ. Guide nos pas sur le chemin de la foi et de la vérité, afin que nous puissions achever la course avec joie. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-12
+Entry ID: Matthieu13_3-9_FR-TOB
+Original: ... amour. Accorde-moi la persévérance dans la foi, afin que je puisse supporter les épreuves et rester ferme dans ta vérité. Dans le nom de Jésus, amen.
+Corrected: ...e ton amour. Accorde-moi la persévérance dans la foi, afin que je puisse supporter les épreuves et rester ferme dans ta vérité. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-13
+Entry ID: jean2029FRTOB20250913
+Original: ... que nous puissions témoigner de ta grâce et de ta fidélité. Nous t'adorons et te remercions pour ton amour incommensurable, en le nom de Jésus, amén.
+Corrected: ...fin que nous puissions témoigner de ta grâce et de ta fidélité. Nous t'adorons et te remercions pour ton amour incommensurable, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-18
+Entry ID: rom323FRTOB20250918
+Original: ...struments de ta paix et de ton amour dans ce monde.  Nous te demandons de nous pardonner et de nous renouveler chaque jour.  en le nom de Jésus, amén.
+Corrected: ...s instruments de ta paix et de ton amour dans ce monde.  Nous te demandons de nous pardonner et de nous renouveler chaque jour. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-21
+Entry ID: juan112FRTOB
+Original: ...ment la joie et la paix qui découlent de mon appartenance à ta famille. Guide mes pas et protège-moi tout au long de ma vie. en le nom de Jésus, amén.
+Corrected: ...inement la joie et la paix qui découlent de mon appartenance à ta famille. Guide mes pas et protège-moi tout au long de ma vie. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-23
+Entry ID: Matthieu16_24-26_FR-TOB
+Original: ...ux difficultés. Je te prie pour que je puisse vivre pleinement, selon ta volonté, en te glorifiant dans tout ce que je fais. en le nom de Jésus, amén.
+Corrected: ...e aux difficultés. Je te prie pour que je puisse vivre pleinement, selon ta volonté, en te glorifiant dans tout ce que je fais. Au nom de Jésus, amen.
+----------------------------------------
+
+... and 113 more corrections
+
+Correcting: Devocional_year_2025_fr_LSG1910.json
+
+================================================================================
+Correction Report: Devocional_year_2025_fr_LSG1910.json
+================================================================================
+Total entries: 364
+Corrected entries: 110
+Unchanged entries: 254
+
+Corrections made: 110
+--------------------------------------------------------------------------------
+
+Date: 2025-08-28
+Entry ID: 3jean1v4LSG1910
+Original: ...er ce qui est éternel et à rechercher la vérité en toutes choses. Nous te remercions pour ton amour infini et pour ta grâce. en le nom de Jésus, amén.
+Corrected: ...riser ce qui est éternel et à rechercher la vérité en toutes choses. Nous te remercions pour ton amour infini et pour ta grâce. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-03
+Entry ID: 1Tim1v15-16LSG1910_20250903
+Original: ... à croire en Jésus pour la vie éternelle. Guide-nous chaque jour sur le chemin de la foi, et remplis nos cœurs de ton amour. en le nom de Jésus, amén.
+Corrected: ...ger à croire en Jésus pour la vie éternelle. Guide-nous chaque jour sur le chemin de la foi, et remplis nos cœurs de ton amour. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-04
+Entry ID: 1Jean4v18LSG1910
+Original: ...i encourage. Guide mes pas, et que ton amour soit la fondation de toutes mes actions. Je te remercie pour ton amour éternel, en le nom de Jésus, amén.
+Corrected: ... qui encourage. Guide mes pas, et que ton amour soit la fondation de toutes mes actions. Je te remercie pour ton amour éternel, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-08
+Entry ID: matthieu162426LSG1910
+Original: ...cœur désireux de t'obéir en tout.  Que je puisse toujours me souvenir que la vie éternelle est le plus précieux des trésors. en le nom de Jésus, amén.
+Corrected: ...un cœur désireux de t'obéir en tout.  Que je puisse toujours me souvenir que la vie éternelle est le plus précieux des trésors. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-14
+Entry ID: 1Tim6_6-8LSG1910_20250914
+Original: ...oie. Aide-moi à vivre une vie qui t'honore, en étant content de ce que j'ai, et en me concentrant sur ce qui est éternel. Amen, au nom de Jésus, amen.
+Corrected: ...oie. Aide-moi à vivre une vie qui t'honore, en étant content de ce que j'ai, et en me concentrant sur ce qui est éternel. Amen, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-15
+Entry ID: devocional20250915FR-LSG1910
+Original: ...vant toi, fais de nous des instruments de ta paix et de ta grâce. Nous t'adorons et te bénissons pour ta fidélité éternelle. en le nom de Jésus, amén.
+Corrected: ... devant toi, fais de nous des instruments de ta paix et de ta grâce. Nous t'adorons et te bénissons pour ta fidélité éternelle. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-21
+Entry ID: marc923LSG1910
+Original: ...ur que je puisse vivre une vie qui t'honore, remplie de foi et d'espérance, et que je puisse toujours témoigner de ta bonté. en le nom de Jésus, amén.
+Corrected: ... pour que je puisse vivre une vie qui t'honore, remplie de foi et d'espérance, et que je puisse toujours témoigner de ta bonté. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-22
+Entry ID: jean11LSG1910
+Original: ..., et renforce notre foi.  Nous te prions pour que ton règne vienne et que ta volonté soit faite sur la terre comme au ciel.  en le nom de Jésus, amén.
+Corrected: ...rité, et renforce notre foi.  Nous te prions pour que ton règne vienne et que ta volonté soit faite sur la terre comme au ciel. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-09-28
+Entry ID: ap316LSG1910
+Original: ...sprit. Guide-moi, Seigneur, sur le chemin de la foi et de l'obéissance, afin que je puisse t'honorer en tout ce que je fais. en le nom de Jésus, amén.
+Corrected: ...n Esprit. Guide-moi, Seigneur, sur le chemin de la foi et de l'obéissance, afin que je puisse t'honorer en tout ce que je fais. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2025-10-01
+Entry ID: philippiens31314LSG1910
+Original: ...ans ma foi. Remplis mon cœur de ton amour et de ta grâce, afin que je puisse persévérer jusqu'au bout. Je te prie pour cela, en le nom de Jésus, amén.
+Corrected: ...r dans ma foi. Remplis mon cœur de ton amour et de ta grâce, afin que je puisse persévérer jusqu'au bout. Je te prie pour cela, Au nom de Jésus, amen.
+----------------------------------------
+
+... and 100 more corrections
+
+Correcting: Devocional_year_2025_zh_和合本1919.json
+
+================================================================================
+Correction Report: Devocional_year_2025_zh_和合本1919.json
+================================================================================
+Total entries: 365
+Corrected entries: 0
+Unchanged entries: 365
+
+✓ No corrections needed!
+
+Correcting: Devocional_year_2025_zh_新译本.json
+
+================================================================================
+Correction Report: Devocional_year_2025_zh_新译本.json
+================================================================================
+Total entries: 365
+Corrected entries: 0
+Unchanged entries: 365
+
+✓ No corrections needed!
+
+Correcting: Devocional_year_2025_ja_新改訳2003.json
+
+================================================================================
+Correction Report: Devocional_year_2025_ja_新改訳2003.json
+================================================================================
+Total entries: 365
+Corrected entries: 360
+Unchanged entries: 5
+
+Corrections made: 360
+--------------------------------------------------------------------------------
+
+Date: 2025-08-01
+Entry ID: 新改訳2003-20250801
+Original: ...、主を信頼し、感謝の心で生きることができますように。主よ、私たちの心を清め、物質的なものへの執着から解放し、真の満足感を見出すことができますように。私たちの必要を満たし、私たちを導き、支えてくださる主の恵みに感謝します。この祈りを、私たちの救い主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...を信頼し、感謝の心で生きることができますように。主よ、私たちの心を清め、物質的なものへの執着から解放し、真の満足感を見出すことができますように。私たちの必要を満たし、私たちを導き、支えてくださる主の恵みに感謝します。この祈りを、私たちの救い主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-02
+Entry ID: 新改訳2003-20250802
+Original: ...てください。私たちが日々、あなたの愛を反映し、周りの人々に仕えることができるように導いてください。私たちの心と考えを聖霊で満たし、あなたの御言葉を理解し、実践する知恵を与えてください。あなたの恵みと導きを求め、私たちの人生をあなたの栄光のために捧げます。イエス様の御名によってお祈りします。アーメン。
+Corrected: ...私たちが日々、あなたの愛を反映し、周りの人々に仕えることができるように導いてください。私たちの心と考えを聖霊で満たし、あなたの御言葉を理解し、実践する知恵を与えてください。あなたの恵みと導きを求め、私たちの人生をあなたの栄光のために捧げます。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-03
+Entry ID: 新改訳2003-20250803
+Original: ...ために時間と労力を惜しまないことができますように。私たち自身の欲求よりも、家族の幸福を優先する知恵を与えてください。信仰を実践し、家族との関係を築き、神の愛を分かち合うことができますように。私たちの心を豊かにし、家族を神の愛で満たしてください。主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...に時間と労力を惜しまないことができますように。私たち自身の欲求よりも、家族の幸福を優先する知恵を与えてください。信仰を実践し、家族との関係を築き、神の愛を分かち合うことができますように。私たちの心を豊かにし、家族を神の愛で満たしてください。主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-04
+Entry ID: 新改訳2003-20250804
+Original: ...たの御前に、あなたの恵みを受け、あなたの愛と慈しみの中を歩むことができますように。私たちの心を開き、あなたの御言葉を受け入れ、あなたの愛を分かち合うことができますように。私たちの人生をあなたの栄光のために用い、あなたの御心を行えるように導いてください。イエス様のお名前によってお祈りします。アーメン。
+Corrected: ...、あなたの恵みを受け、あなたの愛と慈しみの中を歩むことができますように。私たちの心を開き、あなたの御言葉を受け入れ、あなたの愛を分かち合うことができますように。私たちの人生をあなたの栄光のために用い、あなたの御心を行えるように導いてください。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-05
+Entry ID: 新改訳2003-20250805
+Original: ...感謝します。主よ、私がこの福音を信じ、日々の生活の中で実践することができますように。困難な時にも、キリストの復活の希望を忘れず、前向きに進むことができますように。私の信仰を強め、あなたの御心に従って生きる力を与えてください。この祈りを、恵み深い主イエス・キリストの御名によってお捧げします。アーメン。
+Corrected: ...愛する天の父よ、今日の御言葉を通して、イエス・, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-06
+Entry ID: 新改訳2003-20250806
+Original: ...たの愛を具体的に実践できますように。私を自己中心的な思いから解放し、隣人を愛し、困っている人々に手を差し伸べる勇気を与えてください。あなたの御言葉に従い、あなたの御心を行うことを願います。私を通して、あなたの栄光が表されますように。この願いを、主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...愛を具体的に実践できますように。私を自己中心的な思いから解放し、隣人を愛し、困っている人々に手を差し伸べる勇気を与えてください。あなたの御言葉に従い、あなたの御心を行うことを願います。私を通して、あなたの栄光が表されますように。この願いを、主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-07
+Entry ID: 新改訳2003-20250807
+Original: ...ってあなたの御前に進むことができますように。困難な時にも、喜びの時にも、あなたとの交わりを絶やすことなく、あなたの御心に従うことができますように。私たちの心と思いを守り、あなたの平安で満たしてください。感謝をもって日々を過ごし、あなたの御名をあがめます。イエス様の御名によってお祈りします。アーメン。
+Corrected: ...御前に進むことができますように。困難な時にも、喜びの時にも、あなたとの交わりを絶やすことなく、あなたの御心に従うことができますように。私たちの心と思いを守り、あなたの平安で満たしてください。感謝をもって日々を過ごし、あなたの御名をあがめます。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-08
+Entry ID: 新改訳2003-20250808
+Original: ...ちの心の思いを新たにし、あなたの御心に従って歩むことができますように。主イエス・キリストの再臨を待ち望み、良いわざに熱心になり、あなたの愛を実践する日々を送ることができますように。私たちを導き、支え、あなたの御心を行うための力を与えてください。この祈りを、あなたの御名によってお捧げします。アーメン。
+Corrected: ...の計り知れない恵みに心から感謝いたします。私たちは、あなたの救いを通して、不敬虔と世の欲望から解放され、思慮深く、正しく、敬虔に生きるように訓練されています。私たちの心の思いを新たにし、あなたの御心に従って歩むことができますように。主イエス・, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-09
+Entry ID: 新改訳2003-20250809
+Original: ...きることができますように。私たちを罪から解放し、あなたの愛と恵みに満たしてください。他の人々にも、この素晴らしい福音を伝え、彼らもまた、イエス・キリストを通して、あなたとの正しい関係を持つことができますように。私たちの祈りを聞き入れ、私たちを導いてください。イエス・キリストの御名によって、アーメン。
+Corrected: ...愛する天の父よ、今日の御言葉を通して、イエス・, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-10
+Entry ID: 新改訳2003-20250810
+Original: ...感謝を満たし、その光を世界に照らすことができますように。私たちが日々の生活の中で、あなたの御心に従い、あなたの愛を分かち合うことができますように。私たちの信仰を強め、私たちが真実を語り、あなたの御名をあがめることができますように。この祈りを、私たちの救い主イエスの御名によってお祈りします。アーメン。
+Corrected: ...愛する天の父よ、今日の御言葉を通して、, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+... and 350 more corrections
+
+Correcting: Devocional_year_2025_ja_リビングバイブル.json
+
+================================================================================
+Correction Report: Devocional_year_2025_ja_リビングバイブル.json
+================================================================================
+Total entries: 365
+Corrected entries: 360
+Unchanged entries: 5
+
+Corrections made: 360
+--------------------------------------------------------------------------------
+
+Date: 2025-08-01
+Entry ID: リビングバイブル-20250801
+Original: ...動があなたの御心に沿うように助けてください。自己中心的な思いから解放され、あなたの愛と恵みに満たされて生きることができますように。私の内にキリストのいのちが満ち溢れ、私を通してあなたの栄光が表されますように。あなたにすべてを委ね、あなたの御心に従います。イエス様の御名によってお祈りします。アーメン。
+Corrected: ...御心に沿うように助けてください。自己中心的な思いから解放され、あなたの愛と恵みに満たされて生きることができますように。私の内にキリストのいのちが満ち溢れ、私を通してあなたの栄光が表されますように。あなたにすべてを委ね、あなたの御心に従います。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-02
+Entry ID: リビングバイブル-20250802
+Original: ...きますように。困難な時にも、あなたの愛を思い出し、他人を赦し、理解し、助け合うことができますように。私たちの心を満たし、私たちを愛の器として用いてください。私たちがあなたの愛を経験し、それを世界に伝えることができますように。この祈りを、私たちの主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...すように。困難な時にも、あなたの愛を思い出し、他人を赦し、理解し、助け合うことができますように。私たちの心を満たし、私たちを愛の器として用いてください。私たちがあなたの愛を経験し、それを世界に伝えることができますように。この祈りを、私たちの主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-03
+Entry ID: リビングバイブル-20250803
+Original: ...まずきます。私たちの努力や行いではなく、あなたの愛によって救われることを感謝します。私たちをあなたの御心に従って歩ませてください。あなたの恵みに満たされ、日々あなたを賛美し、あなたの愛を分かち合うことができますように。あなたの御名が崇められますように。イエス様のお名前によってお祈りします。アーメン。
+Corrected: ...。私たちの努力や行いではなく、あなたの愛によって救われることを感謝します。私たちをあなたの御心に従って歩ませてください。あなたの恵みに満たされ、日々あなたを賛美し、あなたの愛を分かち合うことができますように。あなたの御名が崇められますように。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-04
+Entry ID: リビングバイブル-20250804
+Original: ...困っている人々のために、自分の時間、資源、そして労力を惜しまないようにしてください。あなたの愛を人々に示し、あなたの御国を築くことができますように。私たちが日々の生活の中で、キリストの模範に従い、愛を持って行動できますように。この祈りを、私たちの主イエスキリストの御名によってお祈りします。アーメン。
+Corrected: ...愛なる神様、あなたの深い愛を感謝します。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-05
+Entry ID: リビングバイブル-20250805
+Original: ...なたに忠実に従い、永遠の命を享受することができますように。私たちが日々の生活の中で、あなたの御言葉を実践し、あなたの御旨を行うことができますように。私たちの心をあなたへの愛で満たし、あなたの御国を求めることができますように。この祈りを、私たちの主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...に忠実に従い、永遠の命を享受することができますように。私たちが日々の生活の中で、あなたの御言葉を実践し、あなたの御旨を行うことができますように。私たちの心をあなたへの愛で満たし、あなたの御国を求めることができますように。この祈りを、私たちの主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-06
+Entry ID: リビングバイブル-20250806
+Original: ...を理解し、実践することができますように。私たちを傷つけた人々を赦し、彼らのために祈る勇気を与えてください。あなたの愛の光を世界に示し、あなたの子供としての模範を示すことができますように。私たちを強め、導き、あなたの御心を行うことができますように。イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...解し、実践することができますように。私たちを傷つけた人々を赦し、彼らのために祈る勇気を与えてください。あなたの愛の光を世界に示し、あなたの子供としての模範を示すことができますように。私たちを強め、導き、あなたの御心を行うことができますように。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-07
+Entry ID: リビングバイブル-20250807
+Original: ...てくださることを信じます。私たちがイエス様を信頼し、どんな状況にあっても、あなたへの信仰を強めることができますように。困難な状況の中で、あなたの愛と支えを感じることができますように。主よ、私たちを助け、あなたの御心に従うことができますように。感謝します。イエス様の御名によってお祈りします。アーメン。
+Corrected: ...愛する神様、私たちは人生の嵐に直面したとき、恐れに屈し、信仰を失いがちです。しかし、今日、私たちは, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-08
+Entry ID: リビングバイブル-20250808
+Original: ...私はすぐに諦めそうになりますが、あなたの言葉を思い出し、信じることの大切さを理解させてください。私に信仰を与え、あなたの力に頼り、すべてのことが可能であることを信じる勇気をください。私を導き、あなたの御心に従って生きていくことができますように。この祈りを、あなたの御名によってお捧げします。アーメン。
+Corrected: ..., イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-09
+Entry ID: リビングバイブル-20250809
+Original: ...ちを助け、怒りを管理する知恵を与えてください。怒りが心に湧き上がったとき、それが罪に変わらないように、あなたの御言葉を思い起こし、あなたに頼ることができるようにしてください。私たちを悪魔の策略から守り、あなたの平和と喜びで満たしてください。感謝します。イエス様のお名前によってお祈りします。アーメン。
+Corrected: ...怒りを管理する知恵を与えてください。怒りが心に湧き上がったとき、それが罪に変わらないように、あなたの御言葉を思い起こし、あなたに頼ることができるようにしてください。私たちを悪魔の策略から守り、あなたの平和と喜びで満たしてください。感謝します。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2025-08-10
+Entry ID: リビングバイブル-20250810
+Original: ...制心という実を結ぶことができますように。私たちが日々の生活の中で聖霊の声を聴き、その導きに従うことができますように。聖霊を喜び、神との親密な関係を深めることができますように。私たちの心を聖霊で満たし、あなたの御心を行えるようにしてください。この祈りを、イエス様のお名前によってお祈りします。アーメン。
+Corrected: ...実を結ぶことができますように。私たちが日々の生活の中で聖霊の声を聴き、その導きに従うことができますように。聖霊を喜び、神との親密な関係を深めることができますように。私たちの心を聖霊で満たし、あなたの御心を行えるようにしてください。この祈りを、, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+... and 350 more corrections
+
+Correcting: Devocional_year_2026_es_NVI.json
+
+================================================================================
+Correction Report: Devocional_year_2026_es_NVI.json
+================================================================================
+Total entries: 365
+Corrected entries: 365
+Unchanged entries: 0
+
+Corrections made: 365
+--------------------------------------------------------------------------------
+
+Date: 2026-08-27
+Entry ID: 2corintios11_14_es_nvi_20260827
+Original: ...n testimonio de tu verdad en un mundo lleno de engaño. Guárdame de la ingenuidad y permíteme vivir una vida que te honre, en el nombre de Jesús, amén.
+Corrected: ...n testimonio de tu verdad en un mundo lleno de engaño. Guárdame de la ingenuidad y permíteme vivir una vida que te honre, En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2026-08-28
+Entry ID: lucas1613NVI20260828
+Original: ...orazón en las cosas eternas. Lléname de tu paz y tu gozo, para que pueda vivir una vida que te honre en todo lo que hago, en el nombre de Jesús, amén.
+Corrected: ...orazón en las cosas eternas. Lléname de tu paz y tu gozo, para que pueda vivir una vida que te honre en todo lo que hago, En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2026-08-29
+Entry ID: filipenses214NVI
+Original: ...s demás, mostrando tu amor y tu paz. Guíame a vivir sin quejas ni discusiones, sino con alegría y gratitud en mi corazón, en el nombre de Jesús, amén.
+Corrected: ...s demás, mostrando tu amor y tu paz. Guíame a vivir sin quejas ni discusiones, sino con alegría y gratitud en mi corazón, En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2026-08-30
+Entry ID: 2pedro39NVI20260830
+Original: ...eterno. Guíanos en tu verdad y llénanos de tu Espíritu Santo para que podamos vivir una vida que te honre. Te lo pedimos, en el nombre de Jesús, amén.
+Corrected: ...eterno. Guíanos en tu verdad y llénanos de tu Espíritu Santo para que podamos vivir una vida que te honre. Te lo pedimos, En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2026-08-31
+Entry ID: gal5v6NVI20260831
+Original: ...rvir a los demás, a perdonar y a mostrar compasión. Llévanos a amar a los demás con la misma medida que Tú nos has amado, en el nombre de Jesús, amén.
+Corrected: ...rvir a los demás, a perdonar y a mostrar compasión. Llévanos a amar a los demás con la misma medida que Tú nos has amado, En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2026-09-01
+Entry ID: hebreos31NVI20260901
+Original: ...verdad. Te pedimos que nos ayudes a ser más semejantes a Cristo, reflejando su carácter en todo lo que hacemos y decimos. En el nombre de Jesús, amén.
+Corrected: ...verdad. Te pedimos que nos ayudes a ser más semejantes a Cristo, reflejando su carácter en todo lo que hacemos y decimos. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2026-09-02
+Entry ID: lucas1910NVI20260902
+Original: ...para mostrar el camino a aquellos que aún no te conocen, para que también puedan experimentar la alegría de la salvación. En el nombre de Jesús, amén.
+Corrected: ...para mostrar el camino a aquellos que aún no te conocen, para que también puedan experimentar la alegría de la salvación. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2026-09-03
+Entry ID: marcos335NVI20260903
+Original: ...tad, buscando tu guía y confiando en tu amor incondicional.  Permíteme ser un reflejo de tu amor y compasión en el mundo. En el nombre de Jesús, amén.
+Corrected: ...tad, buscando tu guía y confiando en tu amor incondicional.  Permíteme ser un reflejo de tu amor y compasión en el mundo. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2026-09-04
+Entry ID: mateo2639NVI20260904
+Original: ...on alegría y fe. Rellena mi corazón con tu paz que sobrepasa todo entendimiento, y ayúdame a vivir una vida que te honre. en el nombre de Jesús, amén.
+Corrected: ...on alegría y fe. Rellena mi corazón con tu paz que sobrepasa todo entendimiento, y ayúdame a vivir una vida que te honre. En el nombre de Jesús, amén.
+----------------------------------------
+
+Date: 2026-09-05
+Entry ID: 1tes312NVI20260905
+Original: ...an ofendido y la sabiduría para amar incluso a nuestros enemigos.  Que el amor sea el sello distintivo de nuestras vidas. En el nombre de Jesús, amén.
+Corrected: ...an ofendido y la sabiduría para amar incluso a nuestros enemigos.  Que el amor sea el sello distintivo de nuestras vidas. En el nombre de Jesús, amén.
+----------------------------------------
+
+... and 355 more corrections
+
+Correcting: Devocional_year_2026_en_KJV.json
+
+================================================================================
+Correction Report: Devocional_year_2026_en_KJV.json
+================================================================================
+Total entries: 365
+Corrected entries: 365
+Unchanged entries: 0
+
+Corrections made: 365
+--------------------------------------------------------------------------------
+
+Date: 2026-08-01
+Entry ID: hebreos31KJV20260801
+Original: ...e in our daily walk. We surrender our hearts and minds to You, seeking to know You more fully and to serve You faithfully, in the name of Jesus, amen.
+Corrected: ...e in our daily walk. We surrender our hearts and minds to You, seeking to know You more fully and to serve You faithfully, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-08-02
+Entry ID: rom517KJV20260802
+Original: ...hat reflects Your grace to others. Fill me with Your Spirit, and let me live a life worthy of the calling I have received. In the name of Jesus, amen.
+Corrected: ...hat reflects Your grace to others. Fill me with Your Spirit, and let me live a life worthy of the calling I have received. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-08-03
+Entry ID: 2timothy213KJV20260803
+Original: ...ound me. I pray for those who are struggling with doubt, that they may find comfort and assurance in Your unchanging love. In the name of Jesus, amen.
+Corrected: ...ound me. I pray for those who are struggling with doubt, that they may find comfort and assurance in Your unchanging love. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-08-04
+Entry ID: 1corintios311KJV
+Original: ...tand the storms of life, knowing that we are secure in You. We ask for Your guidance and Your blessings in all that we do, in the name of Jesus, amen.
+Corrected: ...tand the storms of life, knowing that we are secure in You. We ask for Your guidance and Your blessings in all that we do, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-08-05
+Entry ID: 1corintios1128KJV20260805
+Original: ...s and seeking to live a life that is pleasing in Your sight. Thank You for Your love, Your forgiveness, and Your presence. In the name of Jesus, amen.
+Corrected: ...s and seeking to live a life that is pleasing in Your sight. Thank You for Your love, Your forgiveness, and Your presence. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-08-06
+Entry ID: gal2v2KJV20260806
+Original: ...Give me a heart of compassion for those who need to hear your message. May my life be a testament to your grace and truth, in the name of Jesus, amen.
+Corrected: ...Give me a heart of compassion for those who need to hear your message. May my life be a testament to your grace and truth, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-08-07
+Entry ID: hebreos101922KJV20260807
+Original: ...rience the fullness of your presence. We pray for a deeper intimacy with You, that we may know You more and love You more. In the name of Jesus, amen.
+Corrected: ...rience the fullness of your presence. We pray for a deeper intimacy with You, that we may know You more and love You more. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-08-08
+Entry ID: 2tim2v3-4KJV20260808
+Original: ... dedicated to Your cause and ever striving to honor You in all that I do. Thank You for Your unwavering love and guidance. In the name of Jesus, amen.
+Corrected: ... dedicated to Your cause and ever striving to honor You in all that I do. Thank You for Your unwavering love and guidance. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-08-09
+Entry ID: mark1438KJV20260809
+Original: ...guide our steps. We commit ourselves to a life of prayer and watchfulness, trusting in your unwavering presence and power, in the name of Jesus, amen.
+Corrected: ...guide our steps. We commit ourselves to a life of prayer and watchfulness, trusting in your unwavering presence and power, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-08-10
+Entry ID: john1421KJV20260810
+Original: ...the light of Your truth. Guide us in all our actions, that we may show our love for You in all that we do. We ask all this in the name of Jesus, amen.
+Corrected: ...he light of Your truth. Guide us in all our actions, that we may show our love for You in all that we do. We ask all this, In the name of Jesus, amen.
+----------------------------------------
+
+... and 355 more corrections
+
+Correcting: Devocional_year_2026_en_NIV.json
+
+================================================================================
+Correction Report: Devocional_year_2026_en_NIV.json
+================================================================================
+Total entries: 365
+Corrected entries: 365
+Unchanged entries: 0
+
+Corrections made: 365
+--------------------------------------------------------------------------------
+
+Date: 2026-09-03
+Entry ID: gal6v1NIV20260903
+Original: ...ve, always seeking to uplift and encourage. Fill us with your Spirit so that we might minister with grace and sensitivity. In the name of Jesus, amen.
+Corrected: ...ve, always seeking to uplift and encourage. Fill us with your Spirit so that we might minister with grace and sensitivity. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-09-04
+Entry ID: john812NIV20260904
+Original: ...nd your unwavering grace. Help us to reflect your light in all that we do, bringing glory to your name. We ask all of this in the name of Jesus, amen.
+Corrected: ...d your unwavering grace. Help us to reflect your light in all that we do, bringing glory to your name. We ask all of this, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-09-05
+Entry ID: rev7910EN-NIV20260905
+Original: ...our citizenship is in heaven, and our hope is in you. Thank you for your unwavering love and your promise of eternal life, in the name of Jesus, amen.
+Corrected: ...our citizenship is in heaven, and our hope is in you. Thank you for your unwavering love and your promise of eternal life, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-09-06
+Entry ID: 2corintios4v6NIV20260906
+Original: ...h in a world that desperately needs it. Help me to walk in the light of your presence, and to live a life that honors you. In the name of Jesus, amen.
+Corrected: ...h in a world that desperately needs it. Help me to walk in the light of your presence, and to live a life that honors you. In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-09-07
+Entry ID: lucas1910NIV20260907
+Original: ...ion and a desire to see all people reconciled to you. Guide my steps and empower me to be a vessel of your love and truth, in the name of Jesus, amen.
+Corrected: ...ion and a desire to see all people reconciled to you. Guide my steps and empower me to be a vessel of your love and truth, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-09-08
+Entry ID: john1930NIV20260908
+Original: ...ng, those who are hurting, and those who have yet to know you. May they find peace and hope in the finished work of Jesus, in the name of Jesus, amen.
+Corrected: ...ng, those who are hurting, and those who have yet to know you. May they find peace and hope in the finished work of Jesus, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-09-09
+Entry ID: dev20260909EN-NIV
+Original: ...reflect Your glory in our thoughts, words, and actions. We pray for Your peace, Your wisdom, and Your grace to be upon us, in the name of Jesus, amen.
+Corrected: ...reflect Your glory in our thoughts, words, and actions. We pray for Your peace, Your wisdom, and Your grace to be upon us, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-09-10
+Entry ID: matthew1220NIV20260910
+Original: ...o extend the same grace and mercy to others. Give me a heart like yours, Lord, full of love and compassion. I ask all this in the name of Jesus, amen.
+Corrected: ... extend the same grace and mercy to others. Give me a heart like yours, Lord, full of love and compassion. I ask all this, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-09-11
+Entry ID: matthew311NIV20260911
+Original: ...our endless mercy and your unwavering presence in our lives. Guide us in all we do, and make us instruments of your peace, in the name of Jesus, amen.
+Corrected: ...our endless mercy and your unwavering presence in our lives. Guide us in all we do, and make us instruments of your peace, In the name of Jesus, amen.
+----------------------------------------
+
+Date: 2026-09-12
+Entry ID: 1juan1v7NIV20260912
+Original: ...ht, experiencing the joy of Your presence and the freedom of Your forgiveness. Guide us to be a beacon of light to others. In the name of Jesus, amen.
+Corrected: ...ht, experiencing the joy of Your presence and the freedom of Your forgiveness. Guide us to be a beacon of light to others. In the name of Jesus, amen.
+----------------------------------------
+
+... and 355 more corrections
+
+Correcting: Devocional_year_2026_pt_ARC.json
+
+================================================================================
+Correction Report: Devocional_year_2026_pt_ARC.json
+================================================================================
+Total entries: 365
+Corrected entries: 28
+Unchanged entries: 337
+
+Corrections made: 28
+--------------------------------------------------------------------------------
+
+Date: 2026-08-05
+Entry ID: 2Corintios11v3ARC
+Original: .... Em especial, peço por todos aqueles que estão lutando contra a dúvida e o desânimo, que encontrem em Ti a paz e a esperança. Em nome de Jesus, amém.
+Corrected: .... Em especial, peço por todos aqueles que estão lutando contra a dúvida e o desânimo, que encontrem em Ti a paz e a esperança. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-08-07
+Entry ID: filipenses3_10ARC20260807
+Original: ...ue a tua vontade seja feita em mim, e que eu possa refletir a tua luz neste mundo. Em tudo, que eu te conheça e te glorifique. Em nome de Jesus, amém.
+Corrected: ...ue a tua vontade seja feita em mim, e que eu possa refletir a tua luz neste mundo. Em tudo, que eu te conheça e te glorifique. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-08-15
+Entry ID: lucas1324ARC20260815
+Original: ...re busque crescer em conhecimento e amor por Ti. Que a Tua graça me capacite a perseverar até o fim, alcançando a vida eterna. Em nome de Jesus, amém.
+Corrected: ...re busque crescer em conhecimento e amor por Ti. Que a Tua graça me capacite a perseverar até o fim, alcançando a vida eterna. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-09-09
+Entry ID: atos1038ARC20260909
+Original: ...ar a tua graça com todos que encontrar. Guia meus passos e fortalece minha fé, para que eu possa viver uma vida que te agrade. Em nome de Jesus, amém.
+Corrected: ...ar a tua graça com todos que encontrar. Guia meus passos e fortalece minha fé, para que eu possa viver uma vida que te agrade. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-10-12
+Entry ID: romanos8v1ARC20261012
+Original: ... viver uma vida de santidade e obediência a Ti. Que eu possa amar e servir a Ti e ao próximo com um coração cheio de gratidão. Em nome de Jesus, amém.
+Corrected: ... viver uma vida de santidade e obediência a Ti. Que eu possa amar e servir a Ti e ao próximo com um coração cheio de gratidão. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-10-14
+Entry ID: filipenses121ARC20261014
+Original: ...i e que eu possa viver de acordo com a Tua vontade. Guia-me em todos os meus caminhos, e que eu possa amar-Te acima de tudo. Em Teu nome, Jesus, amén.
+Corrected: ... Ti e que eu possa viver de acordo com a Tua vontade. Guia-me em todos os meus caminhos, e que eu possa amar-Te acima de tudo. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-10-28
+Entry ID: 2Corintios3_17ARC
+Original: ... o Espírito Santo me fortaleça e me guie em todos os meus passos, para que eu possa glorificar o Teu nome em tudo o que fizer, em nome de Jesus, amém.
+Corrected: ... o Espírito Santo me fortaleça e me guie em todos os meus passos, para que eu possa glorificar o Teu nome em tudo o que fizer, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-11-17
+Entry ID: marcos12_30-31ARC20261117
+Original: ...risto, que se entregou por mim. Fortalece-me em minha jornada de fé, para que eu possa amar sem reservas e servir com alegria, em nome de Jesus, amém.
+Corrected: ...risto, que se entregou por mim. Fortalece-me em minha jornada de fé, para que eu possa amar sem reservas e servir com alegria, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-12-14
+Entry ID: col2v9ARC20261214
+Original: ...a-nos a sabedoria para discernir a Tua voz, a força para resistir às tentações e a coragem para seguir o Teu exemplo. Em Teu santo nome, oramos. Amém.
+Corrected: ...i. Conceda-nos a sabedoria para discernir a Tua voz, a força para resistir às tentações e a coragem para seguir o Teu exemplo. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-12-29
+Entry ID: 1Tessalonicenses5_22ARC20261229
+Original: ...uz em tudo o que eu fizer. Guarda meu coração e minha mente, para que eu possa viver em santidade e pureza, para a Tua glória, em nome de Jesus, amém.
+Corrected: ...uz em tudo o que eu fizer. Guarda meu coração e minha mente, para que eu possa viver em santidade e pureza, para a Tua glória, Em nome de Jesus, amém.
+----------------------------------------
+
+... and 18 more corrections
+
+Correcting: Devocional_year_2026_pt_NVI.json
+
+================================================================================
+Correction Report: Devocional_year_2026_pt_NVI.json
+================================================================================
+Total entries: 365
+Corrected entries: 32
+Unchanged entries: 333
+
+Corrections made: 32
+--------------------------------------------------------------------------------
+
+Date: 2026-08-01
+Entry ID: 1corintios12_1PTNVI
+Original: ...umento de amor, unidade e serviço, contribuindo para o crescimento e a glória do teu nome, em cada aspecto da minha vida, en el nombre de Jesús, amén.
+Corrected: ...instrumento de amor, unidade e serviço, contribuindo para o crescimento e a glória do teu nome, em cada aspecto da minha vida, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-08-04
+Entry ID: 2Pedro2_9_PTNVI
+Original: ...o mal, e que eu possa escolher sempre o caminho da justiça. Que a Tua graça e misericórdia me acompanhem em todos os momentos. Em nome de Jesus, amém.
+Corrected: ...o mal, e que eu possa escolher sempre o caminho da justiça. Que a Tua graça e misericórdia me acompanhem em todos os momentos. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-08-11
+Entry ID: galatas610PTNVI20260811
+Original: ...munhem do Teu amor ao mundo. Capacita-nos a viver uma vida de generosidade e serviço, para a Tua glória e para o bem de todos. Em nome de Jesus, amém.
+Corrected: ...munhem do Teu amor ao mundo. Capacita-nos a viver uma vida de generosidade e serviço, para a Tua glória e para o bem de todos. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-08-18
+Entry ID: joao545PTNVI20260818
+Original: ...rumento do Teu amor e da Tua paz, espalhando a boa nova de salvação. Guia-me em todos os meus caminhos e fortalece a minha fé, em nome de Jesus, amém.
+Corrected: ...rumento do Teu amor e da Tua paz, espalhando a boa nova de salvação. Guia-me em todos os meus caminhos e fortalece a minha fé, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-09-01
+Entry ID: 2Timoteo2_13_PTNVI
+Original: ...lidade é o alicerce da nossa salvação. Enche os nossos corações com a Tua paz e a certeza de que estamos seguros em Tuas mãos. Em nome de Jesus, amém.
+Corrected: ...lidade é o alicerce da nossa salvação. Enche os nossos corações com a Tua paz e a certeza de que estamos seguros em Tuas mãos. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-09-09
+Entry ID: marcos420PTNVI20260909
+Original: ...timonio vivo de tu amor y tu gracia.  Capacítame para compartir la buena noticia con otros y llevar fruto que permanezca, en el nombre de Jesús, amén.
+Corrected: ...n testimonio vivo de tu amor y tu gracia.  Capacítame para compartir la buena noticia con otros y llevar fruto que permanezca, Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-10-17
+Entry ID: efesios610NVI
+Original: ... poder e encontrar em Ti a nossa verdadeira fortaleza. Guia-nos em cada passo, e que a Tua vontade seja feita em nossas vidas. Em nome de Jesus, amém.
+Corrected: ... poder e encontrar em Ti a nossa verdadeira fortaleza. Guia-nos em cada passo, e que a Tua vontade seja feita em nossas vidas. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-10-31
+Entry ID: 1corintios420PTNVI
+Original: ... ao nosso redor. Que a nossa fé seja evidenciada em atos de serviço e obediência, mostrando ao mundo a realidade do teu Reino. Em nome de Jesus, amém.
+Corrected: ... ao nosso redor. Que a nossa fé seja evidenciada em atos de serviço e obediência, mostrando ao mundo a realidade do teu Reino. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-11-09
+Entry ID: 2corintios812PTNVI
+Original: ... sejam sempre guiadas pelo Teu Espírito Santo. Que eu possa ser um exemplo de generosidade para outros, refletindo o Teu amor. Em nome de Jesus, amém.
+Corrected: ... sejam sempre guiadas pelo Teu Espírito Santo. Que eu possa ser um exemplo de generosidade para outros, refletindo o Teu amor. Em nome de Jesus, amém.
+----------------------------------------
+
+Date: 2026-11-20
+Entry ID: 2Corintios6_16_PTNVI
+Original: ...tade. Em especial, peço que me ensines a amar o próximo como a mim mesmo e a compartilhar o evangelho com ousadia e compaixão. Em nome de Jesus, amém.
+Corrected: ...tade. Em especial, peço que me ensines a amar o próximo como a mim mesmo e a compartilhar o evangelho com ousadia e compaixão. Em nome de Jesus, amém.
+----------------------------------------
+
+... and 22 more corrections
+
+Correcting: Devocional_year_2026_fr_TOB.json
+
+================================================================================
+Correction Report: Devocional_year_2026_fr_TOB.json
+================================================================================
+Total entries: 365
+Corrected entries: 28
+Unchanged entries: 337
+
+Corrections made: 28
+--------------------------------------------------------------------------------
+
+Date: 2026-08-26
+Entry ID: jean1717FRTOB
+Original: ...ans notre foi. Remplis-nous de ton Esprit Saint, afin que nous puissions refléter ta gloire dans tout ce que nous faisons. Dans le nom de Jésus, amen.
+Corrected: ...mes dans notre foi. Remplis-nous de ton Esprit Saint, afin que nous puissions refléter ta gloire dans tout ce que nous faisons. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-08-30
+Entry ID: phil25FRTOB20260830
+Original: ... lumière dans ce monde et un témoignage de Ton amour. Aide-moi à vivre de manière à honorer Ton nom et à glorifier Ton royaume. Au nom de Jésus, amen.
+Corrected: ... lumière dans ce monde et un témoignage de Ton amour. Aide-moi à vivre de manière à honorer Ton nom et à glorifier Ton royaume. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-08-31
+Entry ID: lucas532FRTOB20260831
+Original: ...l à la repentance et trouver le salut.  En tant que ton enfant, je te remercie pour ton amour, ton pardon et ta fidélité.  Dans le nom de Jésus, amen.
+Corrected: ...n appel à la repentance et trouver le salut.  En tant que ton enfant, je te remercie pour ton amour, ton pardon et ta fidélité. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-09
+Entry ID: luc750FRTOB20260909
+Original: ...nter les défis de la vie avec foi et confiance. Je te remercie pour ta promesse de salut, et je m'abandonne à ta volonté. Amen, au nom de Jésus, amen.
+Corrected: ...nter les défis de la vie avec foi et confiance. Je te remercie pour ta promesse de salut, et je m'abandonne à ta volonté. Amen, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-23
+Entry ID: ep6v11FRTOB20260923
+Original: ... en signe d'humilité et de dépendance. Aide-moi à vivre une vie qui t'honore, en combattant le bon combat de la foi. Amen, dans le nom de Jésus, amen.
+Corrected: ...ière, en signe d'humilité et de dépendance. Aide-moi à vivre une vie qui t'honore, en combattant le bon combat de la foi. Amen, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-11-04
+Entry ID: devocional-20261104-fr-tob-matthieu21v22
+Original: ... Ta grâce chaque jour. Je Te confie toutes mes préoccupations, sachant que Tu es capable de répondre à toutes mes prières. dans le nom de Jésus, amen.
+Corrected: ...er de Ta grâce chaque jour. Je Te confie toutes mes préoccupations, sachant que Tu es capable de répondre à toutes mes prières. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-11-10
+Entry ID: luc443FRTOB
+Original: ... et la joie. Que je puisse témoigner de ta présence dans ce monde.  Je t'en prie, envoie ton Esprit Saint pour me guider. Amen, au nom de Jésus, amen.
+Corrected: ... et la joie. Que je puisse témoigner de ta présence dans ce monde.  Je t'en prie, envoie ton Esprit Saint pour me guider. Amen, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-11-16
+Entry ID: heb8v6FRTOB20261116
+Original: ...demption. Accorde-nous de persévérer dans la foi jusqu'à la fin, en espérant le retour de Jésus et la vie éternelle. Amen, dans le nom de Jésus, amen.
+Corrected: ...la rédemption. Accorde-nous de persévérer dans la foi jusqu'à la fin, en espérant le retour de Jésus et la vie éternelle. Amen, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-12-04
+Entry ID: devocional20261204FRTOB
+Original: ...toi. En ton nom, nous prions pour le pardon et la réconciliation, pour que ton royaume vienne sur la terre comme au ciel. Amen, au nom de Jésus, amen.
+Corrected: ...toi. En ton nom, nous prions pour le pardon et la réconciliation, pour que ton royaume vienne sur la terre comme au ciel. Amen, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-12-16
+Entry ID: 1Corinthiens2v4FRTOB20261216
+Original: ...ous t'implorons pour la guérison, la délivrance et la transformation. Nous reconnaissons que toute la gloire t'appartient. Dans le nom de Jésus, amen.
+Corrected: ...re. Nous t'implorons pour la guérison, la délivrance et la transformation. Nous reconnaissons que toute la gloire t'appartient. Au nom de Jésus, amen.
+----------------------------------------
+
+... and 18 more corrections
+
+Correcting: Devocional_year_2026_fr_LSG1910.json
+
+================================================================================
+Correction Report: Devocional_year_2026_fr_LSG1910.json
+================================================================================
+Total entries: 365
+Corrected entries: 127
+Unchanged entries: 238
+
+Corrections made: 127
+--------------------------------------------------------------------------------
+
+Date: 2026-08-31
+Entry ID: marc420LSG1910
+Original: ...oin fidèle de Ta grâce et de Ton amour, et de vivre une vie qui T'honore. Guide mes pas et éclaire mon chemin par Ta Parole, en le nom de Jésus, amén.
+Corrected: ...témoin fidèle de Ta grâce et de Ton amour, et de vivre une vie qui T'honore. Guide mes pas et éclaire mon chemin par Ta Parole, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-02
+Entry ID: 2Pierre3v13LSG1910
+Original: ... une foi inébranlable en ta promesse. Que ta volonté soit faite, et que ton règne vienne. Nous te le demandons, en priant, dans le nom de Jésus, amen.
+Corrected: ... avec une foi inébranlable en ta promesse. Que ta volonté soit faite, et que ton règne vienne. Nous te le demandons, en priant, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-03
+Entry ID: eph111LSG1910
+Original: ...t d'espérance, en sachant que je suis aimé et choisi par toi. Guide-moi toujours sur le chemin de la foi et de l'obéissance, en le nom de Jésus, amén.
+Corrected: ...e et d'espérance, en sachant que je suis aimé et choisi par toi. Guide-moi toujours sur le chemin de la foi et de l'obéissance, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-08
+Entry ID: luc145LSG1910
+Original: ...omesses se réaliser. Remplis nos cœurs de foi et d'espérance, afin que nous puissions témoigner de ta bonté et de ta grâce.  en le nom de Jésus, amén.
+Corrected: ...s promesses se réaliser. Remplis nos cœurs de foi et d'espérance, afin que nous puissions témoigner de ta bonté et de ta grâce. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-09
+Entry ID: 2Cor8v9LSG1910-20260909
+Original: ...ous donner la capacité de donner sans compter, de servir sans attendre de récompense et d'aimer comme tu nous aimes. Amen, dans le nom de Jésus, amen.
+Corrected: ... de nous donner la capacité de donner sans compter, de servir sans attendre de récompense et d'aimer comme tu nous aimes. Amen, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-12
+Entry ID: jacques4v2LSG1910
+Original: ...a grâce et Ta miséricorde. Je prie pour que Tu renouvelles mon esprit et que Tu m'aides à vivre une vie qui Te plaise. Amen, en le nom de Jésus, amén.
+Corrected: ...r Ta grâce et Ta miséricorde. Je prie pour que Tu renouvelles mon esprit et que Tu m'aides à vivre une vie qui Te plaise. Amen, Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-13
+Entry ID: galates4v5LSG1910
+Original: ... Nous te prions pour tous ceux qui ne connaissent pas encore ton amour, afin qu'ils puissent trouver la rédemption en Jésus. en le nom de Jésus, amén.
+Corrected: ...ux. Nous te prions pour tous ceux qui ne connaissent pas encore ton amour, afin qu'ils puissent trouver la rédemption en Jésus. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-16
+Entry ID: Apoc1v8FR1910
+Original: ... es avec nous. Nous te prions pour la paix, le discernement, et la santé. Que ton règne vienne et que ta volonté soit faite. en le nom de Jésus, amén.
+Corrected: ... tu es avec nous. Nous te prions pour la paix, le discernement, et la santé. Que ton règne vienne et que ta volonté soit faite. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-18
+Entry ID: jacques317LSG1910_20260918
+Original: ...endre ton amour. Guide-moi sur le chemin de la vérité et de la justice. Accorde-moi la grâce de vivre une vie qui t'honore.  en le nom de Jésus, amén.
+Corrected: ...omprendre ton amour. Guide-moi sur le chemin de la vérité et de la justice. Accorde-moi la grâce de vivre une vie qui t'honore. Au nom de Jésus, amen.
+----------------------------------------
+
+Date: 2026-09-21
+Entry ID: jean812LSG1910
+Original: ...ourrait entraver ma communion avec toi.  Je prie pour que ta lumière transforme ma vie et que je puisse refléter ta gloire.  en le nom de Jésus, amén.
+Corrected: ...ui pourrait entraver ma communion avec toi.  Je prie pour que ta lumière transforme ma vie et que je puisse refléter ta gloire. Au nom de Jésus, amen.
+----------------------------------------
+
+... and 117 more corrections
+
+Correcting: Devocional_year_2026_zh_新译本.json
+
+================================================================================
+Correction Report: Devocional_year_2026_zh_新译本.json
+================================================================================
+Total entries: 4
+Corrected entries: 0
+Unchanged entries: 4
+
+✓ No corrections needed!
+
+Correcting: Devocional_year_2026_zh_和合本1919.json
+
+================================================================================
+Correction Report: Devocional_year_2026_zh_和合本1919.json
+================================================================================
+Total entries: 10
+Corrected entries: 0
+Unchanged entries: 10
+
+✓ No corrections needed!
+
+Correcting: Devocional_year_2026_ja_リビングバイブル.json
+
+================================================================================
+Correction Report: Devocional_year_2026_ja_リビングバイブル.json
+================================================================================
+Total entries: 365
+Corrected entries: 363
+Unchanged entries: 2
+
+Corrections made: 363
+--------------------------------------------------------------------------------
+
+Date: 2026-08-01
+Entry ID: リビングバイブル-20260801
+Original: ...中で、天の家を心に描き、あなたの御心に従って歩むことができますように。私たちがこの世の価値観に左右されず、永遠の価値観に集中できますように。あなたの愛と恵みに感謝し、私たちの希望があなたにあることを信じています。私たちの人生をあなたに委ねます。主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...、天の家を心に描き、あなたの御心に従って歩むことができますように。私たちがこの世の価値観に左右されず、永遠の価値観に集中できますように。あなたの愛と恵みに感謝し、私たちの希望があなたにあることを信じています。私たちの人生をあなたに委ねます。主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-02
+Entry ID: リビングバイブル-20260802
+Original: ...れた恵みと愛を感謝し、あなたの御言葉に従い、あなたの御心を行うことができますように。私たちの心を清め、あなたとの関係を深めることができますように。私たちの人生をあなたに捧げ、あなたの栄光を現すことができますように。あなたの御名によって、私たちの願いをお聞きください。イエス様の御名によって、アーメン。
+Corrected: ...愛する天の父なる神様、私たちはあなたを唯一の神と信じ、あなたの御子イエス・, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-03
+Entry ID: リビングバイブル-20260803
+Original: ...があなたの現れを慕い求め、天国での義の冠を待ち望むことができますように。日々の生活の中で、私たちを支え、導き、勝利へと導いてください。私たちの信仰を強め、最後まであなたに従うことができますように。感謝します、主よ。あなたの愛と恵みに感謝します。この祈りを、あなたの御名によってお捧げします。アーメン。
+Corrected: ..., イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-04
+Entry ID: リビングバイブル-20260804
+Original: ...たちの心を満たし、私たちが自分の役割を大切にし、神様の御心を行うことを望みます。私たちの置かれた状況に感謝し、神様の導きに耳を傾け、あなたの愛と恵みを分かち合うことができますように。私たちの人生を通して、あなたの栄光を現すことができますように。主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...の心を満たし、私たちが自分の役割を大切にし、神様の御心を行うことを望みます。私たちの置かれた状況に感謝し、神様の導きに耳を傾け、あなたの愛と恵みを分かち合うことができますように。私たちの人生を通して、あなたの栄光を現すことができますように。主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-05
+Entry ID: リビングバイブル-20260805
+Original: ...忍耐力を持って接することができますように。私たちを愛で満たし、愛を実践する者としてください。困難な時にも、あなたの愛を思い出し、希望を持ち続けることができますように。私たちが互いを愛し合い、あなたの愛を世界に示せますように。このすべてを、私たちの主イエス・キリストの名によってお祈りします。アーメン。
+Corrected: ...を持って接することができますように。私たちを愛で満たし、愛を実践する者としてください。困難な時にも、あなたの愛を思い出し、希望を持ち続けることができますように。私たちが互いを愛し合い、あなたの愛を世界に示せますように。このすべてを、私たちの主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-06
+Entry ID: リビングバイブル-20260806
+Original: ...ができるようにしてください。私たちが寛容であり、赦し、そして愛をもって行動することができますように。私たち自身の弱さを認め、謙虚な心で互いに支え合い、成長させてください。父なる神様、私たちの心と思いを清め、あなたのように愛することができますように。イエス・キリストの御名によってお祈りします。アーメン
+Corrected: ...るようにしてください。私たちが寛容であり、赦し、そして愛をもって行動することができますように。私たち自身の弱さを認め、謙虚な心で互いに支え合い、成長させてください。父なる神様、私たちの心と思いを清め、あなたのように愛することができますように。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-07
+Entry ID: リビングバイブル-20260807
+Original: ...。そして、あなたの霊的な賜物を熱心に求め、あなたからのメッセージを人々に伝えられますように。私たちが愛と知恵をもって、互いに仕え、あなたの御心を行えるようにしてください。あなたの愛が私たちの心を満たし、私たちの言葉と行動を通して輝きますように。この願いを、イエスの御名によってお祈りします。アーメン。
+Corrected: ...たの霊的な賜物を熱心に求め、あなたからのメッセージを人々に伝えられますように。私たちが愛と知恵をもって、互いに仕え、あなたの御心を行えるようにしてください。あなたの愛が私たちの心を満たし、私たちの言葉と行動を通して輝きますように。この願いを、, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-08
+Entry ID: リビングバイブル-20260808
+Original: ...神の栄光を見るために、あなたの約束を信じ、あなたへの信頼を深めることができますように。私たちの心をあなたの愛で満たし、あなたの御言葉に従って歩むことができますように。私たちの人生の中であなたの御力を現してください。あなたを愛し、あなたを賛美します。イエス・キリストの御名によってお祈りします。アーメン
+Corrected: ...光を見るために、あなたの約束を信じ、あなたへの信頼を深めることができますように。私たちの心をあなたの愛で満たし、あなたの御言葉に従って歩むことができますように。私たちの人生の中であなたの御力を現してください。あなたを愛し、あなたを賛美します。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-09
+Entry ID: リビングバイブル-20260809
+Original: ...てください。私たちが自分の生活の中で、あなたの召命に忠実に生き、人々をあなたへと導くことができますように。私たちの心を清め、あなたの御心に従って生きていくことができますように。あなたの御名によって、私たちの人生を祝福してください。これらの願いを、イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...ださい。私たちが自分の生活の中で、あなたの召命に忠実に生き、人々をあなたへと導くことができますように。私たちの心を清め、あなたの御心に従って生きていくことができますように。あなたの御名によって、私たちの人生を祝福してください。これらの願いを、, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-10
+Entry ID: リビングバイブル-20260810
+Original: ...にも、イエスに目を向け、イエスの教えに従い、希望と平安を見出すことができますように。イエスの愛と恵みを理解し、感謝の心を持って、日々を歩むことができますように。私たちの心をイエスに集中させ、あなたとの関係を深めることができますように。この祈りを、イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...愛する神様、今日、, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+... and 353 more corrections
+
+Correcting: Devocional_year_2026_ja_新改訳2003.json
+
+================================================================================
+Correction Report: Devocional_year_2026_ja_新改訳2003.json
+================================================================================
+Total entries: 365
+Corrected entries: 364
+Unchanged entries: 1
+
+Corrections made: 364
+--------------------------------------------------------------------------------
+
+Date: 2026-08-01
+Entry ID: 新改訳2003-20260801
+Original: ...たの赦しを求めます。聖霊様、私の心を洗い清め、新しくしてください。あなたの御言葉に従い、あなたに喜ばれる人生を送ることができますように。私をあなたの愛と光で満たし、あなたの御旨をこの地上で成し遂げることができますように。あなたの御名が崇められますように。イエス様の御名によってお祈りします。アーメン。
+Corrected: ...めます。聖霊様、私の心を洗い清め、新しくしてください。あなたの御言葉に従い、あなたに喜ばれる人生を送ることができますように。私をあなたの愛と光で満たし、あなたの御旨をこの地上で成し遂げることができますように。あなたの御名が崇められますように。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-02
+Entry ID: 新改訳2003-20260802
+Original: ...の御心に沿った生活を送らせてください。私たちの心をあなたに集中させ、あなたとの親密な関係を深めることができますように。私たちの弱い部分を強め、あなたの力で満たしてください。私たちを霊的な戦いの中で勝利へと導いてください。これらの願いを、私たちの主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...心に沿った生活を送らせてください。私たちの心をあなたに集中させ、あなたとの親密な関係を深めることができますように。私たちの弱い部分を強め、あなたの力で満たしてください。私たちを霊的な戦いの中で勝利へと導いてください。これらの願いを、私たちの主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-03
+Entry ID: 新改訳2003-20260803
+Original: ...とを忘れないように助けてください。心を静め、あなたの愛と恵みを深く感じることができますように。私のすべての求めをあなたに委ね、あなたの御心に従って歩むことができますように。私の心と思いを守り、あなたとの親密な関係を築くことができますように。この祈りを、イエス様のお名前によってお祈りします。アーメン。
+Corrected: ...いように助けてください。心を静め、あなたの愛と恵みを深く感じることができますように。私のすべての求めをあなたに委ね、あなたの御心に従って歩むことができますように。私の心と思いを守り、あなたとの親密な関係を築くことができますように。この祈りを、, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-04
+Entry ID: 新改訳2003-20260804
+Original: ...え合い、困難な時にも揺るぎない信仰をもって立つことができますように。私たちの行動が、他の人々に希望と光をもたらし、あなたの栄光を現すことができますように。私たちの弱さを知っていますので、聖霊様が私たちを導き、助けてください。この願いを、私たちの主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...愛する天の父よ、今日もあなたの御言葉を通して、福音にふさわしく生きることの重要性を教えてくださり、感謝します。私たちがあなたの御子, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-05
+Entry ID: 新改訳2003-20260805
+Original: ...理解し、愛をもって接することができますように。私たちが他人の欠点に目を向けるのではなく、彼らの良い面を見つけ、彼らのために祈ることができますように。私たちの心にあなたの愛と慈悲を満たし、私たちがあなたのように、寛容で赦し深い者となれますように。主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...し、愛をもって接することができますように。私たちが他人の欠点に目を向けるのではなく、彼らの良い面を見つけ、彼らのために祈ることができますように。私たちの心にあなたの愛と慈悲を満たし、私たちがあなたのように、寛容で赦し深い者となれますように。主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-06
+Entry ID: 新改訳2003-20260806
+Original: ...に導いてください。あなたの愛と恵みの中で、平安と喜びを見つけることができますように。私たちが神の子供として、あなたの愛と保護の中で生きることができますように。いつもあなたに感謝し、あなたの栄光を現すことができますように。あなたの御名が崇められますように。イエス様の御名によってお祈りします。アーメン。
+Corrected: ...愛する天の父よ、あなたの愛と保護に心から感謝します。, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-07
+Entry ID: 新改訳2003-20260807
+Original: ...なたの栄光のために用いることができるよう、知恵と力をお与えください。私たちが健康で、清く、あなたの愛を世界に示し、あなたの御国を築くことができるように導いてください。私たちの心と考えをあなたの御霊で満たし、あなたの御旨を理解し、それに従うことができますように。あなたの御名によって祈ります、アーメン。
+Corrected: ..., イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-08
+Entry ID: 新改訳2003-20260808
+Original: ...人々、特に霊的な成長を必要としている人々に対して、深い愛と忍耐をもって接することができますように。彼らのために祈り、励まし、導くことができますように。私たちがキリストの似姿へと成長し、他の人々を助けることができますように。この願いを、あなたの御子イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...、特に霊的な成長を必要としている人々に対して、深い愛と忍耐をもって接することができますように。彼らのために祈り、励まし、導くことができますように。私たちがキリストの似姿へと成長し、他の人々を助けることができますように。この願いを、あなたの御子, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-09
+Entry ID: 新改訳2003-20260809
+Original: ...み、隣人を愛し、あなたを愛するように助けてください。日々の生活の中で、あなたの愛を実践し、あなたの御心にかなう者となれるよう導いてください。私たちをあなたの愛で満たし、あなたの恵みによって、愛のうちに成長させてください。この祈りを、私たちの救い主イエス・キリストの御名によってお祈りします。アーメン。
+Corrected: ...隣人を愛し、あなたを愛するように助けてください。日々の生活の中で、あなたの愛を実践し、あなたの御心にかなう者となれるよう導いてください。私たちをあなたの愛で満たし、あなたの恵みによって、愛のうちに成長させてください。この祈りを、私たちの救い主, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+Date: 2026-08-10
+Entry ID: 新改訳2003-20260810
+Original: ...変え、彼らがあなたを知るように導いてください。私たちの心をあなたに従わせ、聖霊の力によって、この教えに従うことができるようにしてください。私たちがあなたの愛を世界に示し、人々をあなたに引き寄せる者となれるようにしてください。この祈りを、私たちの主イエス・キリストの御名によってお捧げします。アーメン。
+Corrected: ...愛する天の父よ、今日の御言葉を通して、敵を祝福するという難しい課題に直面していることを教えてくださり、感謝します。私たちが怒りや復讐心に屈するのではなく、, イエス・キリストの御名によってお祈りします。アーメン。
+----------------------------------------
+
+... and 354 more corrections
+
+================================================================================
+OVERALL SUMMARY
+================================================================================
+Files processed: 22
+Total entries: 7312
+Total corrections: 4153
+
+✓ Made 4153 corrections successfully!
