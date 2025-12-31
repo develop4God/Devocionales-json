@@ -277,7 +277,9 @@ class DevotionalValidator:
 
 def main():
     """Main function to run validation on all devotional files."""
-    base_path = Path('/home/runner/work/Devocionales-json/Devocionales-json')
+    # Use script directory's parent as base path for portability
+    script_dir = Path(__file__).parent
+    base_path = script_dir.parent
     
     # Define files to validate
     languages = ['es', 'en', 'pt', 'fr', 'zh', 'ja']
