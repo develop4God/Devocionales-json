@@ -73,10 +73,12 @@ class DevotionalCorrector:
     def correct_english_prayer_closing(self, prayer_text: str) -> Tuple[str, bool]:
         """Correct English prayer closings."""
         patterns_to_fix = [
+            # "We ask" variations with adjectives
+            (r',?\s*[Ww]e\s+ask\s+(all\s+)?th(is|ese\s+things)\s+in\s+the\s+(powerful|precious|redeeming|mighty|holy|blessed)?\s*(and\s+\w+)?\s*name\s+of\s+Jesus,?\s*amen\.?\s*$', ', In the name of Jesus, amen.'),
+            (r',?\s*[Ww]e\s+ask\s+(all\s+)?th(is|ese\s+things)\s+in\s+the\s+name\s+of\s+Jesus,?\s*amén\.?\s*$', ', In the name of Jesus, amen.'),
             # "amén" should be "amen" in English
             (r',?\s*[Ii]n\s+the\s+name\s+of\s+Jesus,?\s*amén\.?\s*$', ', In the name of Jesus, amen.'),
             (r',?\s*[Ii]n\s+Jesus[\'\']?\s*name,?\s*amen\.?\s*$', ', In the name of Jesus, amen.'),
-            (r',?\s*[Ww]e\s+ask\s+(all\s+)?th(is|ese\s+things)\s+in\s+the\s+name\s+of\s+Jesus,?\s*amén\.?\s*$', ', In the name of Jesus, amen.'),
             # "In Your name" variations
             (r',?\s*[Ii]n\s+[Yy]our\s+name,?\s*amen\.?\s*$', ', In the name of Jesus, amen.'),
             (r',?\s*[Ii]n\s+[Yy]our\s+name,?\s*amén\.?\s*$', ', In the name of Jesus, amen.'),
@@ -121,9 +123,15 @@ class DevotionalCorrector:
     def correct_french_prayer_closing(self, prayer_text: str) -> Tuple[str, bool]:
         """Correct French prayer closings."""
         patterns_to_fix = [
+            # "dans le nom" should be "au nom"
+            (r',?\s*[Dd]ans\s+le\s+nom\s+de\s+Jésus,?\s*amen\.?\s*$', ', Au nom de Jésus, amen.'),
+            (r',?\s*[Dd]ans\s+le\s+nom\s+de\s+Jésus,?\s*amén\.?\s*$', ', Au nom de Jésus, amen.'),
             # "en le nom" should be "au nom"
             (r',?\s*[Ee]n\s+le\s+nom\s+de\s+Jésus,?\s*amén\.?\s*$', ', Au nom de Jésus, amen.'),
-            (r',?\s*[Dd]ans\s+le\s+nom\s+de\s+Jésus,?\s*amen\.?\s*$', ', Au nom de Jésus, amen.'),
+            (r',?\s*[Ee]n\s+le\s+nom\s+de\s+Jésus,?\s*amen\.?\s*$', ', Au nom de Jésus, amen.'),
+            # "en ce nom" should be "au nom"
+            (r',?\s*[Ee]n\s+ce\s+nom\s+de\s+Jésus,?\s*amen\.?\s*$', ', Au nom de Jésus, amen.'),
+            (r',?\s*[Ee]n\s+ce\s+nom\s+de\s+Jésus,?\s*amén\.?\s*$', ', Au nom de Jésus, amen.'),
             # Wrong accent (amén instead of amen)
             (r',?\s*[Aa]u\s+nom\s+de\s+Jésus,?\s*amén\.?\s*$', ', Au nom de Jésus, amen.'),
             # "Amen" instead of "amen"
