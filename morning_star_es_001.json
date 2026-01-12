@@ -1,0 +1,68 @@
+{
+  "id": "estrella-manana-001",
+  "tipo": "discovery",
+  "fecha": "2026-01-15",
+  "titulo": "El Heraldo de la Luz",
+  "versiculo_clave": "Hasta que el día esclarezca y la Estrella de la Mañana salga en vuestros corazones.",
+  "secciones": [
+    {
+      "tipo": "natural",
+      "icono": "🔭",
+      "titulo": "El Fenómeno de Venus",
+      "contenido": "En astronomía, Venus es conocido como el \"Lucero del Alba\". A diferencia de las estrellas lejanas, Venus está cerca y su brillo es tan intenso que es lo último que desaparece cuando el sol sale.\n\nVenus brilla con más fuerza durante la cuarta vigilia (entre las 3:00 a.m. y las 6:00 a.m.), el momento en que la atmósfera está más fría y la oscuridad parece más densa.\n\nVenus no es el sol, pero es su embajador. Su aparición en el horizonte es la prueba física de que la rotación de la tierra ha vencido a la noche. Si ves a Venus, el amanecer es matemáticamente inevitable."
+    },
+    {
+      "tipo": "natural",
+      "icono": "🏛️",
+      "titulo": "Los Navegantes y los Magos",
+      "contenido": "Antes del GPS, los marineros dependían de la Estrella de la Mañana para corregir su rumbo justo antes del alba. Perderla de vista significaba encallar en las rocas.\n\nEn Mesopotamia, los sabios observaban los astros para anunciar el nacimiento de reyes. La profecía de Balaam sobre la \"Estrella de Jacob\" quedó registrada siglos antes de que otros sabios de Oriente vieran una luz que anunciaba al Rey del pacto."
+    },
+    {
+      "tipo": "scripture",
+      "titulo": "La Seguridad de la Profecía",
+      "pasajes": [
+        {
+          "referencia": "2 Pedro 1:19",
+          "texto": "Tenemos también la palabra profética más segura, a la cual hacéis bien en estar atentos como a una antorcha que alumbra en lugar oscuro, hasta que el día esclarezca y la estrella de la mañana salga en vuestros corazones.",
+          "aplicacion": "Así como el navegante fija su ojo en Venus para no naufragar, tú debes fijar tu fe en la Palabra. Cuando el mundo se siente como un lugar oscuro, la Biblia es la estrella que guía tu rumbo hasta que la paz de Dios amanece en tu interior."
+        }
+      ]
+    },
+    {
+      "tipo": "scripture",
+      "titulo": "La Identidad de la Victoria",
+      "pasajes": [
+        {
+          "referencia": "Apocalipsis 22:16",
+          "texto": "Yo soy la raíz y el linaje de David, la estrella resplandeciente de la mañana.",
+          "aplicacion": "Jesús se presenta como la garantía de que tu noche terminó. En Él, tu historia humana se encuentra con la eternidad de Dios."
+        }
+      ]
+    },
+    {
+      "tipo": "scripture",
+      "titulo": "El Regalo para el Vencedor",
+      "pasajes": [
+        {
+          "referencia": "Apocalipsis 2:26, 28",
+          "texto": "Y al que venciere... le daré la estrella de la mañana.",
+          "aplicacion": "Dios no solo te da la victoria: te da al Victorioso. La misma luz que guía al universo ahora vive dentro de ti."
+        }
+      ]
+    }
+  ],
+  "preguntas_discovery": [
+    "¿En qué área de tu vida sientes que estás en la \"cuarta vigilia\"?",
+    "¿Qué significa para ti fijar tus ojos en la Palabra en medio de la oscuridad?",
+    "¿Cómo puedes reflejar hoy la luz de Cristo a otros?"
+  ],
+  "oracion": "Señor Jesús, gracias por ser mi Estrella de la Mañana. Hoy dejo de mirar la densidad de la oscuridad y fijo mis ojos en Tu brillo. Gracias porque Tu presencia en mí es la garantía de que el sol de justicia se levantará con sanidad en sus alas. Guía mi rumbo hoy como el gran Navegante de mi alma. Amén.",
+  "tags": [
+    "luz",
+    "esperanza",
+    "cristo",
+    "promesa"
+  ],
+  "version": "RVR1960",
+  "language": "es"
+}
