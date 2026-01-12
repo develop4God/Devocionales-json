@@ -1,0 +1,10 @@
+{
+  "studies": [
+    {
+      "id": "morning_star_001",
+      "files": {
+        "es": "morning_star_es_001.json"
+      }
+    }
+  ]
+}
