@@ -4,7 +4,12 @@
       "id": "morning_star_001",
       "version": "1.1",
       "files": {
-        "es": "morning_star_es_001.json"
+        "es": "morning_star_es_001.json",
+        "en": "morning_star_en_001.json"
+      },
+      "titles": {
+        "es": "Estrella de la Mañana",
+        "en": "Morning Star"
       }
     }
   ]
