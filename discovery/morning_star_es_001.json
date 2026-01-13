@@ -1,68 +1,146 @@
 {
   "id": "morning_star_001",
-  "tipo": "discovery",
-  "fecha": "2026-01-15",
-  "titulo": "El Heraldo de la Luz",
-  "versiculo_clave": "2 Pedro 1:19: Tenemos también la palabra profética más segura, a la cual hacéis bien en estar atentos como a una antorcha que alumbra en lugar oscuro, hasta que el día esclarezca y el lucero de la mañana salga en vuestros corazones;",
-  "secciones": [
+  "content_version": "1.0",
+  "type": "discovery",
+  "date": "2026-01-15",
+  "title": "El Heraldo de la Luz",
+  "subtitle": "La conexión eterna entre la creación, la profecía y tu corazón",
+  "language": "es",
+  "version": "RVR1960",
+  "estimated_reading_minutes": 5,
+  "key_verse": {
+    "reference": "2 Pedro 1:19",
+    "text": "Tenemos también la palabra profética más segura, a la cual hacéis bien en estar atentos como a una antorcha que alumbra en lugar oscuro, hasta que el día esclarezca y el lucero de la mañana salga en vuestros corazones."
+  },
+  
+  "cards": [
     {
-      "tipo": "natural",
-      "icono": "🔭",
-      "titulo": "El Fenómeno de Venus",
-      "contenido": "En astronomía, Venus es conocido como el \"Lucero del Alba\". A diferencia de las estrellas lejanas, Venus está cerca y su brillo es tan intenso que es lo último que desaparece cuando el sol sale.\n\nVenus brilla con más fuerza durante la cuarta vigilia (entre las 3:00 a.m. y las 6:00 a.m.), el momento en que la atmósfera está más fría y la oscuridad parece más densa.\n\nVenus no es el sol, pero es su embajador. Su aparición en el horizonte es la prueba física de que la rotación de la tierra ha vencido a la noche. Si ves a Venus, el amanecer es matemáticamente inevitable."
+      "order": 1,
+      "type": "natural_revelation",
+      "icon": "🔭",
+      "title": "El Testimonio de la Creación: Venus",
+      "subtitle": "Dios escribió Su plan en los cielos antes de escribirlo en papel",
+      "content": "En astronomía, Venus es conocido como el 'Lucero del Alba'. A diferencia de las estrellas lejanas, Venus está cerca y su brillo es tan intenso que es lo último que desaparece cuando el sol sale.\n\nVenus alcanza su máximo esplendor durante la cuarta vigilia (entre las 3:00 a.m. y las 6:00 a.m.), el momento en que la atmósfera está más fría y la oscuridad parece más densa.\n\nVenus no es el sol, pero es su heraldo (Eskēnōsen - evidencia física). Su aparición en el horizonte es la prueba de que la rotación de la tierra ha vencido a la noche. Si ves a Venus, el amanecer es matemáticamente inevitable.",
+      "revelation_key": "Al igual que Venus refleja la gloria del Sol que aún no vemos, nosotros reflejamos la gloria de Cristo en medio de la oscuridad del mundo."
     },
+    
     {
-      "tipo": "natural",
-      "icono": "🏛️",
-      "titulo": "Los Navegantes y los Magos",
-      "contenido": "Antes del GPS, los marineros dependían de la Estrella de la Mañana para corregir su rumbo justo antes del alba. Perderla de vista significaba encallar en las rocas.\n\nEn Mesopotamia, los sabios observaban los astros para anunciar el nacimiento de reyes. La profecía de Balaam sobre la \"Estrella de Jacob\" quedó registrada siglos antes de que otros sabios de Oriente vieran una luz que anunciaba al Rey del pacto."
-    },
-    {
-      "tipo": "scripture",
-      "titulo": "La Seguridad de la Profecía",
-      "pasajes": [
+      "order": 2,
+      "type": "historical_thread",
+      "icon": "🏛️",
+      "title": "El Hilo Profético: De Balaam a los Magos",
+      "subtitle": "Un testimonio que atraviesa 1,400 años",
+      "content": "La profecía de Balaam en Números 24:17 declaró: 'Saldrá ESTRELLA de Jacob, y se levantará cetro de Israel'. Esta profecía quedó registrada en las bibliotecas de Mesopotamia.\n\nSiglos después, Daniel fue nombrado 'Jefe de los Magos' en Babilonia (Daniel 2:48). Él conectó la 'Estrella' de Balaam con el 'Tiempo' de las 70 semanas de su propia profecía.\n\nCuando los Magos de Oriente vieron la estrella sobre Belén, no seguían un planeta común. Seguían una luz que se movía de norte a sur y se detenía sobre una casa: la Shekinah (Gloria de Dios) guiando a los gentiles hacia la Nueva Shekinah encarnada.",
+      "scripture_connections": [
         {
-          "referencia": "2 Pedro 1:19",
-          "texto": "Tenemos también la palabra profética más segura, a la cual hacéis bien en estar atentos como a una antorcha que alumbra en lugar oscuro, hasta que el día esclarezca y la estrella de la mañana salga en vuestros corazones.",
-          "aplicacion": "Así como el navegante fija su ojo en Venus para no naufragar, tú debes fijar tu fe en la Palabra. Cuando el mundo se siente como un lugar oscuro, la Biblia es la estrella que guía tu rumbo hasta que la paz de Dios amanece en tu interior."
-        }
-      ]
-    },
-    {
-      "tipo": "scripture",
-      "titulo": "La Identidad de la Victoria",
-      "pasajes": [
+          "reference": "Números 24:17",
+          "text": "Lo veo, mas no ahora; lo contemplo, mas no de cerca; saldrá ESTRELLA de Jacob, y se levantará cetro de Israel"
+        },
         {
-          "referencia": "Apocalipsis 22:16",
-          "texto": "Yo soy la raíz y el linaje de David, la estrella resplandeciente de la mañana.",
-          "aplicacion": "Jesús se presenta como la garantía de que tu noche terminó. En Él, tu historia humana se encuentra con la eternidad de Dios."
+          "reference": "Mateo 2:2",
+          "text": "¿Dónde está el rey de los judíos, que ha nacido? Porque su estrella hemos visto en el oriente, y venimos a adorarle"
         }
-      ]
+      ],
+      "revelation_key": "La profecía no se perdió. Dios preservó Su testimonio en las naciones para que cuando Cristo naciera, hasta los gentiles supieran buscarlo."
     },
+    
     {
-      "tipo": "scripture",
-      "titulo": "El Regalo para el Vencedor",
-      "pasajes": [
+      "order": 3,
+      "type": "greek_exegesis",
+      "icon": "📖",
+      "title": "Los Tres Títulos de la Victoria",
+      "subtitle": "Análisis del texto original",
+      "greek_words": [
         {
-          "referencia": "Apocalipsis 2:26, 28",
-          "texto": "Y al que venciere... le daré la estrella de la mañana.",
-          "aplicacion": "Dios no solo te da la victoria: te da al Victorioso. La misma luz que guía al universo ahora vive dentro de ti."
+          "word": "Logos",
+          "transliteration": "Λόγος",
+          "reference": "Juan 1:1",
+          "meaning": "El Diseño / La Palabra / La Expresión del pensamiento de Dios",
+          "revelation": "Él es la expresión del pensamiento de Dios. Antes de que existiera tu problema, el Logos ya era. Él es el Arquitecto que puede reconstruir cualquier área de tu vida.",
+          "application": "Cuando tu vida parece caos, recuerda: el mismo Logos que dijo 'Sea la luz' en Génesis puede hablar orden sobre tu situación."
+        },
+        {
+          "word": "Eskēnōsen",
+          "transliteration": "ἐσκήνωσεν",
+          "reference": "Juan 1:14",
+          "meaning": "Puso Su tienda / Tabernáculo / Habitó",
+          "revelation": "La palabra viene de 'Skēnē' (tienda). Dios no quería estar en un templo de piedra; se metió en una 'tienda de carne' (sarx) para entender tu dolor, tu sed y tu cansancio desde adentro.",
+          "application": "Jesús no es un Dios distante. Él vivió en la misma 'tienda frágil' que tú habitas. Conoce tus limitaciones porque las experimentó."
+        },
+        {
+          "word": "Amnos",
+          "transliteration": "ἀμνός",
+          "reference": "Juan 1:29",
+          "meaning": "El Cordero",
+          "related_verb": "Airōn (αἴρων) - levantar, cargar y llevar lejos",
+          "revelation": "Juan dice: 'He aquí el Cordero de Dios que Airōn el pecado del mundo'. No solo lo cubre con sangre, ¡lo levanta de tus hombros, lo carga y se lo lleva lejos para que camines libre!",
+          "application": "El peso de tu pasado, tu vergüenza, tu culpa - Cristo no solo lo perdonó, lo quitó completamente. Ya no está sobre ti."
         }
-      ]
+      ],
+      "revelation_key": "Cristo es simultáneamente el Diseño eterno (Logos), la presencia cercana (Eskēnōsen) y el libertador total (Amnos). No falta nada en Él."
+    },
+    
+    {
+      "order": 4,
+      "type": "prophetic_promise",
+      "icon": "💎",
+      "title": "La Promesa para el Vencedor",
+      "subtitle": "Apocalipsis 2:28 - Tu herencia",
+      "content": "En Apocalipsis 2:26-28, Jesús promete: 'Al que venciere y guardare mis obras hasta el fin... le daré la estrella de la mañana.'\n\n¿Qué significa esta promesa?\n\nNo te está dando un objeto astronómico. Te está dando a Sí mismo. En Apocalipsis 22:16, Jesús declara: 'Yo soy la raíz y el linaje de David, la estrella resplandeciente de la mañana.'\n\nLa misma luz que guió a los Magos, la misma estrella profetizada por Balaam, la misma gloria que puso orden en el caos del Génesis - ahora te pertenece. No es algo que miras de lejos; es Alguien que vive dentro de ti.\n\nCuando Venus aparece, el marinero sabe que el amanecer es inevitable. Cuando Cristo vive en ti, tu victoria es inevitable. No es una posibilidad, es una garantía matemática y espiritual.",
+      "scripture_anchor": {
+        "reference": "Apocalipsis 22:16",
+        "text": "Yo Jesús he enviado mi ángel para daros testimonio de estas cosas en las iglesias. Yo soy la raíz y el linaje de David, la estrella resplandeciente de la mañana."
+      },
+      "identity_statement": "No eres alguien que espera la luz. Eres portador de la Estrella misma. Donde tú estás, el amanecer de Dios irrumpe.",
+      "revelation_key": "La victoria no es algo que luchas por obtener. Es Alguien que ya posees."
+    },
+    
+    {
+      "order": 5,
+      "type": "discovery_activation",
+      "icon": "🧘",
+      "title": "Descubrimiento Personal",
+      "discovery_questions": [
+        {
+          "category": "Situación",
+          "question": "¿En qué área de tu vida sientes que estás en la 'cuarta vigilia' - el momento más oscuro y frío justo antes del amanecer?"
+        },
+        {
+          "category": "Dirección",
+          "question": "Los navegantes antiguos encallaban al perder de vista la Estrella de la Mañana. ¿Qué sucede en tu vida cuando dejas de mirar la 'Palabra profética más segura'?"
+        },
+        {
+          "category": "Identidad",
+          "question": "Balam describió a Israel como 'tiendas' (tabernáculos) donde habitaba la Gloria. ¿Cómo cambia tu perspectiva saber que eres una 'tienda' donde habita la misma Gloria que guió a los Magos?"
+        }
+      ],
+      "prayer": {
+        "title": "Oración de Sellado",
+        "content": "Señor Jesús, mi Logos y mi Estrella de la Mañana. Gracias porque hoy entiendo que mi victoria no es una posibilidad, sino una garantía matemática y espiritual. Gracias por levantar (airōn) mi carga hoy. Fijo mis ojos en Tu brillo y decido caminar como un tabernáculo de Tu gloria en medio de este mundo. Que Tu luz en mí sea el heraldo del nuevo día para los que me rodean. Como Venus anuncia el sol, que mi vida anuncie Tu reino. Amén."
+      }
     }
   ],
-  "preguntas_discovery": [
-    "¿En qué área de tu vida sientes que estás en la \"cuarta vigilia\"?",
-    "¿Qué significa para ti fijar tus ojos en la Palabra en medio de la oscuridad?",
-    "¿Cómo puedes reflejar hoy la luz de Cristo a otros?"
-  ],
-  "oracion": "Señor Jesús, gracias por ser mi Estrella de la Mañana. Hoy dejo de mirar la densidad de la oscuridad y fijo mis ojos en Tu brillo. Gracias porque Tu presencia en mí es la garantía de que el sol de justicia se levantará con sanidad en sus alas. Guía mi rumbo hoy como el gran Navegante de mi alma. Amén.",
+  
   "tags": [
     "luz",
     "esperanza",
     "cristo",
-    "promesa"
+    "promesa",
+    "victoria",
+    "identidad",
+    "profecía"
   ],
-  "version": "RVR1960",
-  "language": "es"
+  
+  "metadata": {
+    "total_word_count": 850,
+    "greek_words_count": 3,
+    "scripture_references_count": 6,
+    "difficulty_level": "intermediate",
+    "themes": [
+      "Creación y profecía",
+      "Identidad en Cristo",
+      "Promesa mesiánica",
+      "Exégesis griega"
+    ]
+  }
 }
