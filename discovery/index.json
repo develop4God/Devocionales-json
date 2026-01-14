@@ -12,6 +12,39 @@
         "es": "Estrella de la Mañana",
         "en": "Day Star"
       }
+    },
+    {
+      "id": "lamb_of_god_001",
+      "version": "1.0",
+      "emoji": "🐑",
+      "files": {
+        "es": "lamb_of_god_es_001.json"
+      },
+      "titles": {
+        "es": "El Cordero de Dios"
+      }
+    },
+    {
+      "id": "natanael_fig_tree_001",
+      "version": "1.0",
+      "emoji": "🌳",
+      "files": {
+        "es": "natanael_fig_tree_es_001.json"
+      },
+      "titles": {
+        "es": "Debajo de la Higuera"
+      }
+    },
+    {
+      "id": "cana_wedding_001",
+      "version": "1.0",
+      "emoji": "🍷",
+      "files": {
+        "es": "cana_wedding_es_001.json"
+      },
+      "titles": {
+        "es": "Las Bodas de Caná"
+      }
     }
   ]
 }
