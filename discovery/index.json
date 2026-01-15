@@ -14,14 +14,27 @@
       }
     },
     {
+      "id": "logos_creation_001",
+      "version": "1.0",
+      "emoji": "📖",
+      "files": {
+        "es": "logos_creation_es_001.json"
+      },
+      "titles": {
+        "es": "En el Principio era el Verbo"
+      }
+    },
+    {
       "id": "lamb_of_god_001",
       "version": "1.0",
       "emoji": "🐑",
       "files": {
-        "es": "lamb_of_god_es_001.json"
+        "es": "lamb_of_god_es_001.json",
+        "en": "lamb_of_god_en_001.json"
       },
       "titles": {
-        "es": "El Cordero de Dios"
+        "es": "El Cordero de Dios",
+        "en": "The Lamb of God"
       }
     },
     {
@@ -29,10 +42,12 @@
       "version": "1.0",
       "emoji": "🌳",
       "files": {
-        "es": "natanael_fig_tree_es_001.json"
+        "es": "natanael_fig_tree_es_001.json",
+        "en": "natanael_fig_tree_en_001.json"
       },
       "titles": {
-        "es": "Debajo de la Higuera"
+        "es": "Debajo de la Higuera",
+        "en": "Under the Fig Tree"
       }
     },
     {
@@ -40,10 +55,34 @@
       "version": "1.1",
       "emoji": "🍷",
       "files": {
-        "es": "cana_wedding_es_001.json"
+        "es": "cana_wedding_es_001.json",
+        "en": "cana_wedding_en_001.json"
       },
       "titles": {
-        "es": "Las Bodas de Caná"
+        "es": "Las Bodas de Caná",
+        "en": "The Wedding at Cana"
+      }
+    },
+    {
+      "id": "born_again_001",
+      "version": "1.0",
+      "emoji": "💨",
+      "files": {
+        "es": "born_again_es_001.json"
+      },
+      "titles": {
+        "es": "Es Necesario Nacer de Nuevo"
+      }
+    },
+    {
+      "id": "temple_cleansing_001",
+      "version": "1.0",
+      "emoji": "🔥",
+      "files": {
+        "es": "temple_cleansing_es_001.json"
+      },
+      "titles": {
+        "es": "La Purificación del Templo"
       }
     }
   ]
