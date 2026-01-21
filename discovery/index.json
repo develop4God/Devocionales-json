@@ -149,128 +149,152 @@
     },
     {
       "id": "gethsemane_agony_001",
-      "version": "1.0",
+      "version": "1.1",
       "emoji": "🫒",
       "files": {
         "es": "gethsemane_agony_es_001.json",
-        "en": "gethsemane_agony_en_001.json"
+        "en": "gethsemane_agony_en_001.json",
+        "pt": "gethsemane_agony_pt_001.json"
       },
       "titles": {
         "es": "La Agonía del Testador",
-        "en": "The Agony of the Testator"
+        "en": "The Agony of the Testator",
+        "pt": "A Agonia do Testador"
       },
       "subtitles": {
         "es": "Cuando el Hijo de Dios suda sangre en la prensa de aceite",
-        "en": "When the Son of God sweats blood in the olive press"
+        "en": "When the Son of God sweats blood in the olive press",
+        "pt": "Quando o Filho de Deus sua sangue no lagar de azeite"
       },
       "estimated_reading_minutes": {
         "es": 7,
-        "en": 7
+        "en": 7,
+        "pt": 7
       }
     },
     {
       "id": "new_covenant_cup_001",
-      "version": "1.0",
+      "version": "1.1",
       "emoji": "🍷",
       "files": {
         "es": "new_covenant_cup_es_001.json",
-        "en": "new_covenant_cup_en_001.json"
+        "en": "new_covenant_cup_en_001.json",
+        "pt": "new_covenant_cup_pt_001.json"
       },
       "titles": {
         "es": "La Copa del Nuevo Pacto",
-        "en": "The Cup of the New Covenant"
+        "en": "The Cup of the New Covenant",
+        "pt": "A Taça da Nova Aliança"
       },
       "subtitles": {
         "es": "Cuando el Testador firma con su sangre el testamento de nuestra libertad",
-        "en": "When the Testator signs with his blood the testament of our freedom"
+        "en": "When the Testator signs with his blood the testament of our freedom",
+        "pt": "Quando o Testador assina com seu sangue o testamento de nossa liberdade"
       },
       "estimated_reading_minutes": {
         "es": 7,
-        "en": 7
+        "en": 7,
+        "pt": 7
       }
     },
     {
       "id": "cup_of_wrath_001",
-      "version": "1.1",
+      "version": "1.2",
       "emoji": "😱",
       "files": {
         "es": "cup_of_wrath_es_001.json",
-        "en": "cup_of_wrath_en_001.json"
+        "en": "cup_of_wrath_en_001.json",
+        "pt": "cup_of_wrath_pt_001.json"
       },
       "titles": {
         "es": "La Copa de la Ira",
-        "en": "The Cup of Wrath"
+        "en": "The Cup of Wrath",
+        "pt": "A Taça da Ira"
       },
       "subtitles": {
         "es": "Cuando el Inocente bebe el juicio que nos correspondía",
-        "en": "When the Innocent drinks the judgment that belonged to us"
+        "en": "When the Innocent drinks the judgment that belonged to us",
+        "pt": "Quando o Inocente bebe o juízo que nos pertencia"
       },
       "estimated_reading_minutes": {
         "es": 8,
-        "en": 8
+        "en": 8,
+        "pt": 8
       }
     },
     {
       "id": "veil_torn_001",
-      "version": "1.1",
+      "version": "1.2",
       "emoji": "🏛️",
       "files": {
         "es": "veil_torn_es_001.json",
-        "en": "veil_torn_en_001.json"
+        "en": "veil_torn_en_001.json",
+        "pt": "veil_torn_pt_001.json"
       },
       "titles": {
         "es": "El Velo Rasgado",
-        "en": "The Torn Veil"
+        "en": "The Torn Veil",
+        "pt": "O Véu Rasgado"
       },
       "subtitles": {
         "es": "Cuando Dios abre el camino al Lugar Santísimo",
-        "en": "When God opens the way to the Holy of Holies"
+        "en": "When God opens the way to the Holy of Holies",
+        "pt": "Quando Deus abre o caminho para o Santo dos Santos"
       },
       "estimated_reading_minutes": {
         "es": 7,
-        "en": 7
+        "en": 7,
+        "pt": 7
       }
     },
     {
       "id": "saints_resurrected_001",
-      "version": "1.0",
+      "version": "1.1",
       "emoji": "⚰️",
       "files": {
         "es": "saints_resurrected_es_001.json",
-        "en": "saints_resurrected_en_001.json"
+        "en": "saints_resurrected_en_001.json",
+        "pt": "saints_resurrected_pt_001.json"
       },
       "titles": {
         "es": "Los Santos Resucitados",
-        "en": "The Resurrected Saints"
+        "en": "The Resurrected Saints",
+        "pt": "Os Santos Ressuscitados"
       },
       "subtitles": {
         "es": "Cuando la muerte de Cristo liberó a los cautivos del Hades",
-        "en": "When Christ's death freed the captives from Hades"
+        "en": "When Christ's death freed the captives from Hades",
+        "pt": "Quando a morte de Cristo libertou os cativos do Hades"
       },
       "estimated_reading_minutes": {
         "es": 8,
-        "en": 8
+        "en": 8,
+        "pt": 8
       }
     },
     {
       "id": "passed_from_death_001",
-      "version": "1.0",
+      "version": "1.1",
       "emoji": "🔄",
       "files": {
         "es": "passed_from_death_es_001.json",
-        "en": "passed_from_death_en_001.json"
+        "en": "passed_from_death_en_001.json",
+        "pt": "passed_from_death_pt_001.json"
       },
       "titles": {
         "es": "Pasados de Muerte a Vida",
-        "en": "Passed from Death to Life"
+        "en": "Passed from Death to Life",
+        "pt": "Passados de Morte para Vida"
       },
       "subtitles": {
         "es": "La revelación final: ya no puedes 'des-nacer'",
-        "en": "The final revelation: you cannot 'un-birth' yourself"
+        "en": "The final revelation: you cannot 'un-birth' yourself",
+        "pt": "A revelação final: você não pode 'des-nascer'"
       },
       "estimated_reading_minutes": {
         "es": 8,
-        "en": 8
+        "en": 8,
+        "pt": 8
       }
     }
   ]

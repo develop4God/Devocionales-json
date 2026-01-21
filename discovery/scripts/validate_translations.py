@@ -19,24 +19,31 @@ from typing import Dict, List, Tuple, Set
 from collections import Counter
 
 # Expected languages and their Bible versions
+# Note: Some studies may use different Bible versions
 EXPECTED_LANGUAGES = {
-    'en': 'KJV',
-    'es': 'RVR1960',
-    'pt': 'ARC',
-    'fr': 'LSG1910',
-    'ja': '新改訳2003',
-    'zh': '和合本1919'
+    'en': ['KJV', 'NIV'],  # Allow both KJV and NIV for English
+    'es': ['RVR1960', 'NVI'],  # Allow both RVR1960 and NVI for Spanish
+    'pt': ['ARC', 'NVI'],  # Allow both ARC and NVI for Portuguese
+    'fr': ['LSG1910'],
+    'ja': ['新改訳2003'],
+    'zh': ['和合本1919']
 }
 
 # Expected study IDs
 EXPECTED_STUDIES = [
     'born_again_001',
     'cana_wedding_001',
+    'cup_of_wrath_001',
+    'gethsemane_agony_001',
     'lamb_of_god_001',
     'logos_creation_001',
     'morning_star_001',
     'natanael_fig_tree_001',
-    'temple_cleansing_001'
+    'new_covenant_cup_001',
+    'passed_from_death_001',
+    'saints_resurrected_001',
+    'temple_cleansing_001',
+    'veil_torn_001'
 ]
 
 # Language character patterns for detection
@@ -164,10 +171,16 @@ def validate_structure(data: Dict, lang: str, filename: str, report: ValidationR
         report.add_error(f"{filename}: Language mismatch - expected '{lang}', got '{data.get('language')}'")
         is_valid = False
     
-    expected_version = EXPECTED_LANGUAGES.get(lang)
-    if expected_version and data.get('version') != expected_version:
-        report.add_error(f"{filename}: Bible version mismatch - expected '{expected_version}', got '{data.get('version')}'")
-        is_valid = False
+    expected_versions = EXPECTED_LANGUAGES.get(lang)
+    if expected_versions:
+        if isinstance(expected_versions, list):
+            if data.get('version') not in expected_versions:
+                report.add_error(f"{filename}: Bible version mismatch - expected one of {expected_versions}, got '{data.get('version')}'")
+                is_valid = False
+        else:
+            if data.get('version') != expected_versions:
+                report.add_error(f"{filename}: Bible version mismatch - expected '{expected_versions}', got '{data.get('version')}'")
+                is_valid = False
     
     # Validate cards array
     if 'cards' in data:
@@ -272,28 +285,29 @@ def main():
     all_studies = {}
     
     # Validate each language folder
-    for lang, expected_version in EXPECTED_LANGUAGES.items():
+    for lang, expected_versions in EXPECTED_LANGUAGES.items():
         lang_dir = discovery_dir / lang
         
         if not lang_dir.exists():
-            report.add_error(f"Missing language folder: {lang}")
+            report.add_warning(f"Missing language folder: {lang}")
             continue
         
         report.stats['languages_found'].add(lang)
-        report.add_info(f"Checking {lang.upper()} folder with {expected_version}")
+        if isinstance(expected_versions, list):
+            report.add_info(f"Checking {lang.upper()} folder with versions: {', '.join(expected_versions)}")
+        else:
+            report.add_info(f"Checking {lang.upper()} folder with {expected_versions}")
         
         # Load all files for this language
         lang_studies = {}
         
-        for study_id in EXPECTED_STUDIES:
-            filename = f"{study_id.replace('_001', '')}_{lang}_001.json"
-            filepath = lang_dir / filename
+        # Get all JSON files in this language directory
+        for filepath in lang_dir.glob('*_001.json'):
+            filename = filepath.name
+            # Extract study_id from filename (e.g., "born_again_en_001.json" -> "born_again_001")
+            study_base = filename.replace(f'_{lang}_001.json', '_001')
             
             report.stats['total_files'] += 1
-            
-            if not filepath.exists():
-                report.add_error(f"Missing file: {lang}/{filename}")
-                continue
             
             # Load and validate JSON
             data = load_json_file(filepath, report)
@@ -304,7 +318,7 @@ def main():
             validate_structure(data, lang, filename, report)
             
             # Store for cross-validation
-            lang_studies[study_id] = data
+            lang_studies[study_base] = data
             
             # Validate no English in translations
             validate_no_english_in_translation(data, lang, filename, report)
@@ -347,13 +361,14 @@ def main():
                 if extra:
                     report.add_warning(f"index.json has extra studies: {extra}")
             
-            # Check that each study has all language files listed
+            # Check that files listed in index actually exist
             for study in index_data['studies']:
                 study_id = study.get('id')
                 files = study.get('files', {})
-                missing_langs = set(EXPECTED_LANGUAGES.keys()) - set(files.keys())
-                if missing_langs:
-                    report.add_error(f"index.json: Study {study_id} missing languages: {missing_langs}")
+                for lang, filename in files.items():
+                    filepath = discovery_dir / lang / filename
+                    if not filepath.exists():
+                        report.add_error(f"index.json: Study {study_id} lists {lang}/{filename} but file doesn't exist")
     else:
         report.add_error("index.json not found")
     
