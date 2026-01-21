@@ -1,0 +1,145 @@
+{
+  "id": "morning_star_001",
+  "type": "discovery",
+  "date": "2026-01-15",
+  "title": "Le Héraut de la Lumière",
+  "subtitle": "Le lien éternel entre la création, la prophétie et votre cœur",
+  "language": "fr",
+  "version": "LSG1910",
+  "estimated_reading_minutes": 6,
+  "key_verse": {
+    "reference": "2 Pierre 1:19",
+    "text": "Et nous tenons pour d'autant plus certaine la parole prophétique, à laquelle vous faites bien de prêter attention, comme à une lampe qui brille dans un lieu obscur, jusqu'à ce que le jour vienne à paraître et que l'étoile du matin se lève dans vos coeurs;"
+  },
+  
+  "cards": [
+    {
+      "order": 1,
+      "type": "natural_revelation",
+      "icon": "🔭",
+      "title": "Le Témoignage de la Création : Vénus",
+      "subtitle": "Dieu a écrit Son plan dans les cieux avant de l'écrire sur papier",
+      "content": "En astronomie, Vénus est connue comme « l'Étoile du Matin ». Contrairement aux étoiles lointaines, Vénus est proche et son éclat est si intense qu'elle est la dernière chose à disparaître lorsque le soleil se lève.\n\nVénus atteint sa splendeur maximale pendant la quatrième veille (entre 3h00 et 6h00 du matin), le moment où l'atmosphère est la plus froide et où l'obscurité semble la plus dense.\n\nVénus n'est pas le soleil, mais elle en est le héraut (Eskēnōsen - preuve physique). Son apparition à l'horizon est la preuve que la rotation de la terre a vaincu la nuit. Si vous voyez Vénus, le lever du soleil est mathématiquement inévitable.",
+      "revelation_key": "Tout comme Vénus reflète la gloire du Soleil que nous ne voyons pas encore, nous reflétons la gloire de Christ au milieu des ténèbres du monde."
+    },
+    
+    {
+      "order": 2,
+      "type": "historical_thread",
+      "icon": "🏛️",
+      "title": "Le Fil Prophétique : De Balaam aux Mages",
+      "subtitle": "Un témoignage couvrant 1 400 ans",
+      "content": "La prophétie de Balaam dans Nombres 24:17 déclarait : « Un astre sort de Jacob, Un sceptre s'élève d'Israël. » Cette prophétie fut enregistrée dans les bibliothèques de Mésopotamie.\n\nDes siècles plus tard, Daniel fut nommé « Chef des Magiciens » à Babylone (Daniel 2:48). Il relia « l'Astre » de Balaam au « Temps » des soixante-dix semaines de sa propre prophétie.\n\nLorsque les Sages d'Orient virent l'étoile au-dessus de Bethléem, ils ne suivaient pas une planète commune. Ils suivaient une lumière qui se déplaçait du nord au sud et s'arrêta au-dessus d'une maison : la Shekinah (Gloire de Dieu) guidant les Gentils vers la nouvelle Shekinah incarnée.",
+      "scripture_connections": [
+        {
+          "reference": "Nombres 24:17",
+          "text": "Je le vois, mais non maintenant, Je le contemple, mais non de près. Un astre sort de Jacob, Un sceptre s'élève d'Israël"
+        },
+        {
+          "reference": "Matthieu 2:2",
+          "text": "et dirent: Où est le roi des Juifs qui vient de naître? car nous avons vu son étoile en Orient, et nous sommes venus pour l'adorer"
+        }
+      ],
+      "revelation_key": "La prophétie ne fut pas perdue. Dieu a préservé Son témoignage parmi les nations afin que lorsque Christ naquit, même les Gentils sachent Le chercher."
+    },
+    
+    {
+      "order": 3,
+      "type": "greek_exegesis",
+      "icon": "📖",
+      "title": "Les Trois Titres de Victoire",
+      "subtitle": "Analyse du texte original",
+      "greek_words": [
+        {
+          "word": "Logos",
+          "transliteration": "Λόγος",
+          "reference": "Jean 1:1",
+          "meaning": "Le Dessein / La Parole / L'Expression de la pensée de Dieu",
+          "revelation": "Il est l'expression de la pensée de Dieu. Avant que votre problème n'existe, le Logos existait déjà. Il est l'Architecte qui peut reconstruire n'importe quel domaine de votre vie.",
+          "application": "Lorsque votre vie semble chaotique, souvenez-vous : le même Logos qui a dit « Que la lumière soit » dans la Genèse peut parler l'ordre sur votre situation."
+        },
+        {
+          "word": "Eskēnōsen",
+          "transliteration": "ἐσκήνωσεν",
+          "reference": "Jean 1:14",
+          "meaning": "A dressé sa tente / A habité / A demeuré",
+          "revelation": "Le mot vient de « Skēnē » (tente). Dieu ne voulait pas être dans un temple de pierre ; Il est entré dans une « tente de chair » (sarx) pour comprendre votre douleur, votre soif et votre fatigue de l'intérieur.",
+          "application": "Jésus n'est pas un Dieu distant. Il a vécu dans la même « tente fragile » que vous habitez. Il connaît vos limites parce qu'Il les a expérimentées."
+        },
+        {
+          "word": "Amnos",
+          "transliteration": "ἀμνός",
+          "reference": "Jean 1:29",
+          "meaning": "L'Agneau",
+          "related_verb": "Airōn (αἴρων) - soulever, porter et enlever",
+          "revelation": "Jean dit : « Voici l'Agneau de Dieu, qui Airōn le péché du monde. » Il ne le couvre pas seulement de sang—Il le soulève de vos épaules, le porte et l'emporte loin afin que vous puissiez marcher libre !",
+          "application": "Le poids de votre passé, votre honte, votre culpabilité—Christ ne les a pas seulement pardonnés, Il les a complètement enlevés. Ils ne sont plus sur vous."
+        }
+      ],
+      "revelation_key": "Christ est simultanément le Dessein éternel (Logos), la présence proche (Eskēnōsen), et le libérateur total (Amnos). Rien ne manque en Lui."
+    },
+    
+    {
+      "order": 4,
+      "type": "prophetic_promise",
+      "icon": "⭐",
+      "title": "La Promesse pour le Vainqueur",
+      "subtitle": "Apocalypse 2:28 - Votre héritage",
+      "content": "Dans Apocalypse 2:26-28, Jésus promet : « A celui qui vaincra, et qui gardera jusqu'à la fin mes œuvres... je lui donnerai l'étoile du matin. »\n\nQue signifie cette promesse ?\n\nIl ne vous donne pas un objet astronomique. Il se donne Lui-même. Dans Apocalypse 22:16, Jésus déclare : « Moi, Jésus, j'ai envoyé mon ange pour vous attester ces choses dans les Églises. Je suis le rejeton et la postérité de David, l'étoile brillante du matin. »\n\nLa même lumière qui a guidé les Mages, la même étoile prophétisée par Balaam, la même gloire qui a apporté l'ordre au chaos de la Genèse—vous appartient maintenant. Ce n'est pas quelque chose que vous regardez de loin ; c'est Quelqu'un qui vit en vous.\n\nLorsque Vénus apparaît, le marin sait que le lever du soleil est inévitable. Lorsque Christ vit en vous, votre victoire est inévitable. Ce n'est pas une possibilité, c'est une garantie mathématique et spirituelle.",
+      "scripture_anchor": {
+        "reference": "Apocalypse 22:16",
+        "text": "Moi, Jésus, j'ai envoyé mon ange pour vous attester ces choses dans les Églises. Je suis le rejeton et la postérité de David, l'étoile brillante du matin."
+      },
+      "identity_statement": "Vous n'êtes pas quelqu'un qui attend la lumière. Vous êtes un porteur de l'Étoile elle-même. Là où vous êtes, l'aube de Dieu perce les ténèbres.",
+      "revelation_key": "La victoire n'est pas quelque chose que vous luttez pour obtenir. C'est Quelqu'un que vous possédez déjà."
+    },
+    
+    {
+      "order": 5,
+      "type": "discovery_activation",
+      "icon": "🙏",
+      "title": "Découverte Personnelle",
+      "discovery_questions": [
+        {
+          "category": "Situation",
+          "question": "Dans quel domaine de votre vie sentez-vous que vous êtes dans la « quatrième veille »—le moment le plus sombre et le plus froid juste avant l'aube ?"
+        },
+        {
+          "category": "Direction",
+          "question": "Les navigateurs anciens s'échouaient lorsqu'ils perdaient de vue l'Étoile du Matin. Que se passe-t-il dans votre vie lorsque vous cessez de regarder la « parole prophétique plus certaine » ?"
+        },
+        {
+          "category": "Identité",
+          "question": "Balaam décrivait Israël comme des « tentes » (tabernacles) où la Gloire habitait. Comment cela change-t-il votre perspective de savoir que vous êtes une « tente » où habite la même Gloire qui a guidé les Mages ?"
+        }
+      ],
+      "prayer": {
+        "title": "Prière de Conclusion",
+        "content": "Seigneur Jésus, mon Logos et mon Étoile du Matin. Merci car aujourd'hui je comprends que ma victoire n'est pas une possibilité, mais une garantie mathématique et spirituelle. Merci de soulever (airōn) mon fardeau aujourd'hui. Je fixe mes yeux sur Ton éclat et je choisis de marcher comme un tabernacle de Ta gloire au milieu de ce monde. Que Ta lumière en moi soit le héraut du nouveau jour pour ceux qui m'entourent. Tout comme Vénus annonce le soleil, que ma vie annonce Ton royaume. Amen."
+      }
+    }
+  ],
+  
+  "tags": [
+    "lumière",
+    "espérance",
+    "christ",
+    "promesse",
+    "victoire",
+    "identité",
+    "prophétie"
+  ],
+  
+  "metadata": {
+    "total_word_count": 850,
+    "greek_words_count": 3,
+    "scripture_references_count": 6,
+    "difficulty_level": "intermediate",
+    "themes": [
+      "Création et prophétie",
+      "Identité en Christ",
+      "Promesse messianique",
+      "Exégèse grecque"
+    ]
+  }
+}
