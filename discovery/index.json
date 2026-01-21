@@ -6,19 +6,35 @@
       "emoji": "🌟",
       "files": {
         "es": "morning_star_es_001.json",
-        "en": "morning_star_en_001.json"
+        "en": "morning_star_en_001.json",
+        "pt": "morning_star_pt_001.json",
+        "fr": "morning_star_fr_001.json",
+        "ja": "morning_star_ja_001.json",
+        "zh": "morning_star_zh_001.json"
       },
       "titles": {
         "es": "Estrella de la Mañana",
-        "en": "The Herald of Light"
+        "en": "The Herald of Light",
+        "pt": "O Arauto da Luz",
+        "fr": "Le Héraut de la Lumière",
+        "ja": "光の使者",
+        "zh": "晨星"
       },
       "subtitles": {
         "es": "El testimonio más poderoso sobre la identidad de Jesús",
-        "en": "The eternal connection between creation, prophecy, and your heart"
+        "en": "The eternal connection between creation, prophecy, and your heart",
+        "pt": "A conexão eterna entre criação, profecia e seu coração",
+        "fr": "Le lien éternel entre la création, la prophétie et votre cœur",
+        "ja": "創造、預言、そしてあなたの心の間の永遠のつながり",
+        "zh": "创造、预言与你心灵的永恒连结"
       },
       "estimated_reading_minutes": {
         "es": 6,
-        "en": 6
+        "en": 6,
+        "pt": 6,
+        "fr": 6,
+        "ja": 6,
+        "zh": 6
       }
     },
     {
@@ -27,19 +43,35 @@
       "emoji": "📖",
       "files": {
         "es": "logos_creation_es_001.json",
-        "en": "logos_creation_en_001.json"
+        "en": "logos_creation_en_001.json",
+        "pt": "logos_creation_pt_001.json",
+        "fr": "logos_creation_fr_001.json",
+        "ja": "logos_creation_ja_001.json",
+        "zh": "logos_creation_zh_001.json"
       },
       "titles": {
         "es": "En el Principio era el Verbo",
-        "en": "In the Beginning was the Word"
+        "en": "In the Beginning was the Word",
+        "pt": "No Princípio Era o Verbo",
+        "fr": "Au commencement était la Parole",
+        "ja": "初めに、ことばがあった",
+        "zh": "太初有道"
       },
       "subtitles": {
         "es": "Cuando Juan declara que Jesús es el Logos eterno que creó todas las cosas",
-        "en": "When John declares that Jesus is the eternal Logos who created all things"
+        "en": "When John declares that Jesus is the eternal Logos who created all things",
+        "pt": "Quando João declara que Jesus é o Logos eterno que criou todas as coisas",
+        "fr": "Lorsque Jean déclare que Jésus est le Logos éternel qui a créé toutes choses",
+        "ja": "ヨハネがイエスはすべてのものを創造した永遠のロゴスであると宣言するとき",
+        "zh": "当约翰宣告耶稣是创造万有的永恒之道"
       },
       "estimated_reading_minutes": {
         "es": 6,
-        "en": 6
+        "en": 6,
+        "pt": 5,
+        "fr": 5,
+        "ja": 5,
+        "zh": 5
       }
     },
     {
@@ -48,19 +80,35 @@
       "emoji": "🐑",
       "files": {
         "es": "lamb_of_god_es_001.json",
-        "en": "lamb_of_god_en_001.json"
+        "en": "lamb_of_god_en_001.json",
+        "pt": "lamb_of_god_pt_001.json",
+        "fr": "lamb_of_god_fr_001.json",
+        "ja": "lamb_of_god_ja_001.json",
+        "zh": "lamb_of_god_zh_001.json"
       },
       "titles": {
         "es": "El Cordero de Dios",
-        "en": "The Lamb of God"
+        "en": "The Lamb of God",
+        "pt": "O Cordeiro de Deus",
+        "fr": "L'Agneau de Dieu",
+        "ja": "神の小羊",
+        "zh": "神的羔羊"
       },
       "subtitles": {
         "es": "La culminación de 1,500 años de sistema sacrificial en una sola declaración",
-        "en": "The culmination of 1,500 years of sacrificial system in a single declaration"
+        "en": "The culmination of 1,500 years of sacrificial system in a single declaration",
+        "pt": "A culminação de 1.500 anos de sistema sacrificial em uma única declaração",
+        "fr": "L'aboutissement de 1 500 ans de système sacrificiel en une seule déclaration",
+        "ja": "1,500年の犠牲システムが一つの宣言で頂点に達する",
+        "zh": "1500年献祭制度在一句宣告中的顶点"
       },
       "estimated_reading_minutes": {
         "es": 6,
-        "en": 5
+        "en": 5,
+        "pt": 5,
+        "fr": 5,
+        "ja": 5,
+        "zh": 5
       }
     },
     {
@@ -69,19 +117,35 @@
       "emoji": "🌳",
       "files": {
         "es": "natanael_fig_tree_es_001.json",
-        "en": "natanael_fig_tree_en_001.json"
+        "en": "natanael_fig_tree_en_001.json",
+        "pt": "natanael_fig_tree_pt_001.json",
+        "fr": "natanael_fig_tree_fr_001.json",
+        "ja": "natanael_fig_tree_ja_001.json",
+        "zh": "natanael_fig_tree_zh_001.json"
       },
       "titles": {
         "es": "Debajo de la Higuera",
-        "en": "Under the Fig Tree"
+        "en": "Under the Fig Tree",
+        "pt": "Debaixo da Figueira",
+        "fr": "Sous le Figuier",
+        "ja": "いちじくの木の下で",
+        "zh": "在无花果树下"
       },
       "subtitles": {
         "es": "El encuentro donde Jesús revela que conoce tus secretos más profundos",
-        "en": "The encounter where Jesus reveals He knows your deepest secrets"
+        "en": "The encounter where Jesus reveals He knows your deepest secrets",
+        "pt": "O encontro onde Jesus revela que conhece seus segredos mais profundos",
+        "fr": "La rencontre où Jésus révèle qu'Il connaît vos secrets les plus profonds",
+        "ja": "イエスがあなたの最も深い秘密を知っていることを明かす出会い",
+        "zh": "耶稣显明他知道你内心深处秘密的相遇"
       },
       "estimated_reading_minutes": {
         "es": 6,
-        "en": 5
+        "en": 5,
+        "pt": 5,
+        "fr": 5,
+        "ja": 5,
+        "zh": 5
       }
     },
     {
@@ -90,19 +154,35 @@
       "emoji": "🍷",
       "files": {
         "es": "cana_wedding_es_001.json",
-        "en": "cana_wedding_en_001.json"
+        "en": "cana_wedding_en_001.json",
+        "pt": "cana_wedding_pt_001.json",
+        "fr": "cana_wedding_fr_001.json",
+        "ja": "cana_wedding_ja_001.json",
+        "zh": "cana_wedding_zh_001.json"
       },
       "titles": {
         "es": "Las Bodas de Caná",
-        "en": "The Wedding at Cana"
+        "en": "The Wedding at Cana",
+        "pt": "As Bodas de Caná",
+        "fr": "Les noces de Cana",
+        "ja": "カナの婚礼",
+        "zh": "迦拿的婚筵"
       },
       "subtitles": {
         "es": "Cuando Jesús convierte lo ordinario en extraordinario",
-        "en": "When Jesus turns the ordinary into extraordinary"
+        "en": "When Jesus turns the ordinary into extraordinary",
+        "pt": "Quando Jesus transforma o ordinário em extraordinário",
+        "fr": "Quand Jésus transforme l'ordinaire en extraordinaire",
+        "ja": "イエスが普通のものを特別なものに変えるとき",
+        "zh": "当耶稣将平凡变为非凡"
       },
       "estimated_reading_minutes": {
         "es": 6,
-        "en": 5
+        "en": 5,
+        "pt": 5,
+        "fr": 5,
+        "ja": 5,
+        "zh": 5
       }
     },
     {
@@ -111,19 +191,35 @@
       "emoji": "🍃",
       "files": {
         "es": "born_again_es_001.json",
-        "en": "born_again_en_001.json"
+        "en": "born_again_en_001.json",
+        "pt": "born_again_pt_001.json",
+        "fr": "born_again_fr_001.json",
+        "ja": "born_again_ja_001.json",
+        "zh": "born_again_zh_001.json"
       },
       "titles": {
         "es": "Es Necesario Nacer de Nuevo",
-        "en": "You Must Be Born Again"
+        "en": "You Must Be Born Again",
+        "pt": "Vós Tendes de Nascer de Novo",
+        "fr": "Il faut que vous naissiez de nouveau",
+        "ja": "新しく生まれなければならない",
+        "zh": "你必须重生"
       },
       "subtitles": {
         "es": "El misterio del nuevo nacimiento espiritual revelado",
-        "en": "The mystery of spiritual rebirth revealed"
+        "en": "The mystery of spiritual rebirth revealed",
+        "pt": "Quando o mestre de Israel descobre que sua religião não é suficiente",
+        "fr": "Quand le maître d'Israël découvre que sa religion ne suffit pas",
+        "ja": "イスラエルの教師が、自分の宗教では不十分であることを発見したとき",
+        "zh": "当以色列的教师发现他的宗教并不足够"
       },
       "estimated_reading_minutes": {
         "es": 6,
-        "en": 6
+        "en": 6,
+        "pt": 5,
+        "fr": 5,
+        "ja": 5,
+        "zh": 5
       }
     },
     {
@@ -132,19 +228,35 @@
       "emoji": "🔥",
       "files": {
         "es": "temple_cleansing_es_001.json",
-        "en": "temple_cleansing_en_001.json"
+        "en": "temple_cleansing_en_001.json",
+        "pt": "temple_cleansing_pt_001.json",
+        "fr": "temple_cleansing_fr_001.json",
+        "ja": "temple_cleansing_ja_001.json",
+        "zh": "temple_cleansing_zh_001.json"
       },
       "titles": {
         "es": "La Purificación del Templo",
-        "en": "The Cleansing of the Temple"
+        "en": "The Cleansing of the Temple",
+        "pt": "A Purificação do Templo",
+        "fr": "La Purification du Temple",
+        "ja": "神殿の清め",
+        "zh": "洁净圣殿"
       },
       "subtitles": {
         "es": "Cuando Jesús declara que Él es el Templo verdadero",
-        "en": "When Jesus declares that He is the true Temple"
+        "en": "When Jesus declares that He is the true Temple",
+        "pt": "Quando Jesus declara que Ele é o verdadeiro Templo",
+        "fr": "Quand Jésus déclare qu'Il est le véritable Temple",
+        "ja": "イエスが御霊自身が真の神殿であると宣言するとき",
+        "zh": "耶稣宣告自己是真正的圣殿"
       },
       "estimated_reading_minutes": {
         "es": 6,
-        "en": 6
+        "en": 6,
+        "pt": 6,
+        "fr": 6,
+        "ja": 6,
+        "zh": 6
       }
     }
   ]

@@ -1,0 +1,151 @@
+{
+  "id": "lamb_of_god_001",
+  "type": "discovery",
+  "date": "2026-01-16",
+  "title": "L'Agneau de Dieu",
+  "subtitle": "L'aboutissement de 1 500 ans de système sacrificiel en une seule déclaration",
+  "language": "fr",
+  "version": "LSG1910",
+  "estimated_reading_minutes": 5,
+  "key_verse": {
+    "reference": "Jean 1:29",
+    "text": "Le lendemain, il vit Jésus venant à lui, et il dit: Voici l'Agneau de Dieu, qui ôte le péché du monde."
+  },
+  
+  "cards": [
+    {
+      "order": 1,
+      "type": "historical_context",
+      "icon": "🕍",
+      "title": "Le système que tous connaissaient",
+      "subtitle": "Quand Jean a parlé, chaque Juif a compris instantanément",
+      "content": "Imaginez le Jourdain ce jour-là. Jean-Baptiste, le prophète le plus célèbre d'Israël, désigne un charpentier inconnu et dit : « Voici l'Agneau de Dieu. »\n\nPour l'auditoire juif, cette phrase a activé 1 500 ans de mémoire collective :\n\n• Chaque matin et chaque soir, des agneaux étaient sacrifiés au Temple de Jérusalem (Exode 29:38-39). Deux agneaux quotidiens × 365 jours × 1 500 ans = plus d'un million d'agneaux.\n\n• À chaque Pâque, chaque famille juive sacrifiait son propre agneau. Le sang sur les poteaux était ce qui a sauvé Israël de la mort en Égypte.\n\n• Au Jour des Expiations (Yom Kippour), le grand prêtre entrait dans le Lieu Très Saint avec le sang d'un agneau pour expier les péchés de toute la nation.\n\nQuand Jean dit « l'Agneau de Dieu », il n'utilise pas une jolie métaphore. Il déclare : « C'est l'Agneau final. Celui vers lequel tous les autres agneaux pointaient. »",
+      "revelation_key": "Le système sacrificiel n'a jamais été le plan final. C'était une ombre éducative pointant vers Christ."
+    },
+    
+    {
+      "order": 2,
+      "type": "greek_exegesis",
+      "icon": "📖",
+      "title": "Le mot qui change tout : AIRŌN",
+      "subtitle": "Non seulement couvrir le péché, mais L'ÔTER",
+      "greek_words": [
+        {
+          "word": "Airōn",
+          "transliteration": "αἴρων",
+          "reference": "Jean 1:29",
+          "meaning": "Lever, porter sur les épaules, emporter complètement",
+          "revelation": "Ce verbe est crucial. Il ne dit pas « couvre » (kalyptō) ou « pardonne » (aphiēmi). Il dit AIRŌN - lève, porte, et EMPORTE.\n\nC'est le même mot utilisé quand les disciples « emportèrent » les paniers de pain restant, ou quand les soldats « prirent » la croix pour la porter.\n\nJésus ne met pas un voile sur votre péché pour que Dieu ne le voie pas. Il le soulève de vos épaules, le porte sur les siennes, marche avec lui jusqu'au Golgotha, et l'enterre dans son tombeau. Quand Il ressuscite, votre péché ne ressuscite pas avec Lui. IL EST PARTI.",
+          "application": "Votre culpabilité, votre honte, votre passé - Christ ne l'a pas seulement pardonné. Il l'a ENLEVÉ. Il n'existe plus sur vous."
+        },
+        {
+          "word": "Amnos",
+          "transliteration": "ἀμνός",
+          "reference": "Jean 1:29",
+          "meaning": "Jeune agneau, tendre, sans défaut",
+          "revelation": "Jean aurait pu utiliser « probaton » (mouton adulte) ou « arnion » (petit agneau). Il a utilisé AMNOS - l'agneau parfait d'un an, sans tache, celui utilisé dans les sacrifices les plus sacrés.\n\nCe mot se connecte directement avec Ésaïe 53:7 : « Il est amené comme un agneau à la boucherie. » Aucune coïncidence. Jean déclare : « C'est le Serviteur souffrant qu'Ésaïe a vu il y a 700 ans. »",
+          "application": "N'importe quel sacrifice ne suffit pas. Seul l'Agneau parfait de Dieu peut complètement ôter votre péché."
+        }
+      ],
+      "revelation_key": "La différence entre la religion et l'évangile : la religion couvre le péché temporairement ; Christ l'ENLÈVE définitivement."
+    },
+    
+    {
+      "order": 3,
+      "type": "prophetic_thread",
+      "icon": "🧵",
+      "title": "Le fil écarlate : De la Genèse à Jean",
+      "subtitle": "Comment chaque agneau pointait vers ce moment",
+      "timeline": [
+        {
+          "event": "Genèse 3:21",
+          "description": "Dieu sacrifie des animaux pour couvrir la nudité d'Adam et Ève",
+          "revelation": "Le premier versement de sang. Dieu montre que sans effusion de sang il n'y a pas de couverture pour le péché."
+        },
+        {
+          "event": "Genèse 22:8",
+          "description": "Abraham dit à Isaac : « Dieu se pourvoira lui-même de l'agneau »",
+          "revelation": "Sur le mont Morija (le même endroit où le Temple serait plus tard construit), Abraham prophétise que Dieu pourvoira son propre agneau. Il ne demande pas à Abraham de pourvoir ; Dieu pourvoira le sien."
+        },
+        {
+          "event": "Exode 12:3-13",
+          "description": "La Pâque : Un agneau par famille, sans défaut, le sang sur les poteaux",
+          "revelation": "Le sang de l'agneau est ce qui fait « passer » la mort. Israël est sauvé non par sa bonté, mais par le sang."
+        },
+        {
+          "event": "Ésaïe 53:7",
+          "description": "Le Serviteur souffrant « est amené comme un agneau à la boucherie »",
+          "revelation": "700 ans avant Christ, Ésaïe voit l'Agneau qui porte nos péchés volontairement, sans ouvrir la bouche."
+        },
+        {
+          "event": "Jean 1:29",
+          "description": "Jean désigne : « Voici L'Agneau de Dieu »",
+          "revelation": "Il ne dit pas « un agneau ». Il dit « L'Agneau ». Le définitif. Celui vers lequel toutes les ombres pointaient."
+        }
+      ],
+      "revelation_key": "Chaque agneau dans l'Ancien Testament était un chapitre dans l'histoire qui culmine en Jean 1:29. Christ est la réponse que Dieu écrivait depuis 1 500 ans."
+    },
+    
+    {
+      "order": 4,
+      "type": "theological_depth",
+      "icon": "⚖️",
+      "title": "L'échange divin",
+      "subtitle": "Ce que Christ a ôté et ce qu'Il vous a donné en retour",
+      "content": "Dans le système de l'Ancien Testament, l'agneau mourait À LA PLACE de la personne. C'était la substitution. Mais Christ fait quelque chose de plus profond :\n\n🔄 LE GRAND ÉCHANGE :\n\n• Votre péché → sur Lui (2 Corinthiens 5:21)\n• Sa justice → sur vous\n\n• Votre mort → Il l'a vécue (Romains 6:23)\n• Sa vie → vous la vivez (Galates 2:20)\n\n• Votre culpabilité → Il l'a portée (Ésaïe 53:6)\n• Son innocence → vous couvre\n\n• Votre séparation d'avec Dieu → Il l'a expérimentée sur la croix (« Mon Dieu, pourquoi m'as-tu abandonné ? »)\n• Son intimité avec le Père → est maintenant la vôtre (« Abba, Père »)\n\nCe n'est pas un échange équitable. C'est l'échange le plus inégal de l'histoire : Il a pris votre pire et vous a donné son meilleur.",
+      "scripture_anchor": {
+        "reference": "2 Corinthiens 5:21",
+        "text": "Celui qui n'a point connu le péché, il l'a fait devenir péché pour nous, afin que nous devenions en lui justice de Dieu."
+      },
+      "revelation_key": "Vous n'essayez pas d'atteindre Dieu. Christ a déjà accompli le voyage et vous a amené avec Lui."
+    },
+    
+    {
+      "order": 5,
+      "type": "discovery_activation",
+      "icon": "🙏",
+      "title": "Découverte personnelle",
+      "discovery_questions": [
+        {
+          "category": "Liberté",
+          "question": "Quel péché, culpabilité ou honte continuez-vous à « porter » dans votre vie que Christ a déjà ÔTÉ (airōn) il y a 2 000 ans ?"
+        },
+        {
+          "category": "Identité",
+          "question": "Dans l'échange divin, Christ a pris votre mort et vous a donné Sa vie. Vivez-vous comme quelqu'un qui est mort, ou comme quelqu'un qui a la vie de Christ ?"
+        },
+        {
+          "category": "Gratitude",
+          "question": "1 million d'agneaux ont été sacrifiés au Temple au fil des siècles. Tous pointaient vers Jésus. Comment le fait de savoir qu'Il est l'Agneau final change-t-il votre adoration aujourd'hui ?"
+        }
+      ],
+      "prayer": {
+        "title": "Prière d'activation",
+        "content": "Jésus, mon Agneau parfait. Aujourd'hui je reçois par la foi ce que Jean a déclaré : Tu as ÔTÉ mon péché. Tu ne l'as pas couvert, tu ne l'as pas minimisé - tu l'as soulevé, porté, et emporté. Aujourd'hui je choisis de cesser de porter ce que Tu as déjà porté pour moi. Merci pour l'échange inégal : Tu as pris ma mort et m'as donné Ta vie. Que ma vie soit un écho de gratitude pour l'Agneau qui a été immolé dès la fondation du monde. Amen."
+      }
+    }
+  ],
+  
+  "tags": [
+    "sacrifice",
+    "rédemption",
+    "agneau",
+    "expiation",
+    "échange",
+    "liberté",
+    "pâque"
+  ],
+  
+  "metadata": {
+    "total_word_count": 920,
+    "greek_words_count": 2,
+    "scripture_references_count": 8,
+    "difficulty_level": "intermediate",
+    "themes": [
+      "Système sacrificiel",
+      "Expiation substitutive",
+      "Prophétie accomplie",
+      "Échange divin"
+    ]
+  }
+}

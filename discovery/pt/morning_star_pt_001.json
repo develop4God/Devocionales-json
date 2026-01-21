@@ -1,0 +1,145 @@
+{
+  "id": "morning_star_001",
+  "type": "discovery",
+  "date": "2026-01-15",
+  "title": "O Arauto da Luz",
+  "subtitle": "A conexão eterna entre criação, profecia e seu coração",
+  "language": "pt",
+  "version": "ARC",
+  "estimated_reading_minutes": 6,
+  "key_verse": {
+    "reference": "2 Pedro 1:19",
+    "text": "E temos, mui firme, a palavra dos profetas, à qual bem fazeis em estar atentos, como a uma luz que alumia em lugar escuro, até que o dia esclareça, e a estrela da alva apareça em vosso coração."
+  },
+  
+  "cards": [
+    {
+      "order": 1,
+      "type": "natural_revelation",
+      "icon": "🔭",
+      "title": "O Testemunho da Criação: Vênus",
+      "subtitle": "Deus escreveu Seu plano nos céus antes de escrevê-lo no papel",
+      "content": "Na astronomia, Vênus é conhecida como a 'Estrela da Manhã'. Diferente de estrelas distantes, Vênus está próximo e seu brilho é tão intenso que é a última coisa a desaparecer quando o sol nasce.\n\nVênus atinge seu esplendor máximo durante a quarta vigília (entre 3h e 6h da manhã), o momento em que a atmosfera está mais fria e as trevas parecem mais densas.\n\nVênus não é o sol, mas é seu arauto (Eskēnōsen - evidência física). Seu aparecimento no horizonte é prova de que a rotação da terra venceu a noite. Se você vê Vênus, o nascer do sol é matematicamente inevitável.",
+      "revelation_key": "Assim como Vênus reflete a glória do Sol que ainda não vemos, nós refletimos a glória de Cristo no meio das trevas do mundo."
+    },
+    
+    {
+      "order": 2,
+      "type": "historical_thread",
+      "icon": "🏛️",
+      "title": "O Fio Profético: De Balaão aos Magos",
+      "subtitle": "Um testemunho que atravessa 1.400 anos",
+      "content": "A profecia de Balaão em Números 24:17 declarou: 'Uma estrela procederá de Jacó, e um cetro subirá de Israel.' Esta profecia foi registrada nas bibliotecas da Mesopotâmia.\n\nSéculos depois, Daniel foi nomeado 'Chefe Supremo dos Magos' na Babilônia (Daniel 2:48). Ele conectou a 'Estrela' de Balaão com o 'Tempo' das setenta semanas de sua própria profecia.\n\nQuando os Magos do Oriente viram a estrela sobre Belém, não estavam seguindo um planeta comum. Estavam seguindo uma luz que se movia de norte a sul e parou sobre uma casa: a Shekinah (Glória de Deus) guiando os gentios para o Novo Shekinah encarnado.",
+      "scripture_connections": [
+        {
+          "reference": "Números 24:17",
+          "text": "Vê-lo-ei, mas não agora; contemplá-lo-ei, mas não de perto; uma estrela procederá de Jacó, e um cetro subirá de Israel, que ferirá as extremidades dos moabitas, e destruirá todos os filhos de Sete"
+        },
+        {
+          "reference": "Mateus 2:2",
+          "text": "E perguntaram: Onde está aquele que é nascido rei dos judeus? Porque vimos a sua estrela no oriente, e viemos a adorá-lo"
+        }
+      ],
+      "revelation_key": "A profecia não se perdeu. Deus preservou Seu testemunho entre as nações para que quando Cristo nascesse, até os gentios soubessem buscá-Lo."
+    },
+    
+    {
+      "order": 3,
+      "type": "greek_exegesis",
+      "icon": "📖",
+      "title": "Os Três Títulos de Vitória",
+      "subtitle": "Análise do texto original",
+      "greek_words": [
+        {
+          "word": "Logos",
+          "transliteration": "Λόγος",
+          "reference": "João 1:1",
+          "meaning": "O Projeto / O Verbo / A Expressão do pensamento de Deus",
+          "revelation": "Ele é a expressão do pensamento de Deus. Antes de seu problema existir, o Logos já era. Ele é o Arquiteto que pode reconstruir qualquer área de sua vida.",
+          "application": "Quando sua vida parece caos, lembre-se: o mesmo Logos que disse 'Haja luz' em Gênesis pode falar ordem sobre sua situação."
+        },
+        {
+          "word": "Eskēnōsen",
+          "transliteration": "ἐσκήνωσεν",
+          "reference": "João 1:14",
+          "meaning": "Armou Sua tenda / Tabernaculou / Habitou",
+          "revelation": "A palavra vem de 'Skēnē' (tenda). Deus não quis ficar em um templo de pedra; Ele entrou em uma 'tenda de carne' (sarx) para entender sua dor, sua sede e seu cansaço por dentro.",
+          "application": "Jesus não é um Deus distante. Ele viveu na mesma 'tenda frágil' que você habita. Ele conhece suas limitações porque as experimentou."
+        },
+        {
+          "word": "Amnos",
+          "transliteration": "ἀμνός",
+          "reference": "João 1:29",
+          "meaning": "O Cordeiro",
+          "related_verb": "Airōn (αἴρων) - levantar, carregar e tirar",
+          "revelation": "João diz: 'Eis o Cordeiro de Deus que Airōn o pecado do mundo.' Ele não apenas o cobre com sangue - Ele o levanta de seus ombros, carrega-o e o leva para longe para que você possa andar livre!",
+          "application": "O peso de seu passado, sua vergonha, sua culpa - Cristo não apenas perdoou, Ele completamente REMOVEU. Não está mais sobre você."
+        }
+      ],
+      "revelation_key": "Cristo é simultaneamente o Projeto eterno (Logos), a presença próxima (Eskēnōsen) e o libertador total (Amnos). Nada falta Nele."
+    },
+    
+    {
+      "order": 4,
+      "type": "prophetic_promise",
+      "icon": "⭐",
+      "title": "A Promessa para o Vencedor",
+      "subtitle": "Apocalipse 2:28 - Sua herança",
+      "content": "Em Apocalipse 2:26-28, Jesus promete: 'E ao que vencer e guardar até ao fim as minhas obras... dar-lhe-ei a estrela da manhã.'\n\nO que significa esta promessa?\n\nEle não está dando a você um objeto astronômico. Ele está dando a Si mesmo. Em Apocalipse 22:16, Jesus declara: 'Eu sou a raiz e a geração de Davi, a resplandecente estrela da manhã.'\n\nA mesma luz que guiou os Magos, a mesma estrela profetizada por Balaão, a mesma glória que trouxe ordem ao caos de Gênesis - agora pertence a você. Não é algo que você olha de longe; é Alguém que vive dentro de você.\n\nQuando Vênus aparece, o marinheiro sabe que o nascer do sol é inevitável. Quando Cristo vive em você, sua vitória é inevitável. Não é uma possibilidade, é uma garantia matemática e espiritual.",
+      "scripture_anchor": {
+        "reference": "Apocalipse 22:16",
+        "text": "Eu, Jesus, enviei o meu anjo, para vos testificar estas coisas nas igrejas. Eu sou a raiz e a geração de Davi, a resplandecente estrela da manhã."
+      },
+      "identity_statement": "Você não é alguém que espera pela luz. Você é um portador da própria Estrela. Onde você está, a aurora de Deus irrompe.",
+      "revelation_key": "Vitória não é algo que você luta para obter. É Alguém que você já possui."
+    },
+    
+    {
+      "order": 5,
+      "type": "discovery_activation",
+      "icon": "🙏",
+      "title": "Descoberta Pessoal",
+      "discovery_questions": [
+        {
+          "category": "Situação",
+          "question": "Em que área de sua vida você sente que está na 'quarta vigília' - o momento mais escuro e frio antes da aurora?"
+        },
+        {
+          "category": "Direção",
+          "question": "Navegadores antigos naufragavam quando perdiam de vista a Estrela da Manhã. O que acontece em sua vida quando você para de olhar para a 'mui firme palavra dos profetas'?"
+        },
+        {
+          "category": "Identidade",
+          "question": "Balaão descreveu Israel como 'tendas' (tabernáculos) onde a Glória habitava. Como muda sua perspectiva saber que você é uma 'tenda' onde a mesma Glória que guiou os Magos habita?"
+        }
+      ],
+      "prayer": {
+        "title": "Oração Seladora",
+        "content": "Senhor Jesus, meu Logos e minha Estrela da Manhã. Obrigado porque hoje entendo que minha vitória não é uma possibilidade, mas uma garantia matemática e espiritual. Obrigado por levantar (airōn) meu fardo hoje. Fixo meus olhos em Seu brilho e escolho andar como tabernáculo de Sua glória no meio deste mundo. Como Vênus anuncia o sol, que minha vida anuncie Seu reino. Amém."
+      }
+    }
+  ],
+  
+  "tags": [
+    "luz",
+    "esperança",
+    "cristo",
+    "promessa",
+    "vitória",
+    "identidade",
+    "profecia"
+  ],
+  
+  "metadata": {
+    "total_word_count": 850,
+    "greek_words_count": 3,
+    "scripture_references_count": 6,
+    "difficulty_level": "intermediate",
+    "themes": [
+      "Criação e profecia",
+      "Identidade em Cristo",
+      "Promessa messiânica",
+      "Exegese grega"
+    ]
+  }
+}

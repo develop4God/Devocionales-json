@@ -1,0 +1,129 @@
+{
+  "id": "cana_wedding_001",
+  "type": "discovery",
+  "date": "2026-01-18",
+  "title": "As Bodas de Caná",
+  "subtitle": "Quando Jesus transforma o ordinário em extraordinário",
+  "language": "pt",
+  "version": "ARC",
+  "estimated_reading_minutes": 5,
+  "key_verse": {
+    "reference": "João 2:11",
+    "text": "Jesus principiou assim os seus sinais em Caná da Galileia e manifestou a sua glória, e os seus discípulos creram nele."
+  },
+  
+  "cards": [
+    {
+      "order": 1,
+      "type": "cultural_context",
+      "icon": "💒",
+      "title": "A Vergonha Social de Acabar o Vinho",
+      "subtitle": "Por que este não era um problema menor",
+      "content": "No primeiro século, os casamentos judaicos duravam SETE DIAS COMPLETOS. Não era uma recepção de 4 horas; era uma semana inteira de celebração contínua.\n\n🍷 A GRAVIDADE DO PROBLEMA:\n\n• O vinho era essencial para a celebração - símbolo de alegria e bênção de Deus\n• Acabar o vinho era uma VERGONHA SOCIAL BRUTAL para toda a família\n• O noivo era responsável por prover para todos os convidados durante os 7 dias\n• Esta vergonha poderia assombrar a família por gerações em uma vila pequena\n• Alguns rabinos ensinavam que o noivo poderia ser processado legalmente por quebra de promessa\n\nQuando Maria diz a Jesus 'Eles não têm vinho', ela não está pedindo um favor trivial. Ela está dizendo: 'Esta família está prestes a ser publicamente humilhada. Sua reputação será destruída.'\n\n📍 CANÁ DA GALILEIA:\n\nCaná ficava a apenas 14 quilômetros de Nazaré. Este não era um casamento de estranhos. Muito provavelmente Maria e Jesus conheciam pessoalmente esta família. Maria tinha um papel ativo (supervisionando servos), sugerindo que eram parentes próximos.",
+      "revelation_key": "Jesus não realiza milagres apenas em crises espirituais. Ele se importa com suas crises sociais, seus constrangimentos, seus momentos de 'acabaram os recursos'."
+    },
+    
+    {
+      "order": 2,
+      "type": "dialogue_analysis",
+      "icon": "💬",
+      "title": "A Resposta Misteriosa: 'Mulher, que tenho eu contigo?'",
+      "subtitle": "Por que Jesus não estava sendo rude com sua mãe",
+      "content": "Maria: 'Eles não têm vinho.'\n\nJesus: 'Mulher, que tenho eu contigo? Ainda não é chegada a minha hora.'\n\n🔍 ENTENDENDO O GREGO:\n\nA palavra 'mulher' (gynai) NÃO era desrespeitosa em grego. Era um termo de dignidade e respeito. Jesus a usa até da cruz (João 19:26).\n\nA frase 'que tenho eu contigo' (ti emoi kai soi) é um hebraísmo que significa: 'Por que me envolver nisso agora?' Não é rejeição; é uma pergunta sobre o tempo.\n\n⏰ 'AINDA NÃO É CHEGADA A MINHA HORA':\n\nEsta frase aparece 7 vezes em João. A 'hora' de Jesus é Sua morte na cruz. Ele está dizendo: 'Se eu fizer este milagre, o relógio começa a correr. Uma vez que eu revele minha glória publicamente, o caminho para o Calvário é inevitável.'\n\nMaria entende perfeitamente. Ela não discute. Apenas diz aos servos: 'Fazei tudo quanto ele vos disser.' Ela confia que Jesus sabe o que fazer.\n\n💡 A LIÇÃO:\n\nMaria apresenta o problema, mas não diz a Jesus COMO resolvê-lo. Ela confia no Seu método, no Seu tempo e na Sua sabedoria.",
+      "greek_words": [
+        {
+          "word": "Gynai",
+          "transliteration": "γύναι",
+          "meaning": "Mulher - termo de respeito e dignidade",
+          "revelation": "Não é 'mãe' porque Jesus está estabelecendo que Seu ministério messiânico transcende os relacionamentos familiares terrenos."
+        },
+        {
+          "word": "Hōra",
+          "transliteration": "ὥρα",
+          "meaning": "Hora - o momento apontado de Sua glorificação na cruz",
+          "revelation": "Cada milagre de Jesus é um passo em direção ao Calvário. Ele conta o custo antes de agir."
+        }
+      ],
+      "revelation_key": "Apresente seus problemas a Jesus, mas não dite o método. Confie no Seu tempo e na Sua sabedoria."
+    },
+    
+    {
+      "order": 3,
+      "type": "miracle_mechanics",
+      "icon": "🏺",
+      "title": "As Seis Talhas de Pedra: Símbolos do Incompleto",
+      "subtitle": "Por que o número 6 é crucial",
+      "content": "Jesus ordena que encham SEIS talhas de pedra usadas para purificação cerimonial judaica.\n\n🔢 O SIMBOLISMO DO NÚMERO 6:\n\n• Na numerologia bíblica, 6 é o número do HOMEM (criado no dia 6)\n• 6 é um a menos que 7 (o número da perfeição divina)\n• 6 sempre representa O INCOMPLETO, o que precisa ser completado\n\n🏺 AS TALHAS DE PURIFICAÇÃO:\n\n• Eram feitas de PEDRA, não barro - material frio, inflexível, pesado\n• Usadas para lavagem ritual das mãos antes de comer (Marcos 7:3-4)\n• Representavam o sistema de purificação da Lei - externo, cerimonial, repetitivo\n• Cada talha continha 2-3 medidas (aproximadamente 75-115 litros cada)\n• TOTAL: Entre 450-690 litros de vinho novo\n\n✨ A TRANSFORMAÇÃO:\n\nJesus pega a ÁGUA (símbolo de purificação externa) e a converte em VINHO (símbolo de alegria, celebração e nova aliança).\n\nEle não adiciona vinho à água. Ele TRANSFORMA a água em vinho. Ele completa o incompleto. Converte ritual frio em celebração viva.\n\nO mestre-sala declara: 'Guardaste até agora o bom vinho.' O vinho de Jesus não é apenas suficiente - é SUPERIOR.",
+      "scripture_connections": [
+        {
+          "reference": "Salmo 104:15",
+          "text": "E o vinho que alegra o coração do homem, e o azeite que faz reluzir o seu rosto, e o pão que fortalece o coração do homem"
+        },
+        {
+          "reference": "Isaías 25:6",
+          "text": "E o SENHOR dos Exércitos dará, neste monte, a todos os povos, um banquete de coisas gordurosas, banquete de vinhos velhos, de coisas gordurosas cheias de tutano, de vinhos velhos bem clarificados"
+        }
+      ],
+      "revelation_key": "Jesus não veio melhorar sua religião (as 6 talhas). Ele veio TRANSFORMAR sua vida de ritual para celebração, de lei para graça."
+    },
+    
+    {
+      "order": 4,
+      "type": "theological_depth",
+      "icon": "🍷",
+      "title": "O Vinho Novo: Imagem da Nova Aliança",
+      "subtitle": "Por que o primeiro milagre não foi uma cura",
+      "content": "Por que Jesus escolheu um casamento para Seu primeiro milagre público? Por que não curar um leproso ou ressuscitar um morto?\n\n💒 PORQUE JESUS É O NOIVO:\n\nNo Antigo Testamento, Deus se apresenta como o Esposo de Israel (Isaías 54:5, Oséias 2:19). Jesus está declarando: 'Eu sou o Noivo prometido. Vim pela minha Noiva.'\n\n🍷 VINHO COMO SÍMBOLO PROFÉTICO:\n\n• Jesus mesmo dirá em Mateus 9:17: 'Nem se deita vinho novo em odres velhos... mas deita-se vinho novo em odres novos'\n• O vinho representa a NOVA ALIANÇA em Seu sangue (Lucas 22:20)\n• Na Última Ceia, Jesus levantará o cálice e dirá: 'Este cálice é o Novo Testamento no meu sangue'\n\n🔗 A CONEXÃO:\n\n• Primeiro milagre público: Jesus converte ÁGUA em VINHO (Caná)\n• Último ato público: Jesus oferece Seu SANGUE como VINHO da nova aliança (Calvário)\n\nEle COMEÇA com vinho em um casamento e TERMINA com vinho na cruz. Todo o ministério de Jesus é emoldurado pelo símbolo do vinho - a alegria da salvação comprada com Seu sangue.\n\n✨ O MILAGRE SILENCIOSO:\n\nApenas os servos (que obedeceram) e os discípulos sabiam que foi um milagre. O mestre-sala e os convidados pensaram que era vinho ordinário. Deus constantemente opera milagres que apenas os atentos conseguem ver.",
+      "identity_statement": "Você está convidado para as bodas do Cordeiro. Jesus é o Noivo que provê o vinho da salvação - Seu próprio sangue. E o banquete nunca termina.",
+      "revelation_key": "O primeiro milagre não foi de necessidade (ninguém estava morrendo por falta de vinho). Foi de ABUNDÂNCIA e CELEBRAÇÃO. Esse é o coração de Deus para você."
+    },
+    
+    {
+      "order": 5,
+      "type": "discovery_activation",
+      "icon": "🙏",
+      "title": "Descoberta Pessoal",
+      "discovery_questions": [
+        {
+          "category": "Vergonha",
+          "question": "Em que área de sua vida você sente que 'o vinho acabou' - aquele recurso, aquela alegria, aquela capacidade que você precisa mas não tem mais? Você apresentou essa vergonha a Jesus?"
+        },
+        {
+          "category": "Obediência",
+          "question": "Os servos encheram as talhas até a borda, embora não entendessem por quê. Há algo que Jesus lhe pediu para fazer que ainda não faz sentido lógico?"
+        },
+        {
+          "category": "Transformação",
+          "question": "As 6 talhas representam seu sistema religioso incompleto (rituais, esforços, boas obras). Você está tentando 'encher talhas' ou permitindo que Jesus TRANSFORME água em vinho?"
+        }
+      ],
+      "prayer": {
+        "title": "Oração de Transformação",
+        "content": "Jesus, meu Noivo celestial. Obrigado porque Seu primeiro milagre não foi de juízo, mas de celebração. Hoje trago diante de Ti as áreas onde 'o vinho acabou' - onde meus recursos, minha alegria, minha capacidade não são mais suficientes. Não dito o método; confio no Seu tempo e na Sua sabedoria. Transforme minha água religiosa em vinho de celebração. Que minha vida mude de ritual para relacionamento, de esforço para graça, de escassez para abundância. E quando eu chegar ao Seu banquete eterno, que eu reconheça que Você guardou o melhor vinho para o final. Amém."
+      }
+    }
+  ],
+  
+  "tags": [
+    "milagre",
+    "transformação",
+    "casamento",
+    "abundância",
+    "nova_aliança",
+    "vinho",
+    "provisão"
+  ],
+  
+  "metadata": {
+    "total_word_count": 975,
+    "greek_words_count": 2,
+    "scripture_references_count": 8,
+    "difficulty_level": "intermediate",
+    "themes": [
+      "Jesus como o Noivo",
+      "Transformação vs melhoria",
+      "Nova aliança em Seu sangue",
+      "Abundância de Deus"
+    ]
+  }
+}

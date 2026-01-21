@@ -1,0 +1,151 @@
+{
+  "id": "lamb_of_god_001",
+  "type": "discovery",
+  "date": "2026-01-16",
+  "title": "O Cordeiro de Deus",
+  "subtitle": "A culminação de 1.500 anos de sistema sacrificial em uma única declaração",
+  "language": "pt",
+  "version": "ARC",
+  "estimated_reading_minutes": 5,
+  "key_verse": {
+    "reference": "João 1:29",
+    "text": "No dia seguinte, João viu a Jesus, que vinha para ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo."
+  },
+  
+  "cards": [
+    {
+      "order": 1,
+      "type": "historical_context",
+      "icon": "🕍",
+      "title": "O Sistema Que Todos Conheciam",
+      "subtitle": "Quando João falou, todo judeu entendeu instantaneamente",
+      "content": "Imagine o rio Jordão naquele dia. João Batista, o profeta mais famoso de Israel, aponta para um carpinteiro desconhecido e diz: 'Eis o Cordeiro de Deus.'\n\nPara a audiência judaica, esta frase ativou 1.500 anos de memória coletiva:\n\n• Todas as manhãs e tardes, cordeiros eram sacrificados no Templo em Jerusalém (Êxodo 29:38-39). Dois cordeiros diários × 365 dias × 1.500 anos = mais de 1 milhão de cordeiros.\n\n• Em toda Páscoa, cada família judaica sacrificava seu próprio cordeiro. O sangue nas ombreiras era o que salvava Israel da morte no Egito.\n\n• No Dia da Expiação (Yom Kippur), o sumo sacerdote entrava no Santo dos Santos com sangue de cordeiro para expiar os pecados de toda a nação.\n\nQuando João diz 'o Cordeiro de Deus', ele não está usando uma metáfora bonita. Ele está declarando: 'Este é o Cordeiro Final. Aquele para o qual todos os outros cordeiros estavam apontando.'",
+      "revelation_key": "O sistema sacrificial nunca foi o plano final. Foi uma sombra educacional apontando para Cristo."
+    },
+    
+    {
+      "order": 2,
+      "type": "greek_exegesis",
+      "icon": "📖",
+      "title": "A Palavra Que Muda Tudo: AIRŌN",
+      "subtitle": "Não apenas cobrindo o pecado, mas TIRANDO-O",
+      "greek_words": [
+        {
+          "word": "Airōn",
+          "transliteration": "αἴρων",
+          "reference": "João 1:29",
+          "meaning": "Levantar, carregar sobre os ombros, remover completamente",
+          "revelation": "Este verbo é crucial. Não diz 'cobre' (kalyptō) ou 'perdoa' (aphiēmi). Diz AIRŌN - levanta, carrega e REMOVE.\n\nÉ a mesma palavra usada quando os discípulos 'recolheram' os cestos de pão que sobraram, ou quando soldados 'pegaram' a cruz para carregá-la.\n\nJesus não põe um lençol sobre seu pecado para que Deus não o veja. Ele o levanta de seus ombros, carrega-o sobre os Seus, caminha com ele até o Gólgota e o enterra em Seu túmulo. Quando Ele ressuscita, seu pecado não ressuscita com Ele. SUMIU.",
+          "application": "Sua culpa, sua vergonha, seu passado - Cristo não apenas perdoou. Ele REMOVEU. Não existe mais sobre você."
+        },
+        {
+          "word": "Amnos",
+          "transliteration": "ἀμνός",
+          "reference": "João 1:29",
+          "meaning": "Cordeiro jovem, tenro, sem defeito",
+          "revelation": "João poderia ter usado 'probaton' (ovelha adulta) ou 'arnion' (cordeirinho). Ele usou AMNOS - o cordeiro perfeito de um ano, sem mancha, o usado nos sacrifícios mais sagrados.\n\nEsta palavra conecta diretamente com Isaías 53:7: 'Como cordeiro foi levado ao matadouro.' Não é coincidência. João está declarando: 'Este é o Servo Sofredor que Isaías viu há 700 anos.'",
+          "application": "Não é qualquer sacrifício que serve. Apenas o Cordeiro perfeito de Deus pode tirar completamente seu pecado."
+        }
+      ],
+      "revelation_key": "A diferença entre religião e evangelho: religião cobre o pecado temporariamente; Cristo o REMOVE permanentemente."
+    },
+    
+    {
+      "order": 3,
+      "type": "prophetic_thread",
+      "icon": "🧵",
+      "title": "O Fio Escarlate: De Gênesis a João",
+      "subtitle": "Como cada cordeiro apontava para este momento",
+      "timeline": [
+        {
+          "event": "Gênesis 3:21",
+          "description": "Deus sacrifica animais para cobrir a nudez de Adão e Eva",
+          "revelation": "O primeiro derramamento de sangue. Deus mostra que sem sangue não há cobertura para o pecado."
+        },
+        {
+          "event": "Gênesis 22:8",
+          "description": "Abraão diz a Isaque: 'Deus proverá para si o cordeiro'",
+          "revelation": "No Monte Moriá (o mesmo lugar onde o Templo seria construído depois), Abraão profetiza que Deus proverá Seu próprio cordeiro. Ele não pede que Abraão proveja; Deus proverá o Seu próprio."
+        },
+        {
+          "event": "Êxodo 12:3-13",
+          "description": "A Páscoa: Um cordeiro por família, sem defeito, sangue nas ombreiras",
+          "revelation": "O sangue do cordeiro é o que faz a morte 'passar por cima'. Israel é salvo não por sua bondade, mas pelo sangue."
+        },
+        {
+          "event": "Isaías 53:7",
+          "description": "O Servo Sofredor 'como cordeiro foi levado ao matadouro'",
+          "revelation": "700 anos antes de Cristo, Isaías vê o Cordeiro que carrega nossos pecados voluntariamente, sem abrir Sua boca."
+        },
+        {
+          "event": "João 1:29",
+          "description": "João aponta: 'Eis O Cordeiro de Deus'",
+          "revelation": "Ele não diz 'um cordeiro'. Ele diz 'O Cordeiro'. O definitivo. Aquele para o qual todas as sombras estavam apontando."
+        }
+      ],
+      "revelation_key": "Cada cordeiro no Antigo Testamento era um capítulo na história que culmina em João 1:29. Cristo é a resposta que Deus vinha escrevendo há 1.500 anos."
+    },
+    
+    {
+      "order": 4,
+      "type": "theological_depth",
+      "icon": "⚖️",
+      "title": "A Troca Divina",
+      "subtitle": "O que Cristo tirou e o que Ele te deu em troca",
+      "content": "No sistema do Antigo Testamento, o cordeiro morria NO LUGAR da pessoa. Era substituição. Mas Cristo faz algo mais profundo:\n\n🔄 A GRANDE TROCA:\n\n• Seu pecado → sobre Ele (2 Coríntios 5:21)\n• Sua justiça → sobre você\n\n• Sua morte → Ele a morreu (Romanos 6:23)\n• Sua vida → você a vive (Gálatas 2:20)\n\n• Sua culpa → Ele a carregou (Isaías 53:6)\n• Sua inocência → cobre você\n\n• Sua separação de Deus → Ele a experimentou na cruz ('Deus meu, por que me desamparaste?')\n• Sua intimidade com o Pai → agora é sua ('Aba, Pai')\n\nEsta não é uma troca justa. É a troca mais desigual da história: Ele tomou seu pior e lhe deu Seu melhor.",
+      "scripture_anchor": {
+        "reference": "2 Coríntios 5:21",
+        "text": "Aquele que não conheceu pecado, o fez pecado por nós; para que, nele, fôssemos feitos justiça de Deus."
+      },
+      "revelation_key": "Você não está tentando alcançar Deus. Cristo já completou a jornada e trouxe você com Ele."
+    },
+    
+    {
+      "order": 5,
+      "type": "discovery_activation",
+      "icon": "🙏",
+      "title": "Descoberta Pessoal",
+      "discovery_questions": [
+        {
+          "category": "Liberdade",
+          "question": "Que pecado, culpa ou vergonha você ainda está 'carregando' em sua vida que Cristo já TIROU (airōn) há 2.000 anos?"
+        },
+        {
+          "category": "Identidade",
+          "question": "Na troca divina, Cristo tomou sua morte e lhe deu Sua vida. Você está vivendo como alguém que morreu, ou como alguém que tem a vida de Cristo?"
+        },
+        {
+          "category": "Gratidão",
+          "question": "1 milhão de cordeiros foram sacrificados no Templo ao longo dos séculos. Todos apontavam para Jesus. Como saber que Ele é o Cordeiro Final muda sua adoração hoje?"
+        }
+      ],
+      "prayer": {
+        "title": "Oração de Ativação",
+        "content": "Jesus, meu Cordeiro perfeito. Hoje recebo pela fé o que João declarou: Você TIROU meu pecado. Você não o cobriu, não o minimizou - Você o levantou, carregou e removeu. Hoje escolho parar de carregar o que Você já carregou por mim. Obrigado pela troca desigual: Você tomou minha morte e me deu Sua vida. Que minha vida seja um eco de gratidão pelo Cordeiro que foi morto desde a fundação do mundo. Amém."
+      }
+    }
+  ],
+  
+  "tags": [
+    "sacrifício",
+    "redenção",
+    "cordeiro",
+    "expiação",
+    "troca",
+    "liberdade",
+    "páscoa"
+  ],
+  
+  "metadata": {
+    "total_word_count": 920,
+    "greek_words_count": 2,
+    "scripture_references_count": 8,
+    "difficulty_level": "intermediate",
+    "themes": [
+      "Sistema sacrificial",
+      "Expiação substitutiva",
+      "Profecia cumprida",
+      "Troca divina"
+    ]
+  }
+}
