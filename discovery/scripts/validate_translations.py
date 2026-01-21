@@ -24,9 +24,9 @@ EXPECTED_LANGUAGES = {
     'en': ['KJV', 'NIV'],  # Allow both KJV and NIV for English
     'es': ['RVR1960', 'NVI'],  # Allow both RVR1960 and NVI for Spanish
     'pt': ['ARC', 'NVI'],  # Allow both ARC and NVI for Portuguese
-    'fr': ['LSG1910'],
-    'ja': ['新改訳2003'],
-    'zh': ['和合本1919']
+    'fr': ['LSG1910', 'TOB'],  # Allow both LSG1910 and TOB for French
+    'ja': ['新改訳2003', 'リビングバイブル'],  # Allow both versions for Japanese
+    'zh': ['和合本1919', '新译本']  # Allow both versions for Chinese
 }
 
 # Expected study IDs
@@ -271,6 +271,27 @@ def validate_no_english_in_translation(data: Dict, lang: str, filename: str,
                     report.add_warning(f"{filename}: Theme may be in English: {theme[:50]}")
 
 
+def validate_filename_format(filepath: Path, lang: str, report: ValidationReport) -> bool:
+    """Validate that filename follows the correct naming convention."""
+    filename = filepath.name
+    
+    # Expected pattern: {study_name}_{lang_code}_001.json
+    # Examples: cana_wedding_en_001.json, gethsemane_agony_es_001.json
+    pattern = re.compile(r'^[a-z_]+_(' + '|'.join(EXPECTED_LANGUAGES.keys()) + r')_001\.json$')
+    
+    if not pattern.match(filename):
+        report.add_error(f"{filename}: Invalid filename format. Expected pattern: {{study_name}}_{{lang}}_001.json")
+        return False
+    
+    # Verify the language code in filename matches the directory
+    lang_in_filename = filename.split('_')[-2]
+    if lang_in_filename != lang:
+        report.add_error(f"{filename}: Language code mismatch - file is in {lang}/ directory but filename contains '{lang_in_filename}'")
+        return False
+    
+    return True
+
+
 def main():
     # Get discovery directory
     script_dir = Path(__file__).parent
@@ -308,6 +329,9 @@ def main():
             study_base = filename.replace(f'_{lang}_001.json', '_001')
             
             report.stats['total_files'] += 1
+            
+            # Validate filename format
+            validate_filename_format(filepath, lang, report)
             
             # Load and validate JSON
             data = load_json_file(filepath, report)

@@ -149,152 +149,224 @@
     },
     {
       "id": "gethsemane_agony_001",
-      "version": "1.1",
+      "version": "1.2",
       "emoji": "🫒",
       "files": {
         "es": "gethsemane_agony_es_001.json",
         "en": "gethsemane_agony_en_001.json",
-        "pt": "gethsemane_agony_pt_001.json"
+        "pt": "gethsemane_agony_pt_001.json",
+        "fr": "gethsemane_agony_fr_001.json",
+        "ja": "gethsemane_agony_ja_001.json",
+        "zh": "gethsemane_agony_zh_001.json"
       },
       "titles": {
         "es": "La Agonía del Testador",
         "en": "The Agony of the Testator",
-        "pt": "A Agonia do Testador"
+        "pt": "A Agonia do Testador",
+        "fr": "L'Agonie du Testateur",
+        "ja": "遺言者の苦悶",
+        "zh": "立约者的痛苦"
       },
       "subtitles": {
         "es": "Cuando el Hijo de Dios suda sangre en la prensa de aceite",
         "en": "When the Son of God sweats blood in the olive press",
-        "pt": "Quando o Filho de Deus sua sangue no lagar de azeite"
+        "pt": "Quando o Filho de Deus sua sangue no lagar de azeite",
+        "fr": "Quand le Fils de Dieu sue du sang dans le pressoir à olives",
+        "ja": "神の御子がオリーブの圧搾器で血の汗を流すとき",
+        "zh": "当神的儿子在橄榄压榨机中流出血汗时"
       },
       "estimated_reading_minutes": {
         "es": 7,
         "en": 7,
-        "pt": 7
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
       }
     },
     {
       "id": "new_covenant_cup_001",
-      "version": "1.1",
+      "version": "1.2",
       "emoji": "🍷",
       "files": {
         "es": "new_covenant_cup_es_001.json",
         "en": "new_covenant_cup_en_001.json",
-        "pt": "new_covenant_cup_pt_001.json"
+        "pt": "new_covenant_cup_pt_001.json",
+        "fr": "new_covenant_cup_fr_001.json",
+        "ja": "new_covenant_cup_ja_001.json",
+        "zh": "new_covenant_cup_zh_001.json"
       },
       "titles": {
         "es": "La Copa del Nuevo Pacto",
         "en": "The Cup of the New Covenant",
-        "pt": "A Taça da Nova Aliança"
+        "pt": "A Taça da Nova Aliança",
+        "fr": "La Coupe de la Nouvelle Alliance",
+        "ja": "新しい契約の杯",
+        "zh": "新约的杯"
       },
       "subtitles": {
         "es": "Cuando el Testador firma con su sangre el testamento de nuestra libertad",
         "en": "When the Testator signs with his blood the testament of our freedom",
-        "pt": "Quando o Testador assina com seu sangue o testamento de nossa liberdade"
+        "pt": "Quando o Testador assina com seu sangue o testamento de nossa liberdade",
+        "fr": "Quand le Testateur signe de son sang le testament de notre liberté",
+        "ja": "遺言者が私たちの自由の遺言を血で署名するとき",
+        "zh": "当立约者用他的血签署我们自由的遗嘱时"
       },
       "estimated_reading_minutes": {
         "es": 7,
         "en": 7,
-        "pt": 7
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
       }
     },
     {
       "id": "cup_of_wrath_001",
-      "version": "1.2",
+      "version": "1.3",
       "emoji": "😱",
       "files": {
         "es": "cup_of_wrath_es_001.json",
         "en": "cup_of_wrath_en_001.json",
-        "pt": "cup_of_wrath_pt_001.json"
+        "pt": "cup_of_wrath_pt_001.json",
+        "fr": "cup_of_wrath_fr_001.json",
+        "ja": "cup_of_wrath_ja_001.json",
+        "zh": "cup_of_wrath_zh_001.json"
       },
       "titles": {
         "es": "La Copa de la Ira",
         "en": "The Cup of Wrath",
-        "pt": "A Taça da Ira"
+        "pt": "A Taça da Ira",
+        "fr": "La Coupe de la Colère",
+        "ja": "怒りの杯",
+        "zh": "忿怒的杯"
       },
       "subtitles": {
         "es": "Cuando el Inocente bebe el juicio que nos correspondía",
         "en": "When the Innocent drinks the judgment that belonged to us",
-        "pt": "Quando o Inocente bebe o juízo que nos pertencia"
+        "pt": "Quando o Inocente bebe o juízo que nos pertencia",
+        "fr": "Quand l'Innocent boit le jugement qui nous appartenait",
+        "ja": "無実の方が私たちに属していた裁きを飲むとき",
+        "zh": "当无辜者喝下属于我们的审判时"
       },
       "estimated_reading_minutes": {
         "es": 8,
         "en": 8,
-        "pt": 8
+        "pt": 8,
+        "fr": 8,
+        "ja": 8,
+        "zh": 8
       }
     },
     {
       "id": "veil_torn_001",
-      "version": "1.2",
+      "version": "1.3",
       "emoji": "🏛️",
       "files": {
         "es": "veil_torn_es_001.json",
         "en": "veil_torn_en_001.json",
-        "pt": "veil_torn_pt_001.json"
+        "pt": "veil_torn_pt_001.json",
+        "fr": "veil_torn_fr_001.json",
+        "ja": "veil_torn_ja_001.json",
+        "zh": "veil_torn_zh_001.json"
       },
       "titles": {
         "es": "El Velo Rasgado",
         "en": "The Torn Veil",
-        "pt": "O Véu Rasgado"
+        "pt": "O Véu Rasgado",
+        "fr": "Le Voile Déchiré",
+        "ja": "裂け分かれた幕",
+        "zh": "裂开的幔子"
       },
       "subtitles": {
         "es": "Cuando Dios abre el camino al Lugar Santísimo",
         "en": "When God opens the way to the Holy of Holies",
-        "pt": "Quando Deus abre o caminho para o Santo dos Santos"
+        "pt": "Quando Deus abre o caminho para o Santo dos Santos",
+        "fr": "Quand Dieu ouvre le chemin vers le Saint des Saints",
+        "ja": "神が至聖所への道を開くとき",
+        "zh": "当神开辟通往至圣所的道路时"
       },
       "estimated_reading_minutes": {
         "es": 7,
         "en": 7,
-        "pt": 7
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
       }
     },
     {
       "id": "saints_resurrected_001",
-      "version": "1.1",
+      "version": "1.2",
       "emoji": "⚰️",
       "files": {
         "es": "saints_resurrected_es_001.json",
         "en": "saints_resurrected_en_001.json",
-        "pt": "saints_resurrected_pt_001.json"
+        "pt": "saints_resurrected_pt_001.json",
+        "fr": "saints_resurrected_fr_001.json",
+        "ja": "saints_resurrected_ja_001.json",
+        "zh": "saints_resurrected_zh_001.json"
       },
       "titles": {
         "es": "Los Santos Resucitados",
         "en": "The Resurrected Saints",
-        "pt": "Os Santos Ressuscitados"
+        "pt": "Os Santos Ressuscitados",
+        "fr": "Les Saints Ressuscités",
+        "ja": "よみがえった聖人たち",
+        "zh": "复活的圣徒"
       },
       "subtitles": {
         "es": "Cuando la muerte de Cristo liberó a los cautivos del Hades",
         "en": "When Christ's death freed the captives from Hades",
-        "pt": "Quando a morte de Cristo libertou os cativos do Hades"
+        "pt": "Quando a morte de Cristo libertou os cativos do Hades",
+        "fr": "Quand la mort du Christ a libéré les captifs de l'Hadès",
+        "ja": "キリストの死がハデスの捕虜を解放したとき",
+        "zh": "当基督的死释放了阴间的囚徒时"
       },
       "estimated_reading_minutes": {
         "es": 8,
         "en": 8,
-        "pt": 8
+        "pt": 8,
+        "fr": 8,
+        "ja": 8,
+        "zh": 8
       }
     },
     {
       "id": "passed_from_death_001",
-      "version": "1.1",
+      "version": "1.2",
       "emoji": "🔄",
       "files": {
         "es": "passed_from_death_es_001.json",
         "en": "passed_from_death_en_001.json",
-        "pt": "passed_from_death_pt_001.json"
+        "pt": "passed_from_death_pt_001.json",
+        "fr": "passed_from_death_fr_001.json",
+        "ja": "passed_from_death_ja_001.json",
+        "zh": "passed_from_death_zh_001.json"
       },
       "titles": {
         "es": "Pasados de Muerte a Vida",
         "en": "Passed from Death to Life",
-        "pt": "Passados de Morte para Vida"
+        "pt": "Passados de Morte para Vida",
+        "fr": "Passé de la Mort à la Vie",
+        "ja": "死からいのちへ渡された",
+        "zh": "从死到生"
       },
       "subtitles": {
         "es": "La revelación final: ya no puedes 'des-nacer'",
         "en": "The final revelation: you cannot 'un-birth' yourself",
-        "pt": "A revelação final: você não pode 'des-nascer'"
+        "pt": "A revelação final: você não pode 'des-nascer'",
+        "fr": "La révélation finale : vous ne pouvez pas 'dé-naître'",
+        "ja": "最終的な啓示：あなたは自分を「生まれなかったこと」にできない",
+        "zh": "最终的启示：你不能'不出生'"
       },
       "estimated_reading_minutes": {
         "es": 8,
         "en": 8,
-        "pt": 8
+        "pt": 8,
+        "fr": 8,
+        "ja": 8,
+        "zh": 8
       }
     }
   ]
