@@ -260,6 +260,27 @@
       }
     },
     {
+      "id": "i_am_before_abraham_001",
+      "version": "1.0",
+      "emoji": "⚡",
+      "files": {
+        "es": "i_am_before_abraham_es_001.json",
+        "en": "i_am_before_abraham_en_001.json"
+      },
+      "titles": {
+        "es": "YO SOY: Antes que Abraham Fuese",
+        "en": "I AM: Before Abraham Was"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús reclama eternidad y la multitud toma piedras",
+        "en": "When Jesus claims eternity and the mob grabs stones"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6
+      }
+    },
+    {
       "id": "gethsemane_agony_001",
       "version": "1.2",
       "emoji": "🫒",
