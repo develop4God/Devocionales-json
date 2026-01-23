@@ -20,6 +20,10 @@ import sys
 class DevotionalIDFixer:
     """Fixes and validates devotional IDs"""
     
+    # Constants
+    MAX_BOOK_ABBREV_LENGTH = 15  # Maximum length for book abbreviations
+    MAX_EXAMPLES_TO_SHOW = 3     # Number of example fixes to display
+    
     def __init__(self, base_path: str):
         self.base_path = base_path
         self.stats = {
@@ -212,7 +216,7 @@ class DevotionalIDFixer:
         book_abbrev = self.book_mappings.get(book_name)
         if not book_abbrev:
             # If not in mapping, try to use a sanitized version
-            book_abbrev = re.sub(r'[^\w]', '', book_name.lower())[:15]
+            book_abbrev = re.sub(r'[^\w]', '', book_name.lower())[:self.MAX_BOOK_ABBREV_LENGTH]
         
         # Handle verse ranges (e.g., "15-16" -> "1516")
         verse = verse_raw.replace('-', '')
@@ -291,11 +295,11 @@ class DevotionalIDFixer:
                         if not dry_run:
                             entry['id'] = new_id
                         fixed_count += 1
-                        if fixed_count <= 3:  # Show first 3 examples
+                        if fixed_count <= self.MAX_EXAMPLES_TO_SHOW:  # Show first few examples
                             print(f"  ✓ {old_id} -> {new_id}")
         
-        if fixed_count > 3:
-            print(f"  ... and {fixed_count - 3} more")
+        if fixed_count > self.MAX_EXAMPLES_TO_SHOW:
+            print(f"  ... and {fixed_count - self.MAX_EXAMPLES_TO_SHOW} more")
         
         # Write back to file if not dry run
         if not dry_run and fixed_count > 0:

@@ -10,6 +10,10 @@ import os
 from collections import defaultdict
 
 
+# Constants
+MAX_DUPLICATES_TO_DISPLAY = 20  # Maximum number of duplicates to show in output
+
+
 def validate_all_files():
     """Check all files for duplicate IDs globally"""
     # Use relative path from script location or environment variable
@@ -94,14 +98,14 @@ def validate_all_files():
     if duplicates:
         print(f"⚠️  FOUND {len(duplicates)} DUPLICATE IDs:")
         print()
-        for id_val, locations in sorted(duplicates.items())[:20]:  # Show first 20
+        for id_val, locations in sorted(duplicates.items())[:MAX_DUPLICATES_TO_DISPLAY]:  # Show limited number
             print(f"ID: {id_val}")
             for filename, date in locations:
                 print(f"  - {filename} (date: {date})")
             print()
         
-        if len(duplicates) > 20:
-            print(f"... and {len(duplicates) - 20} more duplicates")
+        if len(duplicates) > MAX_DUPLICATES_TO_DISPLAY:
+            print(f"... and {len(duplicates) - MAX_DUPLICATES_TO_DISPLAY} more duplicates")
         
         return 1
     else:
