@@ -12,7 +12,8 @@ from collections import defaultdict
 
 def validate_all_files():
     """Check all files for duplicate IDs globally"""
-    base_path = "/home/runner/work/Devocionales-json/Devocionales-json"
+    # Use relative path from script location or environment variable
+    base_path = os.environ.get('DEVOTIONAL_PATH', os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     
     all_ids = defaultdict(list)  # id -> list of (filename, date)
     

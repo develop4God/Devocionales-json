@@ -3,7 +3,7 @@
 ID Format Validator and Fixer for Devotional JSON Files
 
 This script fixes the incorrect ID format in Japanese and Chinese devotional files.
-The correct ID format must include: chapter+verse+bibleversion+date
+The correct ID format must include: book+chapter+verse+bibleversion+date
 
 Example correct format: "john15v5KJV20250801"
 Example incorrect format: "リビングバイブル-20250801"
@@ -432,7 +432,8 @@ class DevotionalIDFixer:
 
 def main():
     """Main execution function"""
-    base_path = "/home/runner/work/Devocionales-json/Devocionales-json"
+    # Use relative path from script location or environment variable
+    base_path = os.environ.get('DEVOTIONAL_PATH', os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     
     # Initialize fixer
     fixer = DevotionalIDFixer(base_path)

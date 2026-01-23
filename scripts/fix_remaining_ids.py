@@ -28,7 +28,8 @@ def extract_existing_components(entry_id, date):
 
 def fix_all_files():
     """Fix IDs in ALL devotional files"""
-    base_path = "/home/runner/work/Devocionales-json/Devocionales-json"
+    # Use relative path from script location or environment variable
+    base_path = os.environ.get('DEVOTIONAL_PATH', os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     
     all_files = [
         # English
