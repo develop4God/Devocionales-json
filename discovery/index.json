@@ -281,6 +281,69 @@
       }
     },
     {
+      "id": "jesus_troubled_himself_001",
+      "version": "1.0",
+      "emoji": "😢",
+      "files": {
+        "es": "jesus_troubled_himself_es_001.json",
+        "en": "jesus_troubled_himself_en_001.json"
+      },
+      "titles": {
+        "es": "Se Turbó a Sí Mismo",
+        "en": "He Troubled Himself"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús eligió entrar en nuestro dolor",
+        "en": "When Jesus chose to enter our pain"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7
+      }
+    },
+    {
+      "id": "restoration_by_fire_001",
+      "version": "1.0",
+      "emoji": "🔥",
+      "files": {
+        "es": "restoration_by_fire_es_001.json",
+        "en": "restoration_by_fire_en_001.json"
+      },
+      "titles": {
+        "es": "Las Brasas de la Restauración",
+        "en": "The Coals of Restoration"
+      },
+      "subtitles": {
+        "es": "Cuando el olor del fracaso se convierte en el aroma del perdón",
+        "en": "When the smell of failure becomes the aroma of forgiveness"
+      },
+      "estimated_reading_minutes": {
+        "es": 9,
+        "en": 9
+      }
+    },
+    {
+      "id": "breath_of_new_adam_001",
+      "version": "1.0",
+      "emoji": "💨",
+      "files": {
+        "es": "breath_of_new_adam_es_001.json",
+        "en": "breath_of_new_adam_en_001.json"
+      },
+      "titles": {
+        "es": "El Soplo del Nuevo Adán",
+        "en": "The Breath of the New Adam"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús reconecta al hombre con Dios",
+        "en": "When Jesus reconnects man with God"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7
+      }
+    },
+    {
       "id": "gethsemane_agony_001",
       "version": "1.2",
       "emoji": "🫒",
