@@ -2,7 +2,10 @@
 """
 Comprehensive validation script for discovery study translations.
 
-This script validates:
+This script validates in two phases:
+PHASE A: Validate index.json (format, structure, data integrity)
+PHASE B: Validate translation files using index.json as source of truth
+
 1. JSON format validity
 2. No mixed languages in content
 3. Structural consistency across translations
@@ -15,7 +18,7 @@ import os
 import re
 import sys
 from pathlib import Path
-from typing import Dict, List, Tuple, Set
+from typing import Dict, List, Tuple, Set, Optional
 from collections import Counter
 
 # Expected languages and their Bible versions
@@ -28,23 +31,6 @@ EXPECTED_LANGUAGES = {
     'ja': ['新改訳2003', 'リビングバイブル'],  # Allow both versions for Japanese
     'zh': ['和合本1919', '新译本']  # Allow both versions for Chinese
 }
-
-# Expected study IDs
-EXPECTED_STUDIES = [
-    'born_again_001',
-    'cana_wedding_001',
-    'cup_of_wrath_001',
-    'gethsemane_agony_001',
-    'lamb_of_god_001',
-    'logos_creation_001',
-    'morning_star_001',
-    'natanael_fig_tree_001',
-    'new_covenant_cup_001',
-    'passed_from_death_001',
-    'saints_resurrected_001',
-    'temple_cleansing_001',
-    'veil_torn_001'
-]
 
 # Language character patterns for detection
 LANGUAGE_PATTERNS = {
@@ -67,8 +53,10 @@ class ValidationReport:
             'valid_json': 0,
             'invalid_json': 0,
             'languages_found': set(),
-            'studies_found': set()
+            'studies_found': set(),
+            'pending_translations': []
         }
+        self.phase = "INIT"
 
     def add_error(self, message: str):
         self.errors.append(f"❌ ERROR: {message}")
@@ -79,17 +67,25 @@ class ValidationReport:
     def add_info(self, message: str):
         self.info.append(f"ℹ️  INFO: {message}")
 
-    def print_report(self):
+    def print_report(self, final: bool = True):
         print("\n" + "=" * 80)
-        print("VALIDATION REPORT")
+        if self.phase == "PHASE_A":
+            print("PHASE A: INDEX VALIDATION REPORT")
+        elif self.phase == "PHASE_B":
+            print("PHASE B: TRANSLATION FILES VALIDATION REPORT")
+        else:
+            print("VALIDATION REPORT")
         print("=" * 80)
         
-        print(f"\n📊 STATISTICS:")
-        print(f"  Total files checked: {self.stats['total_files']}")
-        print(f"  Valid JSON files: {self.stats['valid_json']}")
-        print(f"  Invalid JSON files: {self.stats['invalid_json']}")
-        print(f"  Languages found: {', '.join(sorted(self.stats['languages_found']))}")
-        print(f"  Studies found: {len(self.stats['studies_found'])}")
+        if final:
+            print(f"\n📊 STATISTICS:")
+            print(f"  Total files checked: {self.stats['total_files']}")
+            print(f"  Valid JSON files: {self.stats['valid_json']}")
+            print(f"  Invalid JSON files: {self.stats['invalid_json']}")
+            print(f"  Languages found: {', '.join(sorted(self.stats['languages_found']))}")
+            print(f"  Studies found: {len(self.stats['studies_found'])}")
+            if self.stats['pending_translations']:
+                print(f"  Studies with pending translations: {len(self.stats['pending_translations'])}")
 
         if self.info:
             print(f"\nℹ️  INFORMATION ({len(self.info)}):")
@@ -108,7 +104,10 @@ class ValidationReport:
             print("\n" + "=" * 80)
             return False
         else:
-            print(f"\n✅ ALL VALIDATIONS PASSED!")
+            if final:
+                print(f"\n✅ ALL VALIDATIONS PASSED!")
+            else:
+                print(f"\n✅ PHASE PASSED - Proceeding to next phase")
             print("=" * 80)
             return True
 
@@ -292,6 +291,144 @@ def validate_filename_format(filepath: Path, lang: str, report: ValidationReport
     return True
 
 
+def validate_index_json(discovery_dir: Path, report: ValidationReport) -> Optional[Dict]:
+    """
+    PHASE A: Validate index.json format, structure, and data integrity.
+    Returns the index data if valid, None if errors found.
+    """
+    report.phase = "PHASE_A"
+    report.add_info("=" * 60)
+    report.add_info("PHASE A: Validating index.json")
+    report.add_info("=" * 60)
+    
+    index_path = discovery_dir / 'index.json'
+    
+    # Check if index.json exists
+    if not index_path.exists():
+        report.add_error("index.json not found in discovery directory")
+        return None
+    
+    # Load and validate JSON format
+    try:
+        with open(index_path, 'r', encoding='utf-8') as f:
+            index_data = json.load(f)
+            report.stats['valid_json'] += 1
+            report.add_info("✓ index.json is valid JSON")
+    except json.JSONDecodeError as e:
+        report.add_error(f"index.json has invalid JSON syntax: {e}")
+        report.stats['invalid_json'] += 1
+        return None
+    except Exception as e:
+        report.add_error(f"Error reading index.json: {e}")
+        return None
+    
+    # Validate required top-level structure
+    if 'studies' not in index_data:
+        report.add_error("index.json missing required 'studies' array")
+        return None
+    
+    if not isinstance(index_data['studies'], list):
+        report.add_error("index.json 'studies' must be an array")
+        return None
+    
+    if len(index_data['studies']) == 0:
+        report.add_error("index.json 'studies' array is empty")
+        return None
+    
+    report.add_info(f"✓ Found {len(index_data['studies'])} studies in index.json")
+    
+    # Validate each study entry
+    study_ids = set()
+    pending_studies = []
+    
+    for idx, study in enumerate(index_data['studies']):
+        study_num = idx + 1
+        
+        # Check required fields
+        required_fields = ['id', 'version', 'emoji', 'files', 'titles', 'subtitles', 'estimated_reading_minutes']
+        for field in required_fields:
+            if field not in study:
+                report.add_error(f"Study #{study_num}: Missing required field '{field}'")
+                continue
+        
+        study_id = study.get('id', f'unknown_{study_num}')
+        
+        # Check for duplicate IDs
+        if study_id in study_ids:
+            report.add_error(f"Duplicate study ID: {study_id}")
+        study_ids.add(study_id)
+        
+        # Validate files object
+        if 'files' in study:
+            if not isinstance(study['files'], dict):
+                report.add_error(f"Study {study_id}: 'files' must be an object")
+            else:
+                files = study['files']
+                langs_in_study = set(files.keys())
+                
+                # Check if all expected languages are present
+                expected_langs = set(EXPECTED_LANGUAGES.keys())
+                missing_langs = expected_langs - langs_in_study
+                
+                if missing_langs:
+                    pending_studies.append({
+                        'id': study_id,
+                        'missing_languages': sorted(missing_langs)
+                    })
+                    report.add_warning(f"Study {study_id}: Missing translations for {sorted(missing_langs)}")
+                
+                # Validate filename format for each language
+                for lang, filename in files.items():
+                    if lang not in EXPECTED_LANGUAGES:
+                        report.add_error(f"Study {study_id}: Unknown language code '{lang}'")
+                    
+                    # Check filename format
+                    expected_filename = f"{study_id.replace('_001', '')}_{lang}_001.json"
+                    if filename != expected_filename:
+                        report.add_warning(f"Study {study_id}: File for {lang} is '{filename}', expected '{expected_filename}'")
+        
+        # Validate titles object
+        if 'titles' in study:
+            if not isinstance(study['titles'], dict):
+                report.add_error(f"Study {study_id}: 'titles' must be an object")
+            else:
+                # Check that titles match the files languages
+                if 'files' in study:
+                    title_langs = set(study['titles'].keys())
+                    file_langs = set(study['files'].keys())
+                    if title_langs != file_langs:
+                        report.add_warning(f"Study {study_id}: Title languages {sorted(title_langs)} don't match file languages {sorted(file_langs)}")
+        
+        # Validate subtitles object
+        if 'subtitles' in study:
+            if not isinstance(study['subtitles'], dict):
+                report.add_error(f"Study {study_id}: 'subtitles' must be an object")
+            else:
+                # Check that subtitles match the files languages
+                if 'files' in study:
+                    subtitle_langs = set(study['subtitles'].keys())
+                    file_langs = set(study['files'].keys())
+                    if subtitle_langs != file_langs:
+                        report.add_warning(f"Study {study_id}: Subtitle languages {sorted(subtitle_langs)} don't match file languages {sorted(file_langs)}")
+        
+        # Validate estimated_reading_minutes
+        if 'estimated_reading_minutes' in study:
+            if not isinstance(study['estimated_reading_minutes'], dict):
+                report.add_error(f"Study {study_id}: 'estimated_reading_minutes' must be an object")
+    
+    # Store pending translations info
+    report.stats['pending_translations'] = pending_studies
+    
+    if pending_studies:
+        report.add_info(f"Found {len(pending_studies)} studies with incomplete translations")
+        for pending in pending_studies:
+            report.add_info(f"  - {pending['id']}: PENDING {', '.join(pending['missing_languages'])}")
+    
+    report.add_info(f"✓ index.json structure validation complete")
+    
+    return index_data
+
+
 def main():
     # Get discovery directory
     script_dir = Path(__file__).parent
@@ -301,6 +438,38 @@ def main():
     
     print("🔍 Starting Discovery Studies Validation...")
     print(f"📁 Discovery directory: {discovery_dir}")
+    print()
+    
+    # ==========================================
+    # PHASE A: Validate index.json
+    # ==========================================
+    index_data = validate_index_json(discovery_dir, report)
+    
+    # Print Phase A report
+    phase_a_success = report.print_report(final=False)
+    
+    if not phase_a_success or index_data is None:
+        print("\n❌ PHASE A FAILED - Stopping validation")
+        print("Please fix index.json errors before validating translation files")
+        return 1
+    
+    # Extract study IDs from index.json to use as source of truth
+    index_studies = {}
+    for study in index_data['studies']:
+        study_id = study['id']
+        index_studies[study_id] = study
+    
+    # ==========================================
+    # PHASE B: Validate translation files
+    # ==========================================
+    report.phase = "PHASE_B"
+    report.errors = []  # Reset errors for Phase B
+    report.warnings = []  # Reset warnings for Phase B
+    report.info = []  # Reset info for Phase B
+    
+    report.add_info("=" * 60)
+    report.add_info("PHASE B: Validating translation files using index.json")
+    report.add_info("=" * 60)
     
     # Store all loaded data for cross-validation
     all_studies = {}
@@ -353,13 +522,14 @@ def main():
         
         all_studies[lang] = lang_studies
     
-    # Cross-validate translations against English
+    # Cross-validate translations against English using index.json as source
     if 'en' in all_studies:
         for lang in ['es', 'pt', 'fr', 'ja', 'zh']:
             if lang not in all_studies:
                 continue
             
-            for study_id in EXPECTED_STUDIES:
+            # Use index_studies instead of EXPECTED_STUDIES
+            for study_id in index_studies.keys():
                 if study_id in all_studies['en'] and study_id in all_studies[lang]:
                     filename = f"{study_id.replace('_001', '')}_{lang}_001.json"
                     validate_content_translation(
@@ -370,34 +540,17 @@ def main():
                         report
                     )
     
-    # Validate index.json
-    index_path = discovery_dir / 'index.json'
-    if index_path.exists():
-        report.add_info("Validating index.json")
-        index_data = load_json_file(index_path, report)
-        if index_data and 'studies' in index_data:
-            index_study_ids = {study['id'] for study in index_data['studies']}
-            if index_study_ids != set(EXPECTED_STUDIES):
-                missing = set(EXPECTED_STUDIES) - index_study_ids
-                extra = index_study_ids - set(EXPECTED_STUDIES)
-                if missing:
-                    report.add_error(f"index.json missing studies: {missing}")
-                if extra:
-                    report.add_warning(f"index.json has extra studies: {extra}")
-            
-            # Check that files listed in index actually exist
-            for study in index_data['studies']:
-                study_id = study.get('id')
-                files = study.get('files', {})
-                for lang, filename in files.items():
-                    filepath = discovery_dir / lang / filename
-                    if not filepath.exists():
-                        report.add_error(f"index.json: Study {study_id} lists {lang}/{filename} but file doesn't exist")
-    else:
-        report.add_error("index.json not found")
+    # Verify that files listed in index actually exist
+    report.add_info("Verifying all index.json file references exist...")
+    for study_id, study in index_studies.items():
+        files = study.get('files', {})
+        for lang, filename in files.items():
+            filepath = discovery_dir / lang / filename
+            if not filepath.exists():
+                report.add_error(f"index.json: Study {study_id} lists {lang}/{filename} but file doesn't exist")
     
-    # Print report and return exit code
-    success = report.print_report()
+    # Print final report
+    success = report.print_report(final=True)
     return 0 if success else 1
 
 
