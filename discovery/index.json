@@ -628,6 +628,69 @@
         "ja": 8,
         "zh": 8
       }
+    },
+    {
+      "id": "great_commission_001",
+      "version": "1.0",
+      "emoji": "🌍",
+      "files": {
+        "es": "great_commission_es_001.json",
+        "en": "great_commission_en_001.json"
+      },
+      "titles": {
+        "es": "La Gran Comisión",
+        "en": "The Great Commission"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús transforma a seguidores en enviados",
+        "en": "When Jesus transforms followers into sent ones"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6
+      }
+    },
+    {
+      "id": "pentecost_power_001",
+      "version": "1.0",
+      "emoji": "🔥",
+      "files": {
+        "es": "pentecost_power_es_001.json",
+        "en": "pentecost_power_en_001.json"
+      },
+      "titles": {
+        "es": "El Poder de Pentecostés",
+        "en": "The Power of Pentecost"
+      },
+      "subtitles": {
+        "es": "Cuando el Espíritu Santo transforma cobardes en valientes",
+        "en": "When the Holy Spirit transforms cowards into the courageous"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7
+      }
+    },
+    {
+      "id": "damascus_road_001",
+      "version": "1.0",
+      "emoji": "⚡",
+      "files": {
+        "es": "damascus_road_es_001.json",
+        "en": "damascus_road_en_001.json"
+      },
+      "titles": {
+        "es": "El Camino a Damasco",
+        "en": "The Road to Damascus"
+      },
+      "subtitles": {
+        "es": "Cuando la luz de Cristo derriba al perseguidor más feroz",
+        "en": "When the light of Christ strikes down the fiercest persecutor"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7
+      }
     }
   ]
 }
