@@ -24,12 +24,12 @@ from collections import Counter
 # Expected languages and their Bible versions
 # Note: Some studies may use different Bible versions
 EXPECTED_LANGUAGES = {
-    'en': ['KJV', 'NIV'],  # Allow both KJV and NIV for English
-    'es': ['RVR1960', 'NVI'],  # Allow both RVR1960 and NVI for Spanish
-    'pt': ['ARC', 'NVI'],  # Allow both ARC and NVI for Portuguese
-    'fr': ['LSG1910', 'TOB'],  # Allow both LSG1910 and TOB for French
-    'ja': ['新改訳2003', 'リビングバイブル'],  # Allow both versions for Japanese
-    'zh': ['和合本1919', '新译本']  # Allow both versions for Chinese
+    'en': ['KJV', 'NIV'],  # Allow both KJV(PRIMARY) and NIV (SECONDARY) for English
+    'es': ['RVR1960', 'NVI'],  # Allow both RVR1960(PRIMARY) and NVI (SECONDARY) for Spanish
+    'pt': ['ARC', 'NVI'],  # Allow both ARC(PRIMARY) and NVI (SECONDARY) for Portuguese
+    'fr': ['LSG1910', 'TOB'],  # Allow both LSG1910(PRIMARY) and TOB (SECONDARY)for French
+    'ja': ['新改訳2003', 'リビングバイブル'],  # Allow both versions for Japanese 新改訳2003 (PRIMARY) and リビングバイブル 
+    'zh': ['和合本1919', '新译本']  # Allow both versions for Chinese 和合本1919 (PRIMARY) and 新译本 (SECONDARY)
 }
 
 # Language character patterns for detection
