@@ -265,19 +265,35 @@
       "emoji": "⚡",
       "files": {
         "es": "i_am_before_abraham_es_001.json",
-        "en": "i_am_before_abraham_en_001.json"
+        "en": "i_am_before_abraham_en_001.json",
+        "pt": "i_am_before_abraham_pt_001.json",
+        "fr": "i_am_before_abraham_fr_001.json",
+        "ja": "i_am_before_abraham_ja_001.json",
+        "zh": "i_am_before_abraham_zh_001.json"
       },
       "titles": {
         "es": "YO SOY: Antes que Abraham Fuese",
-        "en": "I AM: Before Abraham Was"
+        "en": "I AM: Before Abraham Was",
+        "pt": "EU SOU: Antes que Abraão Existisse",
+        "fr": "JE SUIS : Avant qu'Abraham Fût",
+        "ja": "わたしはある：アブラハムが生まれる前から",
+        "zh": "我是：在亚伯拉罕出生以前"
       },
       "subtitles": {
         "es": "Cuando Jesús reclama eternidad y la multitud toma piedras",
-        "en": "When Jesus claims eternity and the mob grabs stones"
+        "en": "When Jesus claims eternity and the mob grabs stones",
+        "pt": "Quando Jesus reivindica a eternidade e a multidão pega pedras",
+        "fr": "Quand Jésus revendique l'éternité et la foule saisit des pierres",
+        "ja": "イエスが永遠性を主張し、群衆が石を取り上げたとき",
+        "zh": "当耶稣宣称永恒，而众人拿起石头"
       },
       "estimated_reading_minutes": {
         "es": 6,
-        "en": 6
+        "en": 6,
+        "pt": 6,
+        "fr": 6,
+        "ja": 6,
+        "zh": 6
       }
     },
     {
@@ -286,19 +302,35 @@
       "emoji": "😢",
       "files": {
         "es": "jesus_troubled_himself_es_001.json",
-        "en": "jesus_troubled_himself_en_001.json"
+        "en": "jesus_troubled_himself_en_001.json",
+        "pt": "jesus_troubled_himself_pt_001.json",
+        "fr": "jesus_troubled_himself_fr_001.json",
+        "ja": "jesus_troubled_himself_ja_001.json",
+        "zh": "jesus_troubled_himself_zh_001.json"
       },
       "titles": {
         "es": "Se Turbó a Sí Mismo",
-        "en": "He Troubled Himself"
+        "en": "He Troubled Himself",
+        "pt": "Ele Se Perturbou",
+        "fr": "Il Se Troubla Lui-même",
+        "ja": "御霊自身を悩まされた",
+        "zh": "他使自己心里悲叹"
       },
       "subtitles": {
         "es": "Cuando Jesús eligió entrar en nuestro dolor",
-        "en": "When Jesus chose to enter our pain"
+        "en": "When Jesus chose to enter our pain",
+        "pt": "Quando Jesus escolheu entrar em nossa dor",
+        "fr": "Quand Jésus a choisi d'entrer dans notre douleur",
+        "ja": "イエスが私たちの痛みに入ることを選ばれたとき",
+        "zh": "当耶稣选择进入我们的痛苦"
       },
       "estimated_reading_minutes": {
         "es": 7,
-        "en": 7
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
       }
     },
     {
@@ -307,19 +339,35 @@
       "emoji": "🔥",
       "files": {
         "es": "restoration_by_fire_es_001.json",
-        "en": "restoration_by_fire_en_001.json"
+        "en": "restoration_by_fire_en_001.json",
+        "pt": "restoration_by_fire_pt_001.json",
+        "fr": "restoration_by_fire_fr_001.json",
+        "ja": "restoration_by_fire_ja_001.json",
+        "zh": "restoration_by_fire_zh_001.json"
       },
       "titles": {
         "es": "Las Brasas de la Restauración",
-        "en": "The Coals of Restoration"
+        "en": "The Coals of Restoration",
+        "pt": "As Brasas da Restauração",
+        "fr": "Les Braises de la Restauration",
+        "ja": "回復の炭火",
+        "zh": "恢复的炭火"
       },
       "subtitles": {
         "es": "Cuando el olor del fracaso se convierte en el aroma del perdón",
-        "en": "When the smell of failure becomes the aroma of forgiveness"
+        "en": "When the smell of failure becomes the aroma of forgiveness",
+        "pt": "Quando o cheiro do fracasso se torna o aroma do perdão",
+        "fr": "Quand l'odeur de l'échec devient l'arôme du pardon",
+        "ja": "失敗の匂いが赦しの香りになるとき",
+        "zh": "当失败的气味变成宽恕的芬芳"
       },
       "estimated_reading_minutes": {
         "es": 9,
-        "en": 9
+        "en": 9,
+        "pt": 9,
+        "fr": 9,
+        "ja": 9,
+        "zh": 9
       }
     },
     {
@@ -328,19 +376,35 @@
       "emoji": "☁️",
       "files": {
         "es": "breath_new_adam_es_001.json",
-        "en": "breath_new_adam_en_001.json"
+        "en": "breath_new_adam_en_001.json",
+        "pt": "breath_new_adam_pt_001.json",
+        "fr": "breath_new_adam_fr_001.json",
+        "ja": "breath_new_adam_ja_001.json",
+        "zh": "breath_new_adam_zh_001.json"
       },
       "titles": {
         "es": "El Soplo del Nuevo Adán",
-        "en": "The Breath of the New Adam"
+        "en": "The Breath of the New Adam",
+        "pt": "O Sopro do Novo Adão",
+        "fr": "Le Souffle du Nouvel Adam",
+        "ja": "新しいアダムの息",
+        "zh": "新亚当的气息"
       },
       "subtitles": {
         "es": "Cuando Jesús reconecta al hombre con Dios",
-        "en": "When Jesus reconnects man with God"
+        "en": "When Jesus reconnects man with God",
+        "pt": "Quando Jesus reconecta o homem com Deus",
+        "fr": "Quand Jésus reconnecte l'homme avec Dieu",
+        "ja": "イエスが人を神と再びつなぐとき",
+        "zh": "当耶稣将人与神重新连接"
       },
       "estimated_reading_minutes": {
         "es": 7,
-        "en": 7
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
       }
     },
     {
