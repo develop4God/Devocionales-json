@@ -323,12 +323,12 @@
       }
     },
     {
-      "id": "breath_of_new_adam_001",
+      "id": "breath_new_adam_001",
       "version": "1.0",
-      "emoji": "💨",
+      "emoji": "☁️",
       "files": {
-        "es": "breath_of_new_adam_es_001.json",
-        "en": "breath_of_new_adam_en_001.json"
+        "es": "breath_new_adam_es_001.json",
+        "en": "breath_new_adam_en_001.json"
       },
       "titles": {
         "es": "El Soplo del Nuevo Adán",
