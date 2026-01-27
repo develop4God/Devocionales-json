@@ -628,6 +628,117 @@
         "ja": 8,
         "zh": 8
       }
+    },
+    {
+      "id": "great_commission_001",
+      "version": "1.0",
+      "emoji": "🌍",
+      "files": {
+        "es": "great_commission_es_001.json",
+        "en": "great_commission_en_001.json",
+        "pt": "great_commission_pt_001.json",
+        "fr": "great_commission_fr_001.json",
+        "ja": "great_commission_ja_001.json",
+        "zh": "great_commission_zh_001.json"
+      },
+      "titles": {
+        "es": "La Gran Comisión",
+        "en": "The Great Commission",
+        "pt": "A Grande Comissão",
+        "fr": "La Grande Commission",
+        "ja": "大宣教命令",
+        "zh": "大使命"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús transforma a seguidores en enviados",
+        "en": "When Jesus transforms followers into sent ones",
+        "pt": "Quando Jesus transforma seguidores em enviados",
+        "fr": "Quand Jésus transforme les disciples en envoyés",
+        "ja": "イエスが従う者を遣わされる者へと変える時",
+        "zh": "当耶稣将跟随者转变为奉差者"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6,
+        "pt": 6,
+        "fr": 6,
+        "ja": 6,
+        "zh": 6
+      }
+    },
+    {
+      "id": "pentecost_power_001",
+      "version": "1.0",
+      "emoji": "🔥",
+      "files": {
+        "es": "pentecost_power_es_001.json",
+        "en": "pentecost_power_en_001.json",
+        "pt": "pentecost_power_pt_001.json",
+        "fr": "pentecost_power_fr_001.json",
+        "ja": "pentecost_power_ja_001.json",
+        "zh": "pentecost_power_zh_001.json"
+      },
+      "titles": {
+        "es": "El Poder de Pentecostés",
+        "en": "The Power of Pentecost",
+        "pt": "O Poder de Pentecostes",
+        "fr": "La puissance de la Pentecôte",
+        "ja": "ペンテコステの力",
+        "zh": "五旬节的能力"
+      },
+      "subtitles": {
+        "es": "Cuando el Espíritu Santo transforma cobardes en valientes",
+        "en": "When the Holy Spirit transforms cowards into the courageous",
+        "pt": "Quando o Espírito Santo transforma covardes em corajosos",
+        "fr": "Quand le Saint-Esprit transforme les lâches en courageux",
+        "ja": "聖霊が臆病者を勇敢な者へと変える時",
+        "zh": "当圣灵将懦夫转变为勇士"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "damascus_road_001",
+      "version": "1.0",
+      "emoji": "⚡",
+      "files": {
+        "es": "damascus_road_es_001.json",
+        "en": "damascus_road_en_001.json",
+        "pt": "damascus_road_pt_001.json",
+        "fr": "damascus_road_fr_001.json",
+        "ja": "damascus_road_ja_001.json",
+        "zh": "damascus_road_zh_001.json"
+      },
+      "titles": {
+        "es": "El Camino a Damasco",
+        "en": "The Road to Damascus",
+        "pt": "O Caminho para Damasco",
+        "fr": "Le chemin de Damas",
+        "ja": "ダマスコへの道",
+        "zh": "大马士革的路上"
+      },
+      "subtitles": {
+        "es": "Cuando la luz de Cristo derriba al perseguidor más feroz",
+        "en": "When the light of Christ strikes down the fiercest persecutor",
+        "pt": "Quando a luz de Cristo derruba o perseguidor mais feroz",
+        "fr": "Quand la lumière de Christ terrasse le plus féroce des persécuteurs",
+        "ja": "キリストの光が最も激しい迫害者を打ち倒す時",
+        "zh": "当基督的光击倒最凶猛的逼迫者"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
     }
   ]
 }
