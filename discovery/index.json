@@ -739,6 +739,69 @@
         "ja": 7,
         "zh": 7
       }
+    },
+    {
+      "id": "good_shepherd_001",
+      "version": "1.0",
+      "emoji": "🐑",
+      "files": {
+        "es": "good_shepherd_es_001.json",
+        "en": "good_shepherd_en_001.json"
+      },
+      "titles": {
+        "es": "El Buen Pastor",
+        "en": "The Good Shepherd"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús declara que conoce a sus ovejas por nombre",
+        "en": "When Jesus declares He knows His sheep by name"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6
+      }
+    },
+    {
+      "id": "transfiguration_001",
+      "version": "1.0",
+      "emoji": "⛰️",
+      "files": {
+        "es": "transfiguration_es_001.json",
+        "en": "transfiguration_en_001.json"
+      },
+      "titles": {
+        "es": "La Transfiguración",
+        "en": "The Transfiguration"
+      },
+      "subtitles": {
+        "es": "Cuando el velo de la carne se abre y la gloria irrumpe",
+        "en": "When the veil of flesh opens and glory breaks through"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7
+      }
+    },
+    {
+      "id": "ascension_victory_001",
+      "version": "1.0",
+      "emoji": "☁️",
+      "files": {
+        "es": "ascension_victory_es_001.json",
+        "en": "ascension_victory_en_001.json"
+      },
+      "titles": {
+        "es": "La Ascensión Victoriosa",
+        "en": "The Victorious Ascension"
+      },
+      "subtitles": {
+        "es": "Cuando el Rey conquista el trono y envía el Espíritu",
+        "en": "When the King conquers the throne and sends the Spirit"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7
+      }
     }
   ]
 }
