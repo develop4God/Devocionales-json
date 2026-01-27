@@ -1,4 +1,4 @@
-# 🏔️ La Ascensión Victoriosa
+# ⛰️ La Ascensión Victoriosa
 
 **Subtítulo:** Cuando el Rey conquista el trono y envía el Espíritu
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Tarjeta 1: 🏔️ Cuarenta Días Después
+## Tarjeta 1: ⛰️ Cuarenta Días Después
 
 **El período de instrucción post-resurrección**
 
