@@ -365,8 +365,23 @@ def validate_no_english_in_translation(data: Dict, lang: str, filename: str,
     if lang == 'en':
         return
     
-    # Note: Tags should remain in English for all languages (per requirements)
-    # So we don't check tags for English
+    # For JA and ZH, tags should be translated (not in English)
+    # Detect English tags by checking for vowels (a,e,i,o,u)
+    if lang in ['ja', 'zh']:
+        tags = data.get('tags', [])
+        english_tags = []
+        for tag in tags:
+            tag_str = str(tag).lower()
+            # If tag contains English vowels, it's likely English
+            # Exception: Greek transliterations may contain vowels
+            if any(char in tag_str for char in 'aeiou'):
+                # Allow Greek word transliterations (typically end with 'ō' or contain Greek patterns)
+                # Examples: emphysaō, tarassō, agapaō_phileō
+                if not (tag_str.endswith('ō') or 'ō' in tag_str):
+                    english_tags.append(tag)
+        
+        if english_tags:
+            report.add_error(f"{filename}: Found English tags in {lang.upper()} (should be translated): {', '.join(english_tags[:5])}")
     
     # Check themes for English
     themes = data.get('metadata', {}).get('themes', [])
