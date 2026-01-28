@@ -339,16 +339,16 @@ def validate_discovery_question_categories(data: Dict, lang: str, filename: str,
     elif lang in ['es', 'pt', 'fr']:
         # EXACT English categories that should never appear in translations
         # Note: Excludes cognates that are spelled the same in French/Spanish/Portuguese
-        # (e.g., "Transformation" and "Gratitude" are valid in French)
+        # (e.g., "Transformation", "Gratitude", "Mission" are valid in French)
         exact_english_cats = {
             'Self-evaluation', 'Evidence', 'Surrender', 'Freedom', 
             'Identity', 'Knowledge', 'Voice', 'Trust',
             'Shame', 'Obedience', 'Creation',
             'Light vs Darkness', 'Veiled Glory', 'Listening', 'Presence',
-            'Mission', 'Hope', 'Personal', 'Revelation', 'Worship',
+            'Hope', 'Personal', 'Revelation', 'Worship',
             'Intimacy', 'Protection', 'Provision', 'Confidence',
             'Separation', 'Access', 'Security', 'Victory', 'Promise'
-            # Note: 'Transformation' and 'Gratitude' are cognates (same in French)
+            # Note: 'Transformation', 'Gratitude', and 'Mission' are cognates (same in French)
         }
         
         for card_idx, card in enumerate(data.get('cards', [])):

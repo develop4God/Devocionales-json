@@ -746,19 +746,27 @@
       "emoji": "🐑",
       "files": {
         "es": "good_shepherd_es_001.json",
-        "en": "good_shepherd_en_001.json"
+        "en": "good_shepherd_en_001.json",
+        "pt": "good_shepherd_pt_001.json",
+        "fr": "good_shepherd_fr_001.json"
       },
       "titles": {
         "es": "El Buen Pastor",
-        "en": "The Good Shepherd"
+        "en": "The Good Shepherd",
+        "pt": "O Bom Pastor",
+        "fr": "Le Bon Berger"
       },
       "subtitles": {
         "es": "Cuando Jesús declara que conoce a sus ovejas por nombre",
-        "en": "When Jesus declares He knows His sheep by name"
+        "en": "When Jesus declares He knows His sheep by name",
+        "pt": "Quando Jesus declara que conhece Suas ovelhas pelo nome",
+        "fr": "Quand Jésus déclare qu'Il connaît Ses brebis par leur nom"
       },
       "estimated_reading_minutes": {
         "es": 6,
-        "en": 6
+        "en": 6,
+        "pt": 6,
+        "fr": 6
       }
     },
     {
@@ -767,19 +775,27 @@
       "emoji": "⛰️",
       "files": {
         "es": "transfiguration_es_001.json",
-        "en": "transfiguration_en_001.json"
+        "en": "transfiguration_en_001.json",
+        "pt": "transfiguration_pt_001.json",
+        "fr": "transfiguration_fr_001.json"
       },
       "titles": {
         "es": "La Transfiguración",
-        "en": "The Transfiguration"
+        "en": "The Transfiguration",
+        "pt": "A Transfiguração",
+        "fr": "La Transfiguration"
       },
       "subtitles": {
         "es": "Cuando el velo de la carne se abre y la gloria irrumpe",
-        "en": "When the veil of flesh opens and glory breaks through"
+        "en": "When the veil of flesh opens and glory breaks through",
+        "pt": "Quando o véu da carne se abre e a glória irrompe",
+        "fr": "Quand le voile de la chair s'ouvre et la gloire éclate"
       },
       "estimated_reading_minutes": {
         "es": 7,
-        "en": 7
+        "en": 7,
+        "pt": 7,
+        "fr": 7
       }
     },
     {
@@ -788,19 +804,27 @@
       "emoji": "☁️",
       "files": {
         "es": "ascension_victory_es_001.json",
-        "en": "ascension_victory_en_001.json"
+        "en": "ascension_victory_en_001.json",
+        "pt": "ascension_victory_pt_001.json",
+        "fr": "ascension_victory_fr_001.json"
       },
       "titles": {
         "es": "La Ascensión Victoriosa",
-        "en": "The Victorious Ascension"
+        "en": "The Victorious Ascension",
+        "pt": "A Ascensão Vitoriosa",
+        "fr": "L'Ascension victorieuse"
       },
       "subtitles": {
         "es": "Cuando el Rey conquista el trono y envía el Espíritu",
-        "en": "When the King conquers the throne and sends the Spirit"
+        "en": "When the King conquers the throne and sends the Spirit",
+        "pt": "Quando o Rei conquista o trono e envia o Espírito",
+        "fr": "Quand le Roi conquiert le trône et envoie l'Esprit"
       },
       "estimated_reading_minutes": {
         "es": 7,
-        "en": 7
+        "en": 7,
+        "pt": 7,
+        "fr": 7
       }
     }
   ]
