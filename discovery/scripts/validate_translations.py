@@ -244,6 +244,104 @@ def validate_content_translation(en_data: Dict, trans_data: Dict, lang: str,
                 report.add_warning(f"{filename}: Card {i+1} content may not be translated")
 
 
+def validate_verse_references(data: Dict, lang: str, filename: str,
+                             report: ValidationReport):
+    """Validate that verse references are in the correct language."""
+    if lang == 'en':
+        return  # English is the base language
+    
+    # Books that are the same or very similar across Romance languages
+    # (Spanish, Portuguese, French) - these should not trigger errors
+    common_books_romance = ['Job', 'Joel', 'Amos', 'Daniel', 'Ruth', 'Rut', 'Rute']
+    
+    # Pattern to detect English Bible book names that SHOULD be translated
+    # Exclude books that are commonly the same across languages
+    if lang in ['es', 'pt', 'fr']:
+        # For Romance languages, be less strict about common names
+        english_bible_pattern = re.compile(
+            r'\b(Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua|Judges|'
+            r'Samuel|Kings|Chronicles|Ezra|Nehemiah|Esther|Psalm|Psalms|'
+            r'Proverbs|Ecclesiastes|Song|Isaiah|Jeremiah|Lamentations|Ezekiel|'
+            r'Hosea|Obadiah|Jonah|Micah|Nahum|Habakkuk|'
+            r'Zephaniah|Haggai|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|'
+            r'Romans|Corinthians|Galatians|Ephesians|Philippians|Colossians|'
+            r'Thessalonians|Timothy|Titus|Philemon|Hebrews|James|Peter|Jude|'
+            r'Revelation)\s+\d', re.IGNORECASE)
+    else:
+        # For Asian languages, all English names should be translated
+        english_bible_pattern = re.compile(
+            r'\b(Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua|Judges|Ruth|'
+            r'Samuel|Kings|Chronicles|Ezra|Nehemiah|Esther|Job|Psalm|Psalms|'
+            r'Proverbs|Ecclesiastes|Song|Isaiah|Jeremiah|Lamentations|Ezekiel|'
+            r'Daniel|Hosea|Joel|Amos|Obadiah|Jonah|Micah|Nahum|Habakkuk|'
+            r'Zephaniah|Haggai|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|'
+            r'Romans|Corinthians|Galatians|Ephesians|Philippians|Colossians|'
+            r'Thessalonians|Timothy|Titus|Philemon|Hebrews|James|Peter|Jude|'
+            r'Revelation)\s+\d', re.IGNORECASE)
+    
+    # Check key_verse reference
+    if 'key_verse' in data and 'reference' in data['key_verse']:
+        ref = data['key_verse']['reference']
+        if english_bible_pattern.search(ref):
+            report.add_error(f"{filename}: key_verse reference has English book name: {ref}")
+    
+    # Check all card references
+    for card_idx, card in enumerate(data.get('cards', [])):
+        # Check greek_words references
+        for gw_idx, gw in enumerate(card.get('greek_words', [])):
+            if 'reference' in gw:
+                ref = gw['reference']
+                if english_bible_pattern.search(ref):
+                    report.add_error(f"{filename}: card {card_idx+1} greek_word {gw_idx+1} reference has English: {ref}")
+        
+        # Check timeline event references
+        for event_idx, event in enumerate(card.get('timeline', [])):
+            if 'event' in event:
+                ref = event['event']
+                if english_bible_pattern.search(ref):
+                    report.add_error(f"{filename}: card {card_idx+1} timeline {event_idx+1} has English reference: {ref}")
+        
+        # Check scripture_connections
+        for sc_idx, sc in enumerate(card.get('scripture_connections', [])):
+            if 'reference' in sc:
+                ref = sc['reference']
+                if english_bible_pattern.search(ref):
+                    report.add_error(f"{filename}: card {card_idx+1} scripture_connection {sc_idx+1} has English: {ref}")
+        
+        # Check scripture_anchor
+        if 'scripture_anchor' in card and 'reference' in card['scripture_anchor']:
+            ref = card['scripture_anchor']['reference']
+            if english_bible_pattern.search(ref):
+                report.add_error(f"{filename}: card {card_idx+1} scripture_anchor has English: {ref}")
+
+
+def validate_discovery_question_categories(data: Dict, lang: str, filename: str,
+                                           report: ValidationReport):
+    """Validate that discovery question categories are in the correct language."""
+    if lang == 'en':
+        return  # English is the base language
+    
+    # Pattern to detect English category names (capitalized English words)
+    english_category_pattern = re.compile(r'^[A-Z][a-z]+(\s+[a-z]+)*$')
+    
+    for card_idx, card in enumerate(data.get('cards', [])):
+        for dq_idx, dq in enumerate(card.get('discovery_questions', [])):
+            category = dq.get('category', '')
+            if category and english_category_pattern.match(category):
+                # For Asian languages, this is definitely wrong
+                if lang in ['ja', 'zh']:
+                    report.add_error(f"{filename}: card {card_idx+1} discovery_question {dq_idx+1} category is in English: '{category}'")
+                # For Latin languages, check if it contains Asian characters (should)
+                elif lang in ['es', 'pt', 'fr']:
+                    # Categories should be translated in these languages too
+                    # Common English categories to flag
+                    common_english_cats = ['Self-evaluation', 'Evidence', 'Surrender', 'Freedom', 
+                                          'Identity', 'Gratitude', 'Knowledge', 'Voice', 'Trust',
+                                          'Shame', 'Obedience', 'Transformation', 'Creation']
+                    if category in common_english_cats:
+                        report.add_warning(f"{filename}: card {card_idx+1} discovery_question {dq_idx+1} category may be in English: '{category}'")
+
+
 def validate_no_english_in_translation(data: Dict, lang: str, filename: str, 
                                        report: ValidationReport):
     """Check that non-English files don't contain English content."""
@@ -515,6 +613,12 @@ def main():
             
             # Validate no English in translations
             validate_no_english_in_translation(data, lang, filename, report)
+            
+            # Validate verse references are in correct language
+            validate_verse_references(data, lang, filename, report)
+            
+            # Validate discovery question categories are translated
+            validate_discovery_question_categories(data, lang, filename, report)
             
             # Track study IDs
             if data.get('id'):
