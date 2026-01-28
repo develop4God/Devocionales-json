@@ -321,25 +321,42 @@ def validate_discovery_question_categories(data: Dict, lang: str, filename: str,
     if lang == 'en':
         return  # English is the base language
     
-    # Pattern to detect English category names (capitalized English words)
-    english_category_pattern = re.compile(r'^[A-Z][a-z]+(\s+[a-z]+)*$')
-    
-    for card_idx, card in enumerate(data.get('cards', [])):
-        for dq_idx, dq in enumerate(card.get('discovery_questions', [])):
-            category = dq.get('category', '')
-            if category and english_category_pattern.match(category):
-                # For Asian languages, this is definitely wrong
-                if lang in ['ja', 'zh']:
+    # For Asian languages (ja, zh), categories should contain Asian characters
+    if lang in ['ja', 'zh']:
+        # Pattern to detect English category names (capitalized English words)
+        english_category_pattern = re.compile(r'^[A-Z][a-z]+(\s+[a-z]+)*$')
+        
+        for card_idx, card in enumerate(data.get('cards', [])):
+            for dq_idx, dq in enumerate(card.get('discovery_questions', [])):
+                category = dq.get('category', '')
+                if category and english_category_pattern.match(category):
+                    # For Asian languages, capitalized English-looking text is wrong
                     report.add_error(f"{filename}: card {card_idx+1} discovery_question {dq_idx+1} category is in English: '{category}'")
-                # For Latin languages, check if it contains Asian characters (should)
-                elif lang in ['es', 'pt', 'fr']:
-                    # Categories should be translated in these languages too
-                    # Common English categories to flag
-                    common_english_cats = ['Self-evaluation', 'Evidence', 'Surrender', 'Freedom', 
-                                          'Identity', 'Gratitude', 'Knowledge', 'Voice', 'Trust',
-                                          'Shame', 'Obedience', 'Transformation', 'Creation']
-                    if category in common_english_cats:
-                        report.add_warning(f"{filename}: card {card_idx+1} discovery_question {dq_idx+1} category may be in English: '{category}'")
+    
+    # For Romance languages (es, pt, fr), we can't use simple pattern matching
+    # because their category names look similar to English (capitalized words)
+    # Instead, we check for exact matches of known English categories
+    elif lang in ['es', 'pt', 'fr']:
+        # EXACT English categories that should never appear in translations
+        # Note: Excludes cognates that are spelled the same in French/Spanish/Portuguese
+        # (e.g., "Transformation" and "Gratitude" are valid in French)
+        exact_english_cats = {
+            'Self-evaluation', 'Evidence', 'Surrender', 'Freedom', 
+            'Identity', 'Knowledge', 'Voice', 'Trust',
+            'Shame', 'Obedience', 'Creation',
+            'Light vs Darkness', 'Veiled Glory', 'Listening', 'Presence',
+            'Mission', 'Hope', 'Personal', 'Revelation', 'Worship',
+            'Intimacy', 'Protection', 'Provision', 'Confidence',
+            'Separation', 'Access', 'Security', 'Victory', 'Promise'
+            # Note: 'Transformation' and 'Gratitude' are cognates (same in French)
+        }
+        
+        for card_idx, card in enumerate(data.get('cards', [])):
+            for dq_idx, dq in enumerate(card.get('discovery_questions', [])):
+                category = dq.get('category', '')
+                # Only flag if it's an EXACT match to English
+                if category in exact_english_cats:
+                    report.add_error(f"{filename}: card {card_idx+1} discovery_question {dq_idx+1} category is in English: '{category}'")
 
 
 def validate_no_english_in_translation(data: Dict, lang: str, filename: str, 
