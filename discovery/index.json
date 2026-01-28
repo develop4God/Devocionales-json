@@ -748,25 +748,33 @@
         "es": "good_shepherd_es_001.json",
         "en": "good_shepherd_en_001.json",
         "pt": "good_shepherd_pt_001.json",
-        "fr": "good_shepherd_fr_001.json"
+        "fr": "good_shepherd_fr_001.json",
+        "ja": "good_shepherd_ja_001.json",
+        "zh": "good_shepherd_zh_001.json"
       },
       "titles": {
         "es": "El Buen Pastor",
         "en": "The Good Shepherd",
         "pt": "O Bom Pastor",
-        "fr": "Le Bon Berger"
+        "fr": "Le Bon Berger",
+        "ja": "良い羊飼い",
+        "zh": "好牧人"
       },
       "subtitles": {
         "es": "Cuando Jesús declara que conoce a sus ovejas por nombre",
         "en": "When Jesus declares He knows His sheep by name",
         "pt": "Quando Jesus declara que conhece Suas ovelhas pelo nome",
-        "fr": "Quand Jésus déclare qu'Il connaît Ses brebis par leur nom"
+        "fr": "Quand Jésus déclare qu'Il connaît Ses brebis par leur nom",
+        "ja": "イエスが羊を名前で知っていると宣言するとき",
+        "zh": "当耶稣宣告祂按名认识祂的羊"
       },
       "estimated_reading_minutes": {
         "es": 6,
         "en": 6,
         "pt": 6,
-        "fr": 6
+        "fr": 6,
+        "ja": 6,
+        "zh": 6
       }
     },
     {
@@ -777,25 +785,33 @@
         "es": "transfiguration_es_001.json",
         "en": "transfiguration_en_001.json",
         "pt": "transfiguration_pt_001.json",
-        "fr": "transfiguration_fr_001.json"
+        "fr": "transfiguration_fr_001.json",
+        "ja": "transfiguration_ja_001.json",
+        "zh": "transfiguration_zh_001.json"
       },
       "titles": {
         "es": "La Transfiguración",
         "en": "The Transfiguration",
         "pt": "A Transfiguração",
-        "fr": "La Transfiguration"
+        "fr": "La Transfiguration",
+        "ja": "変貌",
+        "zh": "登山变像"
       },
       "subtitles": {
         "es": "Cuando el velo de la carne se abre y la gloria irrumpe",
         "en": "When the veil of flesh opens and glory breaks through",
         "pt": "Quando o véu da carne se abre e a glória irrompe",
-        "fr": "Quand le voile de la chair s'ouvre et la gloire éclate"
+        "fr": "Quand le voile de la chair s'ouvre et la gloire éclate",
+        "ja": "肉の覆いが開かれ、栄光が輝き出るとき",
+        "zh": "当肉身的幔子揭开，荣耀突破而出"
       },
       "estimated_reading_minutes": {
         "es": 7,
         "en": 7,
         "pt": 7,
-        "fr": 7
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
       }
     },
     {
@@ -806,25 +822,33 @@
         "es": "ascension_victory_es_001.json",
         "en": "ascension_victory_en_001.json",
         "pt": "ascension_victory_pt_001.json",
-        "fr": "ascension_victory_fr_001.json"
+        "fr": "ascension_victory_fr_001.json",
+        "ja": "ascension_victory_ja_001.json",
+        "zh": "ascension_victory_zh_001.json"
       },
       "titles": {
         "es": "La Ascensión Victoriosa",
         "en": "The Victorious Ascension",
         "pt": "A Ascensão Vitoriosa",
-        "fr": "L'Ascension victorieuse"
+        "fr": "L'Ascension victorieuse",
+        "ja": "勝利の昇天",
+        "zh": "得胜的升天"
       },
       "subtitles": {
         "es": "Cuando el Rey conquista el trono y envía el Espíritu",
         "en": "When the King conquers the throne and sends the Spirit",
         "pt": "Quando o Rei conquista o trono e envia o Espírito",
-        "fr": "Quand le Roi conquiert le trône et envoie l'Esprit"
+        "fr": "Quand le Roi conquiert le trône et envoie l'Esprit",
+        "ja": "王が御座を征服し、御霊を送られるとき",
+        "zh": "当君王得胜宝座并差遣圣灵"
       },
       "estimated_reading_minutes": {
         "es": 7,
         "en": 7,
         "pt": 7,
-        "fr": 7
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
       }
     }
   ]

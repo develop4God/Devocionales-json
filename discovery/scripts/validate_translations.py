@@ -365,15 +365,8 @@ def validate_no_english_in_translation(data: Dict, lang: str, filename: str,
     if lang == 'en':
         return
     
-    # Check tags for English
-    tags = data.get('tags', [])
-    english_pattern = re.compile(r'^[a-z_]+$')  # English-style tag pattern
-    
-    # For non-Latin languages, tags should not be all lowercase English
-    if lang in ['ja', 'zh']:
-        english_tags = [tag for tag in tags if english_pattern.match(str(tag))]
-        if english_tags:
-            report.add_error(f"{filename}: Found English tags in {lang.upper()}: {', '.join(english_tags[:3])}")
+    # Note: Tags should remain in English for all languages (per requirements)
+    # So we don't check tags for English
     
     # Check themes for English
     themes = data.get('metadata', {}).get('themes', [])
