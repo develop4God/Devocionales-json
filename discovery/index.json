@@ -43,19 +43,27 @@
       "emoji": "🔨",
         "files": {
           "es": "hammer_of_god_es_001.json",
-          "en": "hammer_of_god_en_001.json"
+          "en": "hammer_of_god_en_001.json",
+          "fr": "hammer_of_god_fr_001.json",
+          "pt": "hammer_of_god_pt_001.json"
         },
         "titles": {
           "es": "El Martillo de Dios",
-          "en": "The Hammer of God"
+          "en": "The Hammer of God",
+          "fr": "Le Marteau de Dieu",
+          "pt": "O Martelo de Deus"
         },
         "subtitles": {
           "es": "De ejecutores del juicio a adoradores del Mesías: La historia redentora de los Medos",
-          "en": "From executors of judgment to worshipers of the Messiah: The redemptive story of the Medes"
+          "en": "From executors of judgment to worshipers of the Messiah: The redemptive story of the Medes",
+          "fr": "D'exécuteurs du jugement à adorateurs du Messie: L'histoire rédemptrice des Mèdes",
+          "pt": "De executores do juízo a adoradores do Messias: A história redentora dos Medos"
         },
         "estimated_reading_minutes": {
           "es": 8,
-          "en": 8
+          "en": 8,
+          "fr": 8,
+          "pt": 8
         }
     },
     {
@@ -64,19 +72,27 @@
       "emoji": "🫏",
       "files": {
         "es": "balaam_humble_vision_es_001.json",
-        "en": "balaam_humble_vision_en_001.json"
+        "en": "balaam_humble_vision_en_001.json",
+        "fr": "balaam_humble_vision_fr_001.json",
+        "pt": "balaam_humble_vision_pt_001.json"
       },
       "titles": {
         "es": "Cuando la Burra Vio al Ángel y el Profeta Estaba Ciego",
-        "en": "When the Donkey Saw the Angel and the Prophet Was Blind"
+        "en": "When the Donkey Saw the Angel and the Prophet Was Blind",
+        "fr": "Quand l'Ânesse Vit l'Ange et le Prophète Était Aveugle",
+        "pt": "Quando a Jumenta Viu o Anjo e o Profeta Estava Cego"
       },
       "subtitles": {
         "es": "La advertencia más solemne sobre revelación sin transformación",
-        "en": "The most solemn warning about revelation without transformation"
+        "en": "The most solemn warning about revelation without transformation",
+        "fr": "L'avertissement le plus solennel sur la révélation sans transformation",
+        "pt": "A advertência mais solene sobre revelação sem transformação"
       },
       "estimated_reading_minutes": {
         "es": 8,
-        "en": 8
+        "en": 8,
+        "fr": 8,
+        "pt": 8
       }
     },
     {
