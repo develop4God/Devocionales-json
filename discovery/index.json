@@ -38,6 +38,80 @@
       }
     },
     {
+      "id": "hammer_of_god_001",
+      "version": "1.0",
+      "emoji": "🔨",
+        "files": {
+          "es": "hammer_of_god_es_001.json",
+          "en": "hammer_of_god_en_001.json",
+          "fr": "hammer_of_god_fr_001.json",
+          "pt": "hammer_of_god_pt_001.json",
+          "ja": "hammer_of_god_ja_001.json",
+          "zh": "hammer_of_god_zh_001.json"
+        },
+        "titles": {
+          "es": "El Martillo de Dios",
+          "en": "The Hammer of God",
+          "fr": "Le Marteau de Dieu",
+          "pt": "O Martelo de Deus",
+          "ja": "神のハンマー",
+          "zh": "神的锤子"
+        },
+        "subtitles": {
+          "es": "De ejecutores del juicio a adoradores del Mesías: La historia redentora de los Medos",
+          "en": "From executors of judgment to worshipers of the Messiah: The redemptive story of the Medes",
+          "fr": "D'exécuteurs du jugement à adorateurs du Messie: L'histoire rédemptrice des Mèdes",
+          "pt": "De executores do juízo a adoradores do Messias: A história redentora dos Medos",
+          "ja": "裁きの執行者から救い主の礼拝者へ：メディア人の贖いの物語",
+          "zh": "从审判的执行者到弥赛亚的敬拜者：玛代人的救赎故事"
+        },
+        "estimated_reading_minutes": {
+          "es": 8,
+          "en": 8,
+          "fr": 8,
+          "pt": 8,
+          "ja": 8,
+          "zh": 8
+        }
+    },
+    {
+      "id": "balaam_humble_vision_001",
+      "version": "1.0",
+      "emoji": "🫏",
+      "files": {
+        "es": "balaam_humble_vision_es_001.json",
+        "en": "balaam_humble_vision_en_001.json",
+        "fr": "balaam_humble_vision_fr_001.json",
+        "pt": "balaam_humble_vision_pt_001.json",
+        "ja": "balaam_humble_vision_ja_001.json",
+        "zh": "balaam_humble_vision_zh_001.json"
+      },
+      "titles": {
+        "es": "Cuando la Burra Vio al Ángel y el Profeta Estaba Ciego",
+        "en": "When the Donkey Saw the Angel and the Prophet Was Blind",
+        "fr": "Quand l'Ânesse Vit l'Ange et le Prophète Était Aveugle",
+        "pt": "Quando a Jumenta Viu o Anjo e o Profeta Estava Cego",
+        "ja": "ろばが天使を見て預言者が盲目だったとき",
+        "zh": "当驴看见天使而先知却瞎眼时"
+      },
+      "subtitles": {
+        "es": "La advertencia más solemne sobre revelación sin transformación",
+        "en": "The most solemn warning about revelation without transformation",
+        "fr": "L'avertissement le plus solennel sur la révélation sans transformation",
+        "pt": "A advertência mais solene sobre revelação sem transformação",
+        "ja": "変革のない啓示についての最も厳粛な警告",
+        "zh": "关于没有改变的启示最严肃的警告"
+      },
+      "estimated_reading_minutes": {
+        "es": 8,
+        "en": 8,
+        "fr": 8,
+        "pt": 8,
+        "ja": 8,
+        "zh": 8
+      }
+    },
+    {
       "id": "logos_creation_001",
       "version": "1.1",
       "emoji": "📖",
