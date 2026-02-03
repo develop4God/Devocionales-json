@@ -38,6 +38,27 @@
       }
     },
     {
+      "id": "hammer_of_god_001",
+      "version": "1.0",
+      "emoji": "🔨",
+        "files": {
+          "es": "hammer_of_god_es_001.json",
+          "en": "hammer_of_god_en_001.json"
+        },
+        "titles": {
+          "es": "El Martillo de Dios",
+          "en": "The Hammer of God"
+        },
+        "subtitles": {
+          "es": "De ejecutores del juicio a adoradores del Mesías: La historia redentora de los Medos",
+          "en": "From executors of judgment to worshipers of the Messiah: The redemptive story of the Medes"
+        },
+        "estimated_reading_minutes": {
+          "es": 8,
+          "en": 8
+        }
+    },
+    {
       "id": "logos_creation_001",
       "version": "1.1",
       "emoji": "📖",
