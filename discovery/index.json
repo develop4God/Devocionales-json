@@ -59,6 +59,27 @@
         }
     },
     {
+      "id": "balaam_humble_vision_001",
+      "version": "1.0",
+      "emoji": "🫏",
+      "files": {
+        "es": "balaam_humble_vision_es_001.json",
+        "en": "balaam_humble_vision_en_001.json"
+      },
+      "titles": {
+        "es": "Cuando la Burra Vio al Ángel y el Profeta Estaba Ciego",
+        "en": "When the Donkey Saw the Angel and the Prophet Was Blind"
+      },
+      "subtitles": {
+        "es": "La advertencia más solemne sobre revelación sin transformación",
+        "en": "The most solemn warning about revelation without transformation"
+      },
+      "estimated_reading_minutes": {
+        "es": 8,
+        "en": 8
+      }
+    },
+    {
       "id": "logos_creation_001",
       "version": "1.1",
       "emoji": "📖",
