@@ -398,8 +398,8 @@ def validate_filename_format(filepath: Path, lang: str, report: ValidationReport
     filename = filepath.name
     
     # Expected pattern: {study_name}_{lang_code}_001.json
-    # Examples: cana_wedding_en_001.json, gethsemane_agony_es_001.json
-    pattern = re.compile(r'^[a-z_]+_(' + '|'.join(EXPECTED_LANGUAGES.keys()) + r')_001\.json$')
+    # Examples: cana_wedding_en_001.json, gethsemane_agony_es_001.json, zechariah_14_return_en_001.json
+    pattern = re.compile(r'^[a-z0-9_]+_(' + '|'.join(EXPECTED_LANGUAGES.keys()) + r')_001\.json$')
     
     if not pattern.match(filename):
         report.add_error(f"{filename}: Invalid filename format. Expected pattern: {{study_name}}_{{lang}}_001.json")
