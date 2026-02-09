@@ -101,7 +101,7 @@
     },
     {
       "order": 6,
-      "type": "practical_application",
+      "type": "new_testament_fulfillment",
       "icon": "🙏",
       "title": "对今天信徒的实际应用",
       "subtitle": "这预言如何改变我们今天的生活方式",
@@ -110,7 +110,7 @@
     },
     {
       "order": 7,
-      "type": "eschatological_themes",
+      "type": "millennial_transformation",
       "icon": "🔮",
       "title": "末世主题：与其他预言的联系",
       "subtitle": "撒迦利亚书14章如何与圣经的其他预言契合",
@@ -119,7 +119,7 @@
     },
     {
       "order": 8,
-      "type": "worship_response",
+      "type": "personal_application",
       "icon": "🎵",
       "title": "敬拜的回应：我们如何今天崇拜那位即将归来的王",
       "subtitle": "让撒迦利亚书14章点燃我们的敬拜",
@@ -128,7 +128,7 @@
     },
     {
       "order": 9,
-      "type": "reflection_and_prayer",
+      "type": "discovery_activation",
       "icon": "💭",
       "title": "个人反思与祷告",
       "subtitle": "让神的话深入你的心",
