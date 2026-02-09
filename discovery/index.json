@@ -334,6 +334,27 @@
             }
         },
         {
+            "id": "woman_at_well_001",
+            "version": "1.0",
+            "emoji": "💧",
+            "files": {
+                "es": "woman_at_well_es_001.json",
+                "en": "woman_at_well_en_001.json"
+            },
+            "titles": {
+                "es": "La Mujer del Pozo",
+                "en": "The Woman at the Well"
+            },
+            "subtitles": {
+                "es": "Cuando Jesús rompe todas las barreras por una conversación que cambiará una ciudad",
+                "en": "When Jesus breaks every barrier for a conversation that will transform a city"
+            },
+            "estimated_reading_minutes": {
+                "es": 5,
+                "en": 5
+            }
+        },
+        {
             "id": "i_am_before_abraham_001",
             "version": "1.0",
             "emoji": "⚡",
@@ -556,6 +577,27 @@
             }
         },
         {
+            "id": "triumphal_entry_001",
+            "version": "1.0",
+            "emoji": "🌴",
+            "files": {
+                "es": "triumphal_entry_es_001.json",
+                "en": "triumphal_entry_en_001.json"
+            },
+            "titles": {
+                "es": "La Entrada Triunfal",
+                "en": "The Triumphal Entry"
+            },
+            "subtitles": {
+                "es": "Cuando el Rey rechazado entra a Jerusalén montado en un pollino, no en un caballo de guerra",
+                "en": "When the rejected King enters Jerusalem riding on a donkey, not a warhorse"
+            },
+            "estimated_reading_minutes": {
+                "es": 5,
+                "en": 5
+            }
+        },
+        {
             "id": "gethsemane_agony_001",
             "version": "1.2",
             "emoji": "🫒",
@@ -775,6 +817,27 @@
                 "fr": 7,
                 "ja": 7,
                 "zh": 7
+            }
+        },
+        {
+            "id": "road_to_emmaus_001",
+            "version": "1.0",
+            "emoji": "🚶",
+            "files": {
+                "es": "road_to_emmaus_es_001.json",
+                "en": "road_to_emmaus_en_001.json"
+            },
+            "titles": {
+                "es": "El Camino a Emaús",
+                "en": "The Road to Emmaus"
+            },
+            "subtitles": {
+                "es": "Cuando el Cristo resucitado camina contigo sin que lo reconozcas, hasta que parte el pan",
+                "en": "When the risen Christ walks with you unrecognized, until He breaks the bread"
+            },
+            "estimated_reading_minutes": {
+                "es": 5,
+                "en": 5
             }
         },
         {
