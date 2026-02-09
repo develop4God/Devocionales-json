@@ -598,19 +598,35 @@
             "emoji": "🌴",
             "files": {
                 "es": "triumphal_entry_es_001.json",
-                "en": "triumphal_entry_en_001.json"
+                "en": "triumphal_entry_en_001.json",
+                "fr": "triumphal_entry_fr_001.json",
+                "pt": "triumphal_entry_pt_001.json",
+                "ja": "triumphal_entry_ja_001.json",
+                "zh": "triumphal_entry_zh_001.json"
             },
             "titles": {
                 "es": "La Entrada Triunfal",
-                "en": "The Triumphal Entry"
+                "en": "The Triumphal Entry",
+                "fr": "L'Entrée Triomphale",
+                "pt": "A Entrada Triunfal",
+                "ja": "勝利の入城",
+                "zh": "荣入圣城"
             },
             "subtitles": {
                 "es": "Cuando el Rey rechazado entra a Jerusalén montado en un pollino, no en un caballo de guerra",
-                "en": "When the rejected King enters Jerusalem riding on a donkey, not a warhorse"
+                "en": "When the rejected King enters Jerusalem riding on a donkey, not a warhorse",
+                "fr": "Quand le Roi rejeté entre à Jérusalem monté sur un ânon, pas sur un cheval de guerre",
+                "pt": "Quando o Rei rejeitado entra em Jerusalém montado em um jumentinho, não em um cavalo de guerra",
+                "ja": "拒絶された王が、軍馬ではなくろばに乗ってエルサレムに入られる時",
+                "zh": "当被拒绝的王骑着驴驹而非战马进入耶路撒冷"
             },
             "estimated_reading_minutes": {
                 "es": 5,
-                "en": 5
+                "en": 5,
+                "fr": 5,
+                "pt": 5,
+                "ja": 5,
+                "zh": 5
             }
         },
         {
