@@ -334,6 +334,43 @@
             }
         },
         {
+            "id": "woman_at_well_001",
+            "version": "1.1",
+            "emoji": "⛲",
+            "files": {
+                "es": "woman_at_well_es_001.json",
+                "en": "woman_at_well_en_001.json",
+                "fr": "woman_at_well_fr_001.json",
+                "pt": "woman_at_well_pt_001.json",
+                "ja": "woman_at_well_ja_001.json",
+                "zh": "woman_at_well_zh_001.json"
+            },
+            "titles": {
+                "es": "La Mujer del Pozo",
+                "en": "The Woman at the Well",
+                "fr": "La Femme au Puits",
+                "pt": "A Mulher no Poço",
+                "ja": "井戸の女",
+                "zh": "井边的妇人"
+            },
+            "subtitles": {
+                "es": "Cuando Jesús rompe todas las barreras por una conversación que cambiará una ciudad",
+                "en": "When Jesus breaks every barrier for a conversation that will transform a city",
+                "fr": "Quand Jésus brise toutes les barrières pour une conversation qui transformera une ville",
+                "pt": "Quando Jesus quebra todas as barreiras por uma conversa que mudará uma cidade",
+                "ja": "イエスがすべての壁を打ち破り、町を変える会話をする時",
+                "zh": "当耶稣打破一切隔阂，带来改变城市的对话"
+            },
+            "estimated_reading_minutes": {
+                "es": 5,
+                "en": 5,
+                "fr": 5,
+                "pt": 5,
+                "ja": 5,
+                "zh": 5
+            }
+        },
+        {
             "id": "i_am_before_abraham_001",
             "version": "1.0",
             "emoji": "⚡",
@@ -556,6 +593,43 @@
             }
         },
         {
+            "id": "triumphal_entry_001",
+            "version": "1.0",
+            "emoji": "🌴",
+            "files": {
+                "es": "triumphal_entry_es_001.json",
+                "en": "triumphal_entry_en_001.json",
+                "fr": "triumphal_entry_fr_001.json",
+                "pt": "triumphal_entry_pt_001.json",
+                "ja": "triumphal_entry_ja_001.json",
+                "zh": "triumphal_entry_zh_001.json"
+            },
+            "titles": {
+                "es": "La Entrada Triunfal",
+                "en": "The Triumphal Entry",
+                "fr": "L'Entrée Triomphale",
+                "pt": "A Entrada Triunfal",
+                "ja": "勝利の入城",
+                "zh": "荣入圣城"
+            },
+            "subtitles": {
+                "es": "Cuando el Rey rechazado entra a Jerusalén montado en un pollino, no en un caballo de guerra",
+                "en": "When the rejected King enters Jerusalem riding on a donkey, not a warhorse",
+                "fr": "Quand le Roi rejeté entre à Jérusalem monté sur un ânon, pas sur un cheval de guerre",
+                "pt": "Quando o Rei rejeitado entra em Jerusalém montado em um jumentinho, não em um cavalo de guerra",
+                "ja": "拒絶された王が、軍馬ではなくろばに乗ってエルサレムに入られる時",
+                "zh": "当被拒绝的王骑着驴驹而非战马进入耶路撒冷"
+            },
+            "estimated_reading_minutes": {
+                "es": 5,
+                "en": 5,
+                "fr": 5,
+                "pt": 5,
+                "ja": 5,
+                "zh": 5
+            }
+        },
+        {
             "id": "gethsemane_agony_001",
             "version": "1.2",
             "emoji": "🫒",
@@ -775,6 +849,43 @@
                 "fr": 7,
                 "ja": 7,
                 "zh": 7
+            }
+        },
+        {
+            "id": "road_to_emmaus_001",
+            "version": "1.2",
+            "emoji": "🚶",
+            "files": {
+                "es": "road_to_emmaus_es_001.json",
+                "en": "road_to_emmaus_en_001.json",
+                "pt": "road_to_emmaus_pt_001.json",
+                "fr": "road_to_emmaus_fr_001.json",
+                "ja": "road_to_emmaus_ja_001.json",
+                "zh": "road_to_emmaus_zh_001.json"
+            },
+            "titles": {
+                "es": "El Camino a Emaús",
+                "en": "The Road to Emmaus",
+                "pt": "O Caminho de Emaús",
+                "fr": "Le Chemin d'Emmaüs",
+                "ja": "エマオへの道",
+                "zh": "去以马忤斯的路上"
+            },
+            "subtitles": {
+                "es": "Cuando el Cristo resucitado camina contigo sin que lo reconozcas, hasta que parte el pan",
+                "en": "When the risen Christ walks with you unrecognized, until He breaks the bread",
+                "pt": "Quando o Cristo ressuscitado caminha com você sem ser reconhecido, até partir o pão",
+                "fr": "Quand le Christ ressuscité marche avec vous sans être reconnu, jusqu'à la fraction du pain",
+                "ja": "復活したキリストがあなたと共に歩んでいるのに、パンを裂くまで気づかない時",
+                "zh": "当复活的基督与你同行却未被认出，直到祂擘饼"
+            },
+            "estimated_reading_minutes": {
+                "es": 10,
+                "en": 10,
+                "pt": 10,
+                "fr": 10,
+                "ja": 10,
+                "zh": 10
             }
         },
         {
