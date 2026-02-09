@@ -336,7 +336,7 @@
         {
             "id": "woman_at_well_001",
             "version": "1.0",
-            "emoji": "💧",
+            "emoji": "⛲",
             "files": {
                 "es": "woman_at_well_es_001.json",
                 "en": "woman_at_well_en_001.json"
