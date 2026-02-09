@@ -933,25 +933,33 @@
                 "es": "zechariah_14_return_es_001.json",
                 "en": "zechariah_14_return_en_001.json",
                 "fr": "zechariah_14_return_fr_001.json",
-                "pt": "zechariah_14_return_pt_001.json"
+                "pt": "zechariah_14_return_pt_001.json",
+                "ja": "zechariah_14_return_ja_001.json",
+                "zh": "zechariah_14_return_zh_001.json"
             },
             "titles": {
                 "es": "Zacarías 14: Cuando Sus Pies Toquen el Monte de los Olivos",
                 "en": "Zechariah 14: When His Feet Touch the Mount of Olives",
                 "fr": "Zacharie 14 : Quand Ses Pieds Toucheront le Mont des Oliviers",
-                "pt": "Zacarias 14: Quando Seus Pés Tocarem o Monte das Oliveiras"
+                "pt": "Zacarias 14: Quando Seus Pés Tocarem o Monte das Oliveiras",
+                "ja": "ゼカリヤ書14章:御足がオリーブ山に触れる時",
+                "zh": "撒迦利亚书14章：当祂的脚踏在橄榄山上"
             },
             "subtitles": {
                 "es": "El día en que el cielo desciende y la tierra es transformada",
                 "en": "The day when heaven descends and the earth is transformed",
                 "fr": "Le jour où le ciel descend et la terre est transformée",
-                "pt": "O dia em que o céu desce e a terra é transformada"
+                "pt": "O dia em que o céu desce e a terra é transformada",
+                "ja": "天が降り、地が変えられる日",
+                "zh": "天降大地、地球转化的那一天"
             },
             "estimated_reading_minutes": {
                 "es": 9,
                 "en": 9,
                 "fr": 9,
-                "pt": 9
+                "pt": 9,
+                "ja": 9,
+                "zh": 9
             }
         }
     ]
