@@ -339,19 +339,35 @@
             "emoji": "⛲",
             "files": {
                 "es": "woman_at_well_es_001.json",
-                "en": "woman_at_well_en_001.json"
+                "en": "woman_at_well_en_001.json",
+                "fr": "woman_at_well_fr_001.json",
+                "pt": "woman_at_well_pt_001.json",
+                "ja": "woman_at_well_ja_001.json",
+                "zh": "woman_at_well_zh_001.json"
             },
             "titles": {
                 "es": "La Mujer del Pozo",
-                "en": "The Woman at the Well"
+                "en": "The Woman at the Well",
+                "fr": "La Femme au Puits",
+                "pt": "A Mulher no Poço",
+                "ja": "井戸の女",
+                "zh": "井边的妇人"
             },
             "subtitles": {
                 "es": "Cuando Jesús rompe todas las barreras por una conversación que cambiará una ciudad",
-                "en": "When Jesus breaks every barrier for a conversation that will transform a city"
+                "en": "When Jesus breaks every barrier for a conversation that will transform a city",
+                "fr": "Quand Jésus brise toutes les barrières pour une conversation qui transformera une ville",
+                "pt": "Quando Jesus quebra todas as barreiras por uma conversa que mudará uma cidade",
+                "ja": "イエスがすべての壁を打ち破り、町を変える会話をする時",
+                "zh": "当耶稣打破一切隔阂，带来改变城市的对话"
             },
             "estimated_reading_minutes": {
                 "es": 5,
-                "en": 5
+                "en": 5,
+                "fr": 5,
+                "pt": 5,
+                "ja": 5,
+                "zh": 5
             }
         },
         {
