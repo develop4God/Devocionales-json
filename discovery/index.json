@@ -821,7 +821,7 @@
         },
         {
             "id": "road_to_emmaus_001",
-            "version": "1.0",
+            "version": "1.1",
             "emoji": "🚶",
             "files": {
                 "es": "road_to_emmaus_es_001.json",
@@ -836,7 +836,7 @@
                 "en": "When the risen Christ walks with you unrecognized, until He breaks the bread"
             },
             "estimated_reading_minutes": {
-                "es": 5,
+                "es": 10,
                 "en": 5
             }
         },
