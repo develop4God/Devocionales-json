@@ -825,19 +825,35 @@
             "emoji": "🚶",
             "files": {
                 "es": "road_to_emmaus_es_001.json",
-                "en": "road_to_emmaus_en_001.json"
+                "en": "road_to_emmaus_en_001.json",
+                "pt": "road_to_emmaus_pt_001.json",
+                "fr": "road_to_emmaus_fr_001.json",
+                "ja": "road_to_emmaus_ja_001.json",
+                "zh": "road_to_emmaus_zh_001.json"
             },
             "titles": {
                 "es": "El Camino a Emaús",
-                "en": "The Road to Emmaus"
+                "en": "The Road to Emmaus",
+                "pt": "O Caminho de Emaús",
+                "fr": "Le Chemin d'Emmaüs",
+                "ja": "エマオへの道",
+                "zh": "去以马忤斯的路上"
             },
             "subtitles": {
                 "es": "Cuando el Cristo resucitado camina contigo sin que lo reconozcas, hasta que parte el pan",
-                "en": "When the risen Christ walks with you unrecognized, until He breaks the bread"
+                "en": "When the risen Christ walks with you unrecognized, until He breaks the bread",
+                "pt": "Quando o Cristo ressuscitado caminha contigo sem ser reconhecido, até que Ele parte o pão",
+                "fr": "Quand le Christ ressuscité marche avec toi sans être reconnu, jusqu'à ce qu'Il rompe le pain",
+                "ja": "よみがえられたキリストがあなたと共に歩きながら認識されず、パンを裂くまで",
+                "zh": "当复活的基督与你同行却不被认出,直到祂擘饼"
             },
             "estimated_reading_minutes": {
                 "es": 10,
-                "en": 10
+                "en": 10,
+                "pt": 10,
+                "fr": 10,
+                "ja": 10,
+                "zh": 10
             }
         },
         {
