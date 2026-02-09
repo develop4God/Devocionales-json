@@ -961,6 +961,117 @@
                 "ja": 9,
                 "zh": 9
             }
+        },
+        {
+            "id": "buried_talent_001",
+            "version": "1.0",
+            "emoji": "💰",
+            "files": {
+                "es": "buried_talent_es_001.json",
+                "en": "buried_talent_en_001.json",
+                "pt": "buried_talent_pt_001.json",
+                "fr": "buried_talent_fr_001.json",
+                "ja": "buried_talent_ja_001.json",
+                "zh": "buried_talent_zh_001.json"
+            },
+            "titles": {
+                "es": "El Talento Enterrado",
+                "en": "The Buried Talent",
+                "pt": "O Talento Enterrado",
+                "fr": "Le Talent Enfoui",
+                "ja": "埋められたタラント",
+                "zh": "被埋葬的他连得"
+            },
+            "subtitles": {
+                "es": "Cuando el miedo paraliza y las manos quedan vacías",
+                "en": "When fear paralyzes and hands remain empty",
+                "pt": "Quando o medo paralisa e as mãos ficam vazias",
+                "fr": "Quand la peur paralyse et que les mains restent vides",
+                "ja": "恐れが麻痺させ、手が空になるとき",
+                "zh": "当恐惧使人瘫痪,双手空空如也"
+            },
+            "estimated_reading_minutes": {
+                "es": 8,
+                "en": 8,
+                "pt": 8,
+                "fr": 8,
+                "ja": 8,
+                "zh": 8
+            }
+        },
+        {
+            "id": "full_hands_king_001",
+            "version": "1.0",
+            "emoji": "👑",
+            "files": {
+                "es": "full_hands_king_es_001.json",
+                "en": "full_hands_king_en_001.json",
+                "pt": "full_hands_king_pt_001.json",
+                "fr": "full_hands_king_fr_001.json",
+                "ja": "full_hands_king_ja_001.json",
+                "zh": "full_hands_king_zh_001.json"
+            },
+            "titles": {
+                "es": "Manos Llenas para el Rey",
+                "en": "Full Hands for the King",
+                "pt": "Mãos Cheias para o Rei",
+                "fr": "Mains Pleines pour le Roi",
+                "ja": "王のための満たされた手",
+                "zh": "为王预备满手"
+            },
+            "subtitles": {
+                "es": "Cuando el Alfa y la Omega trae su recompensa",
+                "en": "When the Alpha and Omega brings His reward",
+                "pt": "Quando o Alfa e o Ômega traz sua recompensa",
+                "fr": "Quand l'Alpha et l'Oméga apporte sa récompense",
+                "ja": "アルファとオメガが報いをもって来られるとき",
+                "zh": "当阿拉法和俄梅戛带着祂的赏赐而来"
+            },
+            "estimated_reading_minutes": {
+                "es": 7,
+                "en": 7,
+                "pt": 7,
+                "fr": 7,
+                "ja": 7,
+                "zh": 7
+            }
+        },
+        {
+            "id": "gold_silver_ashes_001",
+            "version": "1.0",
+            "emoji": "🔥",
+            "files": {
+                "es": "gold_silver_ashes_es_001.json",
+                "en": "gold_silver_ashes_en_001.json",
+                "pt": "gold_silver_ashes_pt_001.json",
+                "fr": "gold_silver_ashes_fr_001.json",
+                "ja": "gold_silver_ashes_ja_001.json",
+                "zh": "gold_silver_ashes_zh_001.json"
+            },
+            "titles": {
+                "es": "Oro, Plata o Cenizas",
+                "en": "Gold, Silver or Ashes",
+                "pt": "Ouro, Prata ou Cinzas",
+                "fr": "Or, Argent ou Cendres",
+                "ja": "金、銀、それとも灰",
+                "zh": "金银还是灰烬"
+            },
+            "subtitles": {
+                "es": "Cuando el fuego prueba la calidad de tu obra",
+                "en": "When fire tests the quality of your work",
+                "pt": "Quando o fogo prova a qualidade da sua obra",
+                "fr": "Quand le feu éprouve la qualité de ton œuvre",
+                "ja": "火があなたの働きの質を試すとき",
+                "zh": "当火试验你工作的质量"
+            },
+            "estimated_reading_minutes": {
+                "es": 7,
+                "en": 7,
+                "pt": 7,
+                "fr": 7,
+                "ja": 7,
+                "zh": 7
+            }
         }
     ]
 }
