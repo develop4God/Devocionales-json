@@ -557,7 +557,7 @@
         },
         {
             "id": "buried_talent_001",
-            "version": "1.0",
+            "version": "1.1",
             "emoji": "💰",
             "files": {
                 "es": "buried_talent_es_001.json",
