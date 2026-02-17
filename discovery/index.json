@@ -327,9 +327,7 @@
         "zh": 5,
         "hi": 5
       },
-      "reading_times": {
-        "hi": 5
-      }
+      "reading_times": null
     },
     {
       "id": "temple_cleansing_001",
@@ -371,9 +369,7 @@
         "zh": 6,
         "hi": 6
       },
-      "reading_times": {
-        "hi": 6
-      }
+      "reading_times": null
     },
     {
       "id": "woman_at_well_001",
@@ -415,9 +411,7 @@
         "zh": 5,
         "hi": 5
       },
-      "reading_times": {
-        "hi": 5
-      }
+      "reading_times": null
     },
     {
       "id": "i_am_before_abraham_001",
