@@ -133,7 +133,8 @@
         "pt": "logos_creation_pt_001.json",
         "fr": "logos_creation_fr_001.json",
         "ja": "logos_creation_ja_001.json",
-        "zh": "logos_creation_zh_001.json"
+        "zh": "logos_creation_zh_001.json",
+        "hi": "logos_creation_hi_001.json"
       },
       "titles": {
         "es": "En el Principio era el Verbo",
@@ -141,7 +142,8 @@
         "pt": "No Princípio Era o Verbo",
         "fr": "Au commencement était la Parole",
         "ja": "初めに、ことばがあった",
-        "zh": "太初有道"
+        "zh": "太初有道",
+        "hi": "आदि में वचन था"
       },
       "subtitles": {
         "es": "Cuando Juan declara que Jesús es el Logos eterno que creó todas las cosas",
@@ -149,7 +151,8 @@
         "pt": "Quando João declara que Jesus é o Logos eterno que criou todas as coisas",
         "fr": "Lorsque Jean déclare que Jésus est le Logos éternel qui a créé toutes choses",
         "ja": "ヨハネがイエスはすべてのものを創造した永遠のロゴスであると宣言するとき",
-        "zh": "当约翰宣告耶稣是创造万有的永恒之道"
+        "zh": "当约翰宣告耶稣是创造万有的永恒之道",
+        "hi": "जब यूहन्ना घोषणा करता है कि यीशु शाश्वत लोगॉस है जिसने सब कुछ सृजा"
       },
       "estimated_reading_minutes": {
         "es": 6,
@@ -157,7 +160,8 @@
         "pt": 5,
         "fr": 5,
         "ja": 5,
-        "zh": 5
+        "zh": 5,
+        "hi": 5
       }
     },
     {
@@ -250,6 +254,7 @@
         "en": "cana_wedding_en_001.json",
         "pt": "cana_wedding_pt_001.json",
         "fr": "cana_wedding_fr_001.json",
+        "hi": "cana_wedding_hi_001.json",
         "ja": "cana_wedding_ja_001.json",
         "zh": "cana_wedding_zh_001.json"
       },
@@ -258,6 +263,7 @@
         "en": "The Wedding at Cana",
         "pt": "As Bodas de Caná",
         "fr": "Les noces de Cana",
+        "hi": "काना का विवाह",
         "ja": "カナの婚礼",
         "zh": "迦拿的婚筵"
       },
@@ -266,6 +272,7 @@
         "en": "When Jesus turns the ordinary into extraordinary",
         "pt": "Quando Jesus transforma o ordinário em extraordinário",
         "fr": "Quand Jésus transforme l'ordinaire en extraordinaire",
+        "hi": "जब यीशु सामान्य को असाधारण में बदल देता है",
         "ja": "イエスが普通のものを特別なものに変えるとき",
         "zh": "当耶稣将平凡变为非凡"
       },
@@ -274,6 +281,7 @@
         "en": 5,
         "pt": 5,
         "fr": 5,
+        "hi": 5,
         "ja": 5,
         "zh": 5
       }
