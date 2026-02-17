@@ -30,7 +30,7 @@ EXPECTED_LANGUAGES = {
     'fr': ['LSG1910', 'TOB'],  # Allow both LSG1910(PRIMARY) and TOB (SECONDARY)for French
     'ja': ['新改訳2003', 'リビングバイブル'],  # Allow both versions for Japanese 新改訳2003 (PRIMARY) and リビングバイブル 
     'zh': ['和合本1919', '新译本'],  # Allow both versions for Chinese 和合本1919 (PRIMARY) and 新译本 (SECONDARY)
-    'hi': ['पवित्र बाइबिल (ओ.वी.)', 'पवित्र बाइबिल']  # Allow both versions for Hindi पवित्र बाइबिल (ओ.वी.) (PRIMARY) and पवित्र बाइबिल (SECONDARY)
+    'hi': ['पवित्र बाइबिल (ओ.वी.)', 'पवित्र बाइबिल']  # O.V. (PRIMARY) and ERV-HI (SECONDARY)
 }
 
 # Language character patterns for detection
