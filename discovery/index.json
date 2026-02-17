@@ -170,7 +170,8 @@
         "pt": "lamb_of_god_pt_001.json",
         "fr": "lamb_of_god_fr_001.json",
         "ja": "lamb_of_god_ja_001.json",
-        "zh": "lamb_of_god_zh_001.json"
+        "zh": "lamb_of_god_zh_001.json",
+        "hi": "lamb_of_god_hi_001.json"
       },
       "titles": {
         "es": "El Cordero de Dios",
@@ -178,7 +179,8 @@
         "pt": "O Cordeiro de Deus",
         "fr": "L'Agneau de Dieu",
         "ja": "神の小羊",
-        "zh": "神的羔羊"
+        "zh": "神的羔羊",
+        "hi": "परमेश्वर का मेम्ना"
       },
       "subtitles": {
         "es": "La culminación de 1,500 años de sistema sacrificial en una sola declaración",
@@ -186,7 +188,8 @@
         "pt": "A culminação de 1.500 anos de sistema sacrificial em uma única declaração",
         "fr": "L'aboutissement de 1 500 ans de système sacrificiel en une seule déclaration",
         "ja": "1,500年の犠牲システムが一つの宣言で頂点に達する",
-        "zh": "1500年献祭制度在一句宣告中的顶点"
+        "zh": "1500年献祭制度在一句宣告中的顶点",
+        "hi": "एक एकमात्र घोषणा में 1,500 वर्षों की बलिदान प्रणाली की परिणति"
       },
       "estimated_reading_minutes": {
         "es": 6,
@@ -194,7 +197,8 @@
         "pt": 5,
         "fr": 5,
         "ja": 5,
-        "zh": 5
+        "zh": 5,
+        "hi": 5
       }
     },
     {
