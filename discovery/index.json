@@ -133,7 +133,8 @@
         "pt": "logos_creation_pt_001.json",
         "fr": "logos_creation_fr_001.json",
         "ja": "logos_creation_ja_001.json",
-        "zh": "logos_creation_zh_001.json"
+        "zh": "logos_creation_zh_001.json",
+        "hi": "logos_creation_hi_001.json"
       },
       "titles": {
         "es": "En el Principio era el Verbo",
@@ -141,7 +142,8 @@
         "pt": "No Princípio Era o Verbo",
         "fr": "Au commencement était la Parole",
         "ja": "初めに、ことばがあった",
-        "zh": "太初有道"
+        "zh": "太初有道",
+        "hi": "आदि में वचन था"
       },
       "subtitles": {
         "es": "Cuando Juan declara que Jesús es el Logos eterno que creó todas las cosas",
@@ -149,7 +151,8 @@
         "pt": "Quando João declara que Jesus é o Logos eterno que criou todas as coisas",
         "fr": "Lorsque Jean déclare que Jésus est le Logos éternel qui a créé toutes choses",
         "ja": "ヨハネがイエスはすべてのものを創造した永遠のロゴスであると宣言するとき",
-        "zh": "当约翰宣告耶稣是创造万有的永恒之道"
+        "zh": "当约翰宣告耶稣是创造万有的永恒之道",
+        "hi": "जब यूहन्ना घोषणा करता है कि यीशु शाश्वत लोगॉस है जिसने सब कुछ सृजा"
       },
       "estimated_reading_minutes": {
         "es": 6,
@@ -157,7 +160,8 @@
         "pt": 5,
         "fr": 5,
         "ja": 5,
-        "zh": 5
+        "zh": 5,
+        "hi": 5
       }
     },
     {
@@ -170,7 +174,8 @@
         "pt": "lamb_of_god_pt_001.json",
         "fr": "lamb_of_god_fr_001.json",
         "ja": "lamb_of_god_ja_001.json",
-        "zh": "lamb_of_god_zh_001.json"
+        "zh": "lamb_of_god_zh_001.json",
+        "hi": "lamb_of_god_hi_001.json"
       },
       "titles": {
         "es": "El Cordero de Dios",
@@ -178,7 +183,8 @@
         "pt": "O Cordeiro de Deus",
         "fr": "L'Agneau de Dieu",
         "ja": "神の小羊",
-        "zh": "神的羔羊"
+        "zh": "神的羔羊",
+        "hi": "परमेश्वर का मेम्ना"
       },
       "subtitles": {
         "es": "La culminación de 1,500 años de sistema sacrificial en una sola declaración",
@@ -186,7 +192,8 @@
         "pt": "A culminação de 1.500 anos de sistema sacrificial em uma única declaração",
         "fr": "L'aboutissement de 1 500 ans de système sacrificiel en une seule déclaration",
         "ja": "1,500年の犠牲システムが一つの宣言で頂点に達する",
-        "zh": "1500年献祭制度在一句宣告中的顶点"
+        "zh": "1500年献祭制度在一句宣告中的顶点",
+        "hi": "एक एकमात्र घोषणा में 1,500 वर्षों की बलिदान प्रणाली की परिणति"
       },
       "estimated_reading_minutes": {
         "es": 6,
@@ -194,7 +201,8 @@
         "pt": 5,
         "fr": 5,
         "ja": 5,
-        "zh": 5
+        "zh": 5,
+        "hi": 5
       }
     },
     {
@@ -207,7 +215,8 @@
         "pt": "natanael_fig_tree_pt_001.json",
         "fr": "natanael_fig_tree_fr_001.json",
         "ja": "natanael_fig_tree_ja_001.json",
-        "zh": "natanael_fig_tree_zh_001.json"
+        "zh": "natanael_fig_tree_zh_001.json",
+        "hi": "natanael_fig_tree_hi_001.json"
       },
       "titles": {
         "es": "Debajo de la Higuera",
@@ -215,7 +224,8 @@
         "pt": "Debaixo da Figueira",
         "fr": "Sous le Figuier",
         "ja": "いちじくの木の下で",
-        "zh": "在无花果树下"
+        "zh": "在无花果树下",
+        "hi": "अंजीर के पेड़ के नीचे"
       },
       "subtitles": {
         "es": "El encuentro donde Jesús revela que conoce tus secretos más profundos",
@@ -223,7 +233,8 @@
         "pt": "O encontro onde Jesus revela que conhece seus segredos mais profundos",
         "fr": "La rencontre où Jésus révèle qu'Il connaît vos secrets les plus profonds",
         "ja": "イエスがあなたの最も深い秘密を知っていることを明かす出会い",
-        "zh": "耶稣显明他知道你内心深处秘密的相遇"
+        "zh": "耶稣显明他知道你内心深处秘密的相遇",
+        "hi": "वह मुलाकात जहां यीशु प्रकट करता है कि वह आपके गहरे रहस्यों को जानता है"
       },
       "estimated_reading_minutes": {
         "es": 6,
@@ -231,7 +242,8 @@
         "pt": 5,
         "fr": 5,
         "ja": 5,
-        "zh": 5
+        "zh": 5,
+        "hi": 5
       }
     },
     {
@@ -243,6 +255,7 @@
         "en": "cana_wedding_en_001.json",
         "pt": "cana_wedding_pt_001.json",
         "fr": "cana_wedding_fr_001.json",
+        "hi": "cana_wedding_hi_001.json",
         "ja": "cana_wedding_ja_001.json",
         "zh": "cana_wedding_zh_001.json"
       },
@@ -251,6 +264,7 @@
         "en": "The Wedding at Cana",
         "pt": "As Bodas de Caná",
         "fr": "Les noces de Cana",
+        "hi": "काना का विवाह",
         "ja": "カナの婚礼",
         "zh": "迦拿的婚筵"
       },
@@ -259,6 +273,7 @@
         "en": "When Jesus turns the ordinary into extraordinary",
         "pt": "Quando Jesus transforma o ordinário em extraordinário",
         "fr": "Quand Jésus transforme l'ordinaire en extraordinaire",
+        "hi": "जब यीशु सामान्य को असाधारण में बदल देता है",
         "ja": "イエスが普通のものを特別なものに変えるとき",
         "zh": "当耶稣将平凡变为非凡"
       },
@@ -267,6 +282,7 @@
         "en": 5,
         "pt": 5,
         "fr": 5,
+        "hi": 5,
         "ja": 5,
         "zh": 5
       }
