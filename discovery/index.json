@@ -211,7 +211,8 @@
         "pt": "natanael_fig_tree_pt_001.json",
         "fr": "natanael_fig_tree_fr_001.json",
         "ja": "natanael_fig_tree_ja_001.json",
-        "zh": "natanael_fig_tree_zh_001.json"
+        "zh": "natanael_fig_tree_zh_001.json",
+        "hi": "natanael_fig_tree_hi_001.json"
       },
       "titles": {
         "es": "Debajo de la Higuera",
@@ -219,7 +220,8 @@
         "pt": "Debaixo da Figueira",
         "fr": "Sous le Figuier",
         "ja": "いちじくの木の下で",
-        "zh": "在无花果树下"
+        "zh": "在无花果树下",
+        "hi": "अंजीर के पेड़ के नीचे"
       },
       "subtitles": {
         "es": "El encuentro donde Jesús revela que conoce tus secretos más profundos",
@@ -227,7 +229,8 @@
         "pt": "O encontro onde Jesus revela que conhece seus segredos mais profundos",
         "fr": "La rencontre où Jésus révèle qu'Il connaît vos secrets les plus profonds",
         "ja": "イエスがあなたの最も深い秘密を知っていることを明かす出会い",
-        "zh": "耶稣显明他知道你内心深处秘密的相遇"
+        "zh": "耶稣显明他知道你内心深处秘密的相遇",
+        "hi": "वह मुलाकात जहां यीशु प्रकट करता है कि वह आपके गहरे रहस्यों को जानता है"
       },
       "estimated_reading_minutes": {
         "es": 6,
