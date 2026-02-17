@@ -29,7 +29,8 @@ EXPECTED_LANGUAGES = {
     'pt': ['ARC', 'NVI'],  # Allow both ARC(PRIMARY) and NVI (SECONDARY) for Portuguese
     'fr': ['LSG1910', 'TOB'],  # Allow both LSG1910(PRIMARY) and TOB (SECONDARY)for French
     'ja': ['新改訳2003', 'リビングバイブル'],  # Allow both versions for Japanese 新改訳2003 (PRIMARY) and リビングバイブル 
-    'zh': ['和合本1919', '新译本']  # Allow both versions for Chinese 和合本1919 (PRIMARY) and 新译本 (SECONDARY)
+    'zh': ['和合本1919', '新译本'],  # Allow both versions for Chinese 和合本1919 (PRIMARY) and 新译本 (SECONDARY)
+    'hi': ['पवित्र बाइबिल (ओ.वी.)', 'पवित्र बाइबिल']  # Allow both versions for Hindi पवित्र बाइबिल (ओ.वी.) (PRIMARY) and पवित्र बाइबिल (SECONDARY)
 }
 
 # Language character patterns for detection
@@ -39,7 +40,8 @@ LANGUAGE_PATTERNS = {
     'pt': re.compile(r'[a-zA-Z]{3,}'),  # Portuguese words (similar to English)
     'fr': re.compile(r'[a-zA-Z]{3,}'),  # French words (similar to English)
     'ja': re.compile(r'[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]+'),  # Japanese
-    'zh': re.compile(r'[\u4E00-\u9FFF]+')  # Chinese
+    'zh': re.compile(r'[\u4E00-\u9FFF]+'),  # Chinese
+    'hi': re.compile(r'[\u0900-\u097F]+')  # Hindi (Devanagari script)
 }
 
 

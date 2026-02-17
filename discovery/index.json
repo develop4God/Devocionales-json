@@ -1,1188 +1,1216 @@
 {
-    "studies": [
-        {
-            "id": "morning_star_001",
-            "version": "1.3",
-            "emoji": "🌟",
-            "files": {
-                "es": "morning_star_es_001.json",
-                "en": "morning_star_en_001.json",
-                "pt": "morning_star_pt_001.json",
-                "fr": "morning_star_fr_001.json",
-                "ja": "morning_star_ja_001.json",
-                "zh": "morning_star_zh_001.json"
-            },
-            "titles": {
-                "es": "Estrella de la Mañana",
-                "en": "The Herald of Light",
-                "pt": "O Arauto da Luz",
-                "fr": "Le Héraut de la Lumière",
-                "ja": "光の使者",
-                "zh": "晨星"
-            },
-            "subtitles": {
-                "es": "El testimonio más poderoso sobre la identidad de Jesús",
-                "en": "The eternal connection between creation, prophecy, and your heart",
-                "pt": "A conexão eterna entre criação, profecia e seu coração",
-                "fr": "Le lien éternel entre la création, la prophétie et votre cœur",
-                "ja": "創造、預言、そしてあなたの心の間の永遠のつながり",
-                "zh": "创造、预言与你心灵的永恒连结"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 6,
-                "pt": 6,
-                "fr": 6,
-                "ja": 6,
-                "zh": 6
-            }
-        },
-        {
-            "id": "hammer_of_god_001",
-            "version": "1.0",
-            "emoji": "🔨",
-            "files": {
-                "es": "hammer_of_god_es_001.json",
-                "en": "hammer_of_god_en_001.json",
-                "fr": "hammer_of_god_fr_001.json",
-                "pt": "hammer_of_god_pt_001.json",
-                "ja": "hammer_of_god_ja_001.json",
-                "zh": "hammer_of_god_zh_001.json"
-            },
-            "titles": {
-                "es": "El Martillo de Dios",
-                "en": "The Hammer of God",
-                "fr": "Le Marteau de Dieu",
-                "pt": "O Martelo de Deus",
-                "ja": "神のハンマー",
-                "zh": "神的锤子"
-            },
-            "subtitles": {
-                "es": "De ejecutores del juicio a adoradores del Mesías: La historia redentora de los Medos",
-                "en": "From executors of judgment to worshipers of the Messiah: The redemptive story of the Medes",
-                "fr": "D'exécuteurs du jugement à adorateurs du Messie: L'histoire rédemptrice des Mèdes",
-                "pt": "De executores do juízo a adoradores do Messias: A história redentora dos Medos",
-                "ja": "裁きの執行者から救い主の礼拝者へ：メディア人の贖いの物語",
-                "zh": "从审判的执行者到弥赛亚的敬拜者：玛代人的救赎故事"
-            },
-            "estimated_reading_minutes": {
-                "es": 8,
-                "en": 8,
-                "fr": 8,
-                "pt": 8,
-                "ja": 8,
-                "zh": 8
-            }
-        },
-        {
-            "id": "balaam_humble_vision_001",
-            "version": "1.1",
-            "emoji": "🫏",
-            "files": {
-                "es": "balaam_humble_vision_es_001.json",
-                "en": "balaam_humble_vision_en_001.json",
-                "fr": "balaam_humble_vision_fr_001.json",
-                "pt": "balaam_humble_vision_pt_001.json",
-                "ja": "balaam_humble_vision_ja_001.json",
-                "zh": "balaam_humble_vision_zh_001.json"
-            },
-            "titles": {
-                "es": "Cuando la Burra Vio al Ángel y el Profeta Estaba Ciego",
-                "en": "When the Donkey Saw the Angel and the Prophet Was Blind",
-                "fr": "Quand l'Ânesse Vit l'Ange et le Prophète Était Aveugle",
-                "pt": "Quando a Jumenta Viu o Anjo e o Profeta Estava Cego",
-                "ja": "ろばが天使を見て預言者が盲目だったとき",
-                "zh": "当驴看见天使而先知却瞎眼时"
-            },
-            "subtitles": {
-                "es": "La advertencia más solemne sobre revelación sin transformación",
-                "en": "The most solemn warning about revelation without transformation",
-                "fr": "L'avertissement le plus solennel sur la révélation sans transformation",
-                "pt": "A advertência mais solene sobre revelação sem transformação",
-                "ja": "変革のない啓示についての最も厳粛な警告",
-                "zh": "关于没有改变的启示最严肃的警告"
-            },
-            "estimated_reading_minutes": {
-                "es": 8,
-                "en": 8,
-                "fr": 8,
-                "pt": 8,
-                "ja": 8,
-                "zh": 8
-            }
-        },
-        {
-            "id": "logos_creation_001",
-            "version": "1.1",
-            "emoji": "📖",
-            "files": {
-                "es": "logos_creation_es_001.json",
-                "en": "logos_creation_en_001.json",
-                "pt": "logos_creation_pt_001.json",
-                "fr": "logos_creation_fr_001.json",
-                "ja": "logos_creation_ja_001.json",
-                "zh": "logos_creation_zh_001.json"
-            },
-            "titles": {
-                "es": "En el Principio era el Verbo",
-                "en": "In the Beginning was the Word",
-                "pt": "No Princípio Era o Verbo",
-                "fr": "Au commencement était la Parole",
-                "ja": "初めに、ことばがあった",
-                "zh": "太初有道"
-            },
-            "subtitles": {
-                "es": "Cuando Juan declara que Jesús es el Logos eterno que creó todas las cosas",
-                "en": "When John declares that Jesus is the eternal Logos who created all things",
-                "pt": "Quando João declara que Jesus é o Logos eterno que criou todas as coisas",
-                "fr": "Lorsque Jean déclare que Jésus est le Logos éternel qui a créé toutes choses",
-                "ja": "ヨハネがイエスはすべてのものを創造した永遠のロゴスであると宣言するとき",
-                "zh": "当约翰宣告耶稣是创造万有的永恒之道"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 6,
-                "pt": 5,
-                "fr": 5,
-                "ja": 5,
-                "zh": 5
-            }
-        },
-        {
-            "id": "lamb_of_god_001",
-            "version": "1.1",
-            "emoji": "🐑",
-            "files": {
-                "es": "lamb_of_god_es_001.json",
-                "en": "lamb_of_god_en_001.json",
-                "pt": "lamb_of_god_pt_001.json",
-                "fr": "lamb_of_god_fr_001.json",
-                "ja": "lamb_of_god_ja_001.json",
-                "zh": "lamb_of_god_zh_001.json"
-            },
-            "titles": {
-                "es": "El Cordero de Dios",
-                "en": "The Lamb of God",
-                "pt": "O Cordeiro de Deus",
-                "fr": "L'Agneau de Dieu",
-                "ja": "神の小羊",
-                "zh": "神的羔羊"
-            },
-            "subtitles": {
-                "es": "La culminación de 1,500 años de sistema sacrificial en una sola declaración",
-                "en": "The culmination of 1,500 years of sacrificial system in a single declaration",
-                "pt": "A culminação de 1.500 anos de sistema sacrificial em uma única declaração",
-                "fr": "L'aboutissement de 1 500 ans de système sacrificiel en une seule déclaration",
-                "ja": "1,500年の犠牲システムが一つの宣言で頂点に達する",
-                "zh": "1500年献祭制度在一句宣告中的顶点"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 5,
-                "pt": 5,
-                "fr": 5,
-                "ja": 5,
-                "zh": 5
-            }
-        },
-        {
-            "id": "natanael_fig_tree_001",
-            "version": "1.1",
-            "emoji": "🌳",
-            "files": {
-                "es": "natanael_fig_tree_es_001.json",
-                "en": "natanael_fig_tree_en_001.json",
-                "pt": "natanael_fig_tree_pt_001.json",
-                "fr": "natanael_fig_tree_fr_001.json",
-                "ja": "natanael_fig_tree_ja_001.json",
-                "zh": "natanael_fig_tree_zh_001.json"
-            },
-            "titles": {
-                "es": "Debajo de la Higuera",
-                "en": "Under the Fig Tree",
-                "pt": "Debaixo da Figueira",
-                "fr": "Sous le Figuier",
-                "ja": "いちじくの木の下で",
-                "zh": "在无花果树下"
-            },
-            "subtitles": {
-                "es": "El encuentro donde Jesús revela que conoce tus secretos más profundos",
-                "en": "The encounter where Jesus reveals He knows your deepest secrets",
-                "pt": "O encontro onde Jesus revela que conhece seus segredos mais profundos",
-                "fr": "La rencontre où Jésus révèle qu'Il connaît vos secrets les plus profonds",
-                "ja": "イエスがあなたの最も深い秘密を知っていることを明かす出会い",
-                "zh": "耶稣显明他知道你内心深处秘密的相遇"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 5,
-                "pt": 5,
-                "fr": 5,
-                "ja": 5,
-                "zh": 5
-            }
-        },
-        {
-            "id": "cana_wedding_001",
-            "version": "1.2",
-            "emoji": "👰‍♀️",
-            "files": {
-                "es": "cana_wedding_es_001.json",
-                "en": "cana_wedding_en_001.json",
-                "pt": "cana_wedding_pt_001.json",
-                "fr": "cana_wedding_fr_001.json",
-                "ja": "cana_wedding_ja_001.json",
-                "zh": "cana_wedding_zh_001.json"
-            },
-            "titles": {
-                "es": "Las Bodas de Caná",
-                "en": "The Wedding at Cana",
-                "pt": "As Bodas de Caná",
-                "fr": "Les noces de Cana",
-                "ja": "カナの婚礼",
-                "zh": "迦拿的婚筵"
-            },
-            "subtitles": {
-                "es": "Cuando Jesús convierte lo ordinario en extraordinario",
-                "en": "When Jesus turns the ordinary into extraordinary",
-                "pt": "Quando Jesus transforma o ordinário em extraordinário",
-                "fr": "Quand Jésus transforme l'ordinaire en extraordinaire",
-                "ja": "イエスが普通のものを特別なものに変えるとき",
-                "zh": "当耶稣将平凡变为非凡"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 5,
-                "pt": 5,
-                "fr": 5,
-                "ja": 5,
-                "zh": 5
-            }
-        },
-        {
-            "id": "born_again_001",
-            "version": "1.1",
-            "emoji": "🍃",
-            "files": {
-                "es": "born_again_es_001.json",
-                "en": "born_again_en_001.json",
-                "pt": "born_again_pt_001.json",
-                "fr": "born_again_fr_001.json",
-                "ja": "born_again_ja_001.json",
-                "zh": "born_again_zh_001.json"
-            },
-            "titles": {
-                "es": "Es Necesario Nacer de Nuevo",
-                "en": "You Must Be Born Again",
-                "pt": "Vós Tendes de Nascer de Novo",
-                "fr": "Il faut que vous naissiez de nouveau",
-                "ja": "新しく生まれなければならない",
-                "zh": "你必须重生"
-            },
-            "subtitles": {
-                "es": "El misterio del nuevo nacimiento espiritual revelado",
-                "en": "The mystery of spiritual rebirth revealed",
-                "pt": "Quando o mestre de Israel descobre que sua religião não é suficiente",
-                "fr": "Quand le maître d'Israël découvre que sa religion ne suffit pas",
-                "ja": "イスラエルの教師が、自分の宗教では不十分であることを発見したとき",
-                "zh": "当以色列的教师发现他的宗教并不足够"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 6,
-                "pt": 5,
-                "fr": 5,
-                "ja": 5,
-                "zh": 5
-            }
-        },
-        {
-            "id": "temple_cleansing_001",
-            "version": "1.1",
-            "emoji": "🔥",
-            "files": {
-                "es": "temple_cleansing_es_001.json",
-                "en": "temple_cleansing_en_001.json",
-                "pt": "temple_cleansing_pt_001.json",
-                "fr": "temple_cleansing_fr_001.json",
-                "ja": "temple_cleansing_ja_001.json",
-                "zh": "temple_cleansing_zh_001.json"
-            },
-            "titles": {
-                "es": "La Purificación del Templo",
-                "en": "The Cleansing of the Temple",
-                "pt": "A Purificação do Templo",
-                "fr": "La Purification du Temple",
-                "ja": "神殿の清め",
-                "zh": "洁净圣殿"
-            },
-            "subtitles": {
-                "es": "Cuando Jesús declara que Él es el Templo verdadero",
-                "en": "When Jesus declares that He is the true Temple",
-                "pt": "Quando Jesus declara que Ele é o verdadeiro Templo",
-                "fr": "Quand Jésus déclare qu'Il est le véritable Temple",
-                "ja": "イエスが御霊自身が真の神殿であると宣言するとき",
-                "zh": "耶稣宣告自己是真正的圣殿"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 6,
-                "pt": 6,
-                "fr": 6,
-                "ja": 6,
-                "zh": 6
-            }
-        },
-        {
-            "id": "woman_at_well_001",
-            "version": "1.1",
-            "emoji": "⛲",
-            "files": {
-                "es": "woman_at_well_es_001.json",
-                "en": "woman_at_well_en_001.json",
-                "fr": "woman_at_well_fr_001.json",
-                "pt": "woman_at_well_pt_001.json",
-                "ja": "woman_at_well_ja_001.json",
-                "zh": "woman_at_well_zh_001.json"
-            },
-            "titles": {
-                "es": "La Mujer del Pozo",
-                "en": "The Woman at the Well",
-                "fr": "La Femme au Puits",
-                "pt": "A Mulher no Poço",
-                "ja": "井戸の女",
-                "zh": "井边的妇人"
-            },
-            "subtitles": {
-                "es": "Cuando Jesús rompe todas las barreras por una conversación que cambiará una ciudad",
-                "en": "When Jesus breaks every barrier for a conversation that will transform a city",
-                "fr": "Quand Jésus brise toutes les barrières pour une conversation qui transformera une ville",
-                "pt": "Quando Jesus quebra todas as barreiras por uma conversa que mudará uma cidade",
-                "ja": "イエスがすべての壁を打ち破り、町を変える会話をする時",
-                "zh": "当耶稣打破一切隔阂，带来改变城市的对话"
-            },
-            "estimated_reading_minutes": {
-                "es": 5,
-                "en": 5,
-                "fr": 5,
-                "pt": 5,
-                "ja": 5,
-                "zh": 5
-            }
-        },
-        {
-            "id": "i_am_before_abraham_001",
-            "version": "1.0",
-            "emoji": "⚡",
-            "files": {
-                "es": "i_am_before_abraham_es_001.json",
-                "en": "i_am_before_abraham_en_001.json",
-                "pt": "i_am_before_abraham_pt_001.json",
-                "fr": "i_am_before_abraham_fr_001.json",
-                "ja": "i_am_before_abraham_ja_001.json",
-                "zh": "i_am_before_abraham_zh_001.json"
-            },
-            "titles": {
-                "es": "YO SOY: Antes que Abraham Fuese",
-                "en": "I AM: Before Abraham Was",
-                "pt": "EU SOU: Antes que Abraão Existisse",
-                "fr": "JE SUIS : Avant qu'Abraham Fût",
-                "ja": "わたしはある：アブラハムが生まれる前から",
-                "zh": "我是：在亚伯拉罕出生以前"
-            },
-            "subtitles": {
-                "es": "Cuando Jesús reclama eternidad y la multitud toma piedras",
-                "en": "When Jesus claims eternity and the mob grabs stones",
-                "pt": "Quando Jesus reivindica a eternidade e a multidão pega pedras",
-                "fr": "Quand Jésus revendique l'éternité et la foule saisit des pierres",
-                "ja": "イエスが永遠性を主張し、群衆が石を取り上げたとき",
-                "zh": "当耶稣宣称永恒，而众人拿起石头"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 6,
-                "pt": 6,
-                "fr": 6,
-                "ja": 6,
-                "zh": 6
-            }
-        },
-        {
-            "id": "good_shepherd_001",
-            "version": "1.0",
-            "emoji": "🐑",
-            "files": {
-                "es": "good_shepherd_es_001.json",
-                "en": "good_shepherd_en_001.json",
-                "pt": "good_shepherd_pt_001.json",
-                "fr": "good_shepherd_fr_001.json",
-                "ja": "good_shepherd_ja_001.json",
-                "zh": "good_shepherd_zh_001.json"
-            },
-            "titles": {
-                "es": "El Buen Pastor",
-                "en": "The Good Shepherd",
-                "pt": "O Bom Pastor",
-                "fr": "Le Bon Berger",
-                "ja": "良い羊飼い",
-                "zh": "好牧人"
-            },
-            "subtitles": {
-                "es": "Cuando Jesús declara que conoce a sus ovejas por nombre",
-                "en": "When Jesus declares He knows His sheep by name",
-                "pt": "Quando Jesus declara que conhece Suas ovelhas pelo nome",
-                "fr": "Quand Jésus déclare qu'Il connaît Ses brebis par leur nom",
-                "ja": "イエスが羊を名前で知っていると宣言するとき",
-                "zh": "当耶稣宣告祂按名认识祂的羊"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 6,
-                "pt": 6,
-                "fr": 6,
-                "ja": 6,
-                "zh": 6
-            }
-        },
-        {
-            "id": "jesus_troubled_himself_001",
-            "version": "1.0",
-            "emoji": "😢",
-            "files": {
-                "es": "jesus_troubled_himself_es_001.json",
-                "en": "jesus_troubled_himself_en_001.json",
-                "pt": "jesus_troubled_himself_pt_001.json",
-                "fr": "jesus_troubled_himself_fr_001.json",
-                "ja": "jesus_troubled_himself_ja_001.json",
-                "zh": "jesus_troubled_himself_zh_001.json"
-            },
-            "titles": {
-                "es": "Se Turbó a Sí Mismo",
-                "en": "He Troubled Himself",
-                "pt": "Ele Se Perturbou",
-                "fr": "Il Se Troubla Lui-même",
-                "ja": "御霊自身を悩まされた",
-                "zh": "他使自己心里悲叹"
-            },
-            "subtitles": {
-                "es": "Cuando Jesús eligió entrar en nuestro dolor",
-                "en": "When Jesus chose to enter our pain",
-                "pt": "Quando Jesus escolheu entrar em nossa dor",
-                "fr": "Quand Jésus a choisi d'entrer dans notre douleur",
-                "ja": "イエスが私たちの痛みに入ることを選ばれたとき",
-                "zh": "当耶稣选择进入我们的痛苦"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "passed_from_death_001",
-            "version": "1.2",
-            "emoji": "🔄",
-            "files": {
-                "es": "passed_from_death_es_001.json",
-                "en": "passed_from_death_en_001.json",
-                "pt": "passed_from_death_pt_001.json",
-                "fr": "passed_from_death_fr_001.json",
-                "ja": "passed_from_death_ja_001.json",
-                "zh": "passed_from_death_zh_001.json"
-            },
-            "titles": {
-                "es": "Pasados de Muerte a Vida",
-                "en": "Passed from Death to Life",
-                "pt": "Passados de Morte para Vida",
-                "fr": "Passé de la Mort à la Vie",
-                "ja": "死からいのちへ渡された",
-                "zh": "从死到生"
-            },
-            "subtitles": {
-                "es": "La revelación final: ya no puedes 'des-nacer'",
-                "en": "The final revelation: you cannot 'un-birth' yourself",
-                "pt": "A revelação final: você não pode 'des-nascer'",
-                "fr": "La révélation finale : vous ne pouvez pas 'dé-naître'",
-                "ja": "最終的な啓示：あなたは自分を「生まれなかったこと」にできない",
-                "zh": "最终的启示：你不能'不出生'"
-            },
-            "estimated_reading_minutes": {
-                "es": 8,
-                "en": 8,
-                "pt": 8,
-                "fr": 8,
-                "ja": 8,
-                "zh": 8
-            }
-        },
-        {
-            "id": "transfiguration_001",
-            "version": "1.0",
-            "emoji": "⛰️",
-            "files": {
-                "es": "transfiguration_es_001.json",
-                "en": "transfiguration_en_001.json",
-                "pt": "transfiguration_pt_001.json",
-                "fr": "transfiguration_fr_001.json",
-                "ja": "transfiguration_ja_001.json",
-                "zh": "transfiguration_zh_001.json"
-            },
-            "titles": {
-                "es": "La Transfiguración",
-                "en": "The Transfiguration",
-                "pt": "A Transfiguração",
-                "fr": "La Transfiguration",
-                "ja": "変貌",
-                "zh": "登山变像"
-            },
-            "subtitles": {
-                "es": "Cuando el velo de la carne se abre y la gloria irrumpe",
-                "en": "When the veil of flesh opens and glory breaks through",
-                "pt": "Quando o véu da carne se abre e a glória irrompe",
-                "fr": "Quand le voile de la chair s'ouvre et la gloire éclate",
-                "ja": "肉の覆いが開かれ、栄光が輝き出るとき",
-                "zh": "当肉身的幔子揭开，荣耀突破而出"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "buried_talent_001",
-            "version": "1.1",
-            "emoji": "💰",
-            "files": {
-                "es": "buried_talent_es_001.json",
-                "en": "buried_talent_en_001.json",
-                "pt": "buried_talent_pt_001.json",
-                "fr": "buried_talent_fr_001.json",
-                "ja": "buried_talent_ja_001.json",
-                "zh": "buried_talent_zh_001.json"
-            },
-            "titles": {
-                "es": "El Talento Enterrado",
-                "en": "The Buried Talent",
-                "pt": "O Talento Enterrado",
-                "fr": "Le Talent Enfoui",
-                "ja": "埋められたタラント",
-                "zh": "被埋葬的他连得"
-            },
-            "subtitles": {
-                "es": "Cuando el miedo paraliza y las manos quedan vacías",
-                "en": "When fear paralyzes and hands remain empty",
-                "pt": "Quando o medo paralisa e as mãos ficam vazias",
-                "fr": "Quand la peur paralyse et que les mains restent vides",
-                "ja": "恐れが麻痺させ、手が空になるとき",
-                "zh": "当恐惧使人瘫痪,双手空空如也"
-            },
-            "estimated_reading_minutes": {
-                "es": 8,
-                "en": 8,
-                "pt": 8,
-                "fr": 8,
-                "ja": 8,
-                "zh": 8
-            }
-        },
-        {
-            "id": "triumphal_entry_001",
-            "version": "1.0",
-            "emoji": "🌴",
-            "files": {
-                "es": "triumphal_entry_es_001.json",
-                "en": "triumphal_entry_en_001.json",
-                "fr": "triumphal_entry_fr_001.json",
-                "pt": "triumphal_entry_pt_001.json",
-                "ja": "triumphal_entry_ja_001.json",
-                "zh": "triumphal_entry_zh_001.json"
-            },
-            "titles": {
-                "es": "La Entrada Triunfal",
-                "en": "The Triumphal Entry",
-                "fr": "L'Entrée Triomphale",
-                "pt": "A Entrada Triunfal",
-                "ja": "勝利の入城",
-                "zh": "荣入圣城"
-            },
-            "subtitles": {
-                "es": "Cuando el Rey rechazado entra a Jerusalén montado en un pollino, no en un caballo de guerra",
-                "en": "When the rejected King enters Jerusalem riding on a donkey, not a warhorse",
-                "fr": "Quand le Roi rejeté entre à Jérusalem monté sur un ânon, pas sur un cheval de guerre",
-                "pt": "Quando o Rei rejeitado entra em Jerusalém montado em um jumentinho, não em um cavalo de guerra",
-                "ja": "拒絶された王が、軍馬ではなくろばに乗ってエルサレムに入られる時",
-                "zh": "当被拒绝的王骑着驴驹而非战马进入耶路撒冷"
-            },
-            "estimated_reading_minutes": {
-                "es": 5,
-                "en": 5,
-                "fr": 5,
-                "pt": 5,
-                "ja": 5,
-                "zh": 5
-            }
-        },
-        {
-            "id": "gethsemane_agony_001",
-            "version": "1.2",
-            "emoji": "🫒",
-            "files": {
-                "es": "gethsemane_agony_es_001.json",
-                "en": "gethsemane_agony_en_001.json",
-                "pt": "gethsemane_agony_pt_001.json",
-                "fr": "gethsemane_agony_fr_001.json",
-                "ja": "gethsemane_agony_ja_001.json",
-                "zh": "gethsemane_agony_zh_001.json"
-            },
-            "titles": {
-                "es": "La Agonía del Testador",
-                "en": "The Agony of the Testator",
-                "pt": "A Agonia do Testador",
-                "fr": "L'Agonie du Testateur",
-                "ja": "遺言者の苦悶",
-                "zh": "立约者的痛苦"
-            },
-            "subtitles": {
-                "es": "Cuando el Hijo de Dios suda sangre en la prensa de aceite",
-                "en": "When the Son of God sweats blood in the olive press",
-                "pt": "Quando o Filho de Deus sua sangue no lagar de azeite",
-                "fr": "Quand le Fils de Dieu sue du sang dans le pressoir à olives",
-                "ja": "神の御子がオリーブの圧搾器で血の汗を流すとき",
-                "zh": "当神的儿子在橄榄压榨机中流出血汗时"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "new_covenant_cup_001",
-            "version": "1.2",
-            "emoji": "🍷",
-            "files": {
-                "es": "new_covenant_cup_es_001.json",
-                "en": "new_covenant_cup_en_001.json",
-                "pt": "new_covenant_cup_pt_001.json",
-                "fr": "new_covenant_cup_fr_001.json",
-                "ja": "new_covenant_cup_ja_001.json",
-                "zh": "new_covenant_cup_zh_001.json"
-            },
-            "titles": {
-                "es": "La Copa del Nuevo Pacto",
-                "en": "The Cup of the New Covenant",
-                "pt": "A Taça da Nova Aliança",
-                "fr": "La Coupe de la Nouvelle Alliance",
-                "ja": "新しい契約の杯",
-                "zh": "新约的杯"
-            },
-            "subtitles": {
-                "es": "Cuando el Testador firma con su sangre el testamento de nuestra libertad",
-                "en": "When the Testator signs with his blood the testament of our freedom",
-                "pt": "Quando o Testador assina com seu sangue o testamento de nossa liberdade",
-                "fr": "Quand le Testateur signe de son sang le testament de notre liberté",
-                "ja": "遺言者が私たちの自由の遺言を血で署名するとき",
-                "zh": "当立约者用他的血签署我们自由的遗嘱时"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "cup_of_wrath_001",
-            "version": "1.3",
-            "emoji": "😱",
-            "files": {
-                "es": "cup_of_wrath_es_001.json",
-                "en": "cup_of_wrath_en_001.json",
-                "pt": "cup_of_wrath_pt_001.json",
-                "fr": "cup_of_wrath_fr_001.json",
-                "ja": "cup_of_wrath_ja_001.json",
-                "zh": "cup_of_wrath_zh_001.json"
-            },
-            "titles": {
-                "es": "La Copa de la Ira",
-                "en": "The Cup of Wrath",
-                "pt": "A Taça da Ira",
-                "fr": "La Coupe de la Colère",
-                "ja": "怒りの杯",
-                "zh": "忿怒的杯"
-            },
-            "subtitles": {
-                "es": "Cuando el Inocente bebe el juicio que nos correspondía",
-                "en": "When the Innocent drinks the judgment that belonged to us",
-                "pt": "Quando o Inocente bebe o juízo que nos pertencia",
-                "fr": "Quand l'Innocent boit le jugement qui nous appartenait",
-                "ja": "無実の方が私たちに属していた裁きを飲むとき",
-                "zh": "当无辜者喝下属于我们的审判时"
-            },
-            "estimated_reading_minutes": {
-                "es": 8,
-                "en": 8,
-                "pt": 8,
-                "fr": 8,
-                "ja": 8,
-                "zh": 8
-            }
-        },
-        {
-            "id": "veil_torn_001",
-            "version": "1.3",
-            "emoji": "🏛️",
-            "files": {
-                "es": "veil_torn_es_001.json",
-                "en": "veil_torn_en_001.json",
-                "pt": "veil_torn_pt_001.json",
-                "fr": "veil_torn_fr_001.json",
-                "ja": "veil_torn_ja_001.json",
-                "zh": "veil_torn_zh_001.json"
-            },
-            "titles": {
-                "es": "El Velo Rasgado",
-                "en": "The Torn Veil",
-                "pt": "O Véu Rasgado",
-                "fr": "Le Voile Déchiré",
-                "ja": "裂け分かれた幕",
-                "zh": "裂开的幔子"
-            },
-            "subtitles": {
-                "es": "Cuando Dios abre el camino al Lugar Santísimo",
-                "en": "When God opens the way to the Holy of Holies",
-                "pt": "Quando Deus abre o caminho para o Santo dos Santos",
-                "fr": "Quand Dieu ouvre le chemin vers le Saint des Saints",
-                "ja": "神が至聖所への道を開くとき",
-                "zh": "当神开辟通往至圣所的道路时"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "saints_resurrected_001",
-            "version": "1.2",
-            "emoji": "⚰️",
-            "files": {
-                "es": "saints_resurrected_es_001.json",
-                "en": "saints_resurrected_en_001.json",
-                "pt": "saints_resurrected_pt_001.json",
-                "fr": "saints_resurrected_fr_001.json",
-                "ja": "saints_resurrected_ja_001.json",
-                "zh": "saints_resurrected_zh_001.json"
-            },
-            "titles": {
-                "es": "Los Santos Resucitados",
-                "en": "The Resurrected Saints",
-                "pt": "Os Santos Ressuscitados",
-                "fr": "Les Saints Ressuscités",
-                "ja": "よみがえった聖人たち",
-                "zh": "复活的圣徒"
-            },
-            "subtitles": {
-                "es": "Cuando la muerte de Cristo liberó a los cautivos del Hades",
-                "en": "When Christ's death freed the captives from Hades",
-                "pt": "Quando a morte de Cristo libertou os cativos do Hades",
-                "fr": "Quand la mort du Christ a libéré les captifs de l'Hadès",
-                "ja": "キリストの死がハデスの捕虜を解放したとき",
-                "zh": "当基督的死释放了阴间的囚徒时"
-            },
-            "estimated_reading_minutes": {
-                "es": 8,
-                "en": 8,
-                "pt": 8,
-                "fr": 8,
-                "ja": 8,
-                "zh": 8
-            }
-        },
-        {
-            "id": "breath_new_adam_001",
-            "version": "1.0",
-            "emoji": "☁️",
-            "files": {
-                "es": "breath_new_adam_es_001.json",
-                "en": "breath_new_adam_en_001.json",
-                "pt": "breath_new_adam_pt_001.json",
-                "fr": "breath_new_adam_fr_001.json",
-                "ja": "breath_new_adam_ja_001.json",
-                "zh": "breath_new_adam_zh_001.json"
-            },
-            "titles": {
-                "es": "El Soplo del Nuevo Adán",
-                "en": "The Breath of the New Adam",
-                "pt": "O Sopro do Novo Adão",
-                "fr": "Le Souffle du Nouvel Adam",
-                "ja": "新しいアダムの息",
-                "zh": "新亚当的气息"
-            },
-            "subtitles": {
-                "es": "Cuando Jesús reconecta al hombre con Dios",
-                "en": "When Jesus reconnects man with God",
-                "pt": "Quando Jesus reconecta o homem com Deus",
-                "fr": "Quand Jésus reconnecte l'homme avec Dieu",
-                "ja": "イエスが人を神と再びつなぐとき",
-                "zh": "当耶稣将人与神重新连接"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "road_to_emmaus_001",
-            "version": "1.2",
-            "emoji": "🚶",
-            "files": {
-                "es": "road_to_emmaus_es_001.json",
-                "en": "road_to_emmaus_en_001.json",
-                "pt": "road_to_emmaus_pt_001.json",
-                "fr": "road_to_emmaus_fr_001.json",
-                "ja": "road_to_emmaus_ja_001.json",
-                "zh": "road_to_emmaus_zh_001.json"
-            },
-            "titles": {
-                "es": "El Camino a Emaús",
-                "en": "The Road to Emmaus",
-                "pt": "O Caminho de Emaús",
-                "fr": "Le Chemin d'Emmaüs",
-                "ja": "エマオへの道",
-                "zh": "去以马忤斯的路上"
-            },
-            "subtitles": {
-                "es": "Cuando el Cristo resucitado camina contigo sin que lo reconozcas, hasta que parte el pan",
-                "en": "When the risen Christ walks with you unrecognized, until He breaks the bread",
-                "pt": "Quando o Cristo ressuscitado caminha com você sem ser reconhecido, até partir o pão",
-                "fr": "Quand le Christ ressuscité marche avec vous sans être reconnu, jusqu'à la fraction du pain",
-                "ja": "復活したキリストがあなたと共に歩んでいるのに、パンを裂くまで気づかない時",
-                "zh": "当复活的基督与你同行却未被认出，直到祂擘饼"
-            },
-            "estimated_reading_minutes": {
-                "es": 10,
-                "en": 10,
-                "pt": 10,
-                "fr": 10,
-                "ja": 10,
-                "zh": 10
-            }
-        },
-        {
-            "id": "restoration_by_fire_001",
-            "version": "1.0",
-            "emoji": "🔥",
-            "files": {
-                "es": "restoration_by_fire_es_001.json",
-                "en": "restoration_by_fire_en_001.json",
-                "pt": "restoration_by_fire_pt_001.json",
-                "fr": "restoration_by_fire_fr_001.json",
-                "ja": "restoration_by_fire_ja_001.json",
-                "zh": "restoration_by_fire_zh_001.json"
-            },
-            "titles": {
-                "es": "Las Brasas de la Restauración",
-                "en": "The Coals of Restoration",
-                "pt": "As Brasas da Restauração",
-                "fr": "Les Braises de la Restauration",
-                "ja": "回復の炭火",
-                "zh": "恢复的炭火"
-            },
-            "subtitles": {
-                "es": "Cuando el olor del fracaso se convierte en el aroma del perdón",
-                "en": "When the smell of failure becomes the aroma of forgiveness",
-                "pt": "Quando o cheiro do fracasso se torna o aroma do perdão",
-                "fr": "Quand l'odeur de l'échec devient l'arôme du pardon",
-                "ja": "失敗の匂いが赦しの香りになるとき",
-                "zh": "当失败的气味变成宽恕的芬芳"
-            },
-            "estimated_reading_minutes": {
-                "es": 9,
-                "en": 9,
-                "pt": 9,
-                "fr": 9,
-                "ja": 9,
-                "zh": 9
-            }
-        },
-        {
-            "id": "great_commission_001",
-            "version": "1.0",
-            "emoji": "🌍",
-            "files": {
-                "es": "great_commission_es_001.json",
-                "en": "great_commission_en_001.json",
-                "pt": "great_commission_pt_001.json",
-                "fr": "great_commission_fr_001.json",
-                "ja": "great_commission_ja_001.json",
-                "zh": "great_commission_zh_001.json"
-            },
-            "titles": {
-                "es": "La Gran Comisión",
-                "en": "The Great Commission",
-                "pt": "A Grande Comissão",
-                "fr": "La Grande Commission",
-                "ja": "大宣教命令",
-                "zh": "大使命"
-            },
-            "subtitles": {
-                "es": "Cuando Jesús transforma a seguidores en enviados",
-                "en": "When Jesus transforms followers into sent ones",
-                "pt": "Quando Jesus transforma seguidores em enviados",
-                "fr": "Quand Jésus transforme les disciples en envoyés",
-                "ja": "イエスが従う者を遣わされる者へと変える時",
-                "zh": "当耶稣将跟随者转变为奉差者"
-            },
-            "estimated_reading_minutes": {
-                "es": 6,
-                "en": 6,
-                "pt": 6,
-                "fr": 6,
-                "ja": 6,
-                "zh": 6
-            }
-        },
-        {
-            "id": "ascension_victory_001",
-            "version": "1.0",
-            "emoji": "☁️",
-            "files": {
-                "es": "ascension_victory_es_001.json",
-                "en": "ascension_victory_en_001.json",
-                "pt": "ascension_victory_pt_001.json",
-                "fr": "ascension_victory_fr_001.json",
-                "ja": "ascension_victory_ja_001.json",
-                "zh": "ascension_victory_zh_001.json"
-            },
-            "titles": {
-                "es": "La Ascensión Victoriosa",
-                "en": "The Victorious Ascension",
-                "pt": "A Ascensão Vitoriosa",
-                "fr": "L'Ascension victorieuse",
-                "ja": "勝利の昇天",
-                "zh": "得胜的升天"
-            },
-            "subtitles": {
-                "es": "Cuando el Rey conquista el trono y envía el Espíritu",
-                "en": "When the King conquers the throne and sends the Spirit",
-                "pt": "Quando o Rei conquista o trono e envia o Espírito",
-                "fr": "Quand le Roi conquiert le trône et envoie l'Esprit",
-                "ja": "王が御座を征服し、御霊を送られるとき",
-                "zh": "当君王得胜宝座并差遣圣灵"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "pentecost_power_001",
-            "version": "1.0",
-            "emoji": "🔥",
-            "files": {
-                "es": "pentecost_power_es_001.json",
-                "en": "pentecost_power_en_001.json",
-                "pt": "pentecost_power_pt_001.json",
-                "fr": "pentecost_power_fr_001.json",
-                "ja": "pentecost_power_ja_001.json",
-                "zh": "pentecost_power_zh_001.json"
-            },
-            "titles": {
-                "es": "El Poder de Pentecostés",
-                "en": "The Power of Pentecost",
-                "pt": "O Poder de Pentecostes",
-                "fr": "La puissance de la Pentecôte",
-                "ja": "ペンテコステの力",
-                "zh": "五旬节的能力"
-            },
-            "subtitles": {
-                "es": "Cuando el Espíritu Santo transforma cobardes en valientes",
-                "en": "When the Holy Spirit transforms cowards into the courageous",
-                "pt": "Quando o Espírito Santo transforma covardes em corajosos",
-                "fr": "Quand le Saint-Esprit transforme les lâches en courageux",
-                "ja": "聖霊が臆病者を勇敢な者へと変える時",
-                "zh": "当圣灵将懦夫转变为勇士"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "damascus_road_001",
-            "version": "1.0",
-            "emoji": "⚡",
-            "files": {
-                "es": "damascus_road_es_001.json",
-                "en": "damascus_road_en_001.json",
-                "pt": "damascus_road_pt_001.json",
-                "fr": "damascus_road_fr_001.json",
-                "ja": "damascus_road_ja_001.json",
-                "zh": "damascus_road_zh_001.json"
-            },
-            "titles": {
-                "es": "El Camino a Damasco",
-                "en": "The Road to Damascus",
-                "pt": "O Caminho para Damasco",
-                "fr": "Le chemin de Damas",
-                "ja": "ダマスコへの道",
-                "zh": "大马士革的路上"
-            },
-            "subtitles": {
-                "es": "Cuando la luz de Cristo derriba al perseguidor más feroz",
-                "en": "When the light of Christ strikes down the fiercest persecutor",
-                "pt": "Quando a luz de Cristo derruba o perseguidor mais feroz",
-                "fr": "Quand la lumière de Christ terrasse le plus féroce des persécuteurs",
-                "ja": "キリストの光が最も激しい迫害者を打ち倒す時",
-                "zh": "当基督的光击倒最凶猛的逼迫者"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "gold_silver_ashes_001",
-            "version": "1.0",
-            "emoji": "🔥",
-            "files": {
-                "es": "gold_silver_ashes_es_001.json",
-                "en": "gold_silver_ashes_en_001.json",
-                "pt": "gold_silver_ashes_pt_001.json",
-                "fr": "gold_silver_ashes_fr_001.json",
-                "ja": "gold_silver_ashes_ja_001.json",
-                "zh": "gold_silver_ashes_zh_001.json"
-            },
-            "titles": {
-                "es": "Oro, Plata o Cenizas",
-                "en": "Gold, Silver or Ashes",
-                "pt": "Ouro, Prata ou Cinzas",
-                "fr": "Or, Argent ou Cendres",
-                "ja": "金、銀、それとも灰",
-                "zh": "金银还是灰烬"
-            },
-            "subtitles": {
-                "es": "Cuando el fuego prueba la calidad de tu obra",
-                "en": "When fire tests the quality of your work",
-                "pt": "Quando o fogo prova a qualidade da sua obra",
-                "fr": "Quand le feu éprouve la qualité de ton œuvre",
-                "ja": "火があなたの働きの質を試すとき",
-                "zh": "当火试验你工作的质量"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        },
-        {
-            "id": "zechariah_14_return_001",
-            "version": "1.0",
-            "emoji": "⛰️",
-            "files": {
-                "es": "zechariah_14_return_es_001.json",
-                "en": "zechariah_14_return_en_001.json",
-                "fr": "zechariah_14_return_fr_001.json",
-                "pt": "zechariah_14_return_pt_001.json",
-                "ja": "zechariah_14_return_ja_001.json",
-                "zh": "zechariah_14_return_zh_001.json"
-            },
-            "titles": {
-                "es": "Zacarías 14: Cuando Sus Pies Toquen el Monte de los Olivos",
-                "en": "Zechariah 14: When His Feet Touch the Mount of Olives",
-                "fr": "Zacharie 14 : Quand Ses Pieds Toucheront le Mont des Oliviers",
-                "pt": "Zacarias 14: Quando Seus Pés Tocarem o Monte das Oliveiras",
-                "ja": "ゼカリヤ書14章:御足がオリーブ山に触れる時",
-                "zh": "撒迦利亚书14章：当祂的脚踏在橄榄山上"
-            },
-            "subtitles": {
-                "es": "El día en que el cielo desciende y la tierra es transformada",
-                "en": "The day when heaven descends and the earth is transformed",
-                "fr": "Le jour où le ciel descend et la terre est transformée",
-                "pt": "O dia em que o céu desce e a terra é transformada",
-                "ja": "天が降り、地が変えられる日",
-                "zh": "天降大地、地球转化的那一天"
-            },
-            "estimated_reading_minutes": {
-                "es": 9,
-                "en": 9,
-                "fr": 9,
-                "pt": 9,
-                "ja": 9,
-                "zh": 9
-            }
-        },
-        {
-            "id": "full_hands_king_001",
-            "version": "1.0",
-            "emoji": "👑",
-            "files": {
-                "es": "full_hands_king_es_001.json",
-                "en": "full_hands_king_en_001.json",
-                "pt": "full_hands_king_pt_001.json",
-                "fr": "full_hands_king_fr_001.json",
-                "ja": "full_hands_king_ja_001.json",
-                "zh": "full_hands_king_zh_001.json"
-            },
-            "titles": {
-                "es": "Manos Llenas para el Rey",
-                "en": "Full Hands for the King",
-                "pt": "Mãos Cheias para o Rei",
-                "fr": "Mains Pleines pour le Roi",
-                "ja": "王のための満たされた手",
-                "zh": "为王预备满手"
-            },
-            "subtitles": {
-                "es": "Cuando el Alfa y la Omega trae su recompensa",
-                "en": "When the Alpha and Omega brings His reward",
-                "pt": "Quando o Alfa e o Ômega traz sua recompensa",
-                "fr": "Quand l'Alpha et l'Oméga apporte sa récompense",
-                "ja": "アルファとオメガが報いをもって来られるとき",
-                "zh": "当阿拉法和俄梅戛带着祂的赏赐而来"
-            },
-            "estimated_reading_minutes": {
-                "es": 7,
-                "en": 7,
-                "pt": 7,
-                "fr": 7,
-                "ja": 7,
-                "zh": 7
-            }
-        }
-    ]
+  "studies": [
+    {
+      "id": "morning_star_001",
+      "version": "1.3",
+      "emoji": "🌟",
+      "files": {
+        "es": "morning_star_es_001.json",
+        "en": "morning_star_en_001.json",
+        "pt": "morning_star_pt_001.json",
+        "fr": "morning_star_fr_001.json",
+        "ja": "morning_star_ja_001.json",
+        "zh": "morning_star_zh_001.json",
+        "hi": "morning_star_hi_001.json"
+      },
+      "titles": {
+        "es": "Estrella de la Mañana",
+        "en": "The Herald of Light",
+        "pt": "O Arauto da Luz",
+        "fr": "Le Héraut de la Lumière",
+        "ja": "光の使者",
+        "zh": "晨星",
+        "hi": "प्रकाश का संदेशवाहक"
+      },
+      "subtitles": {
+        "es": "El testimonio más poderoso sobre la identidad de Jesús",
+        "en": "The eternal connection between creation, prophecy, and your heart",
+        "pt": "A conexão eterna entre criação, profecia e seu coração",
+        "fr": "Le lien éternel entre la création, la prophétie et votre cœur",
+        "ja": "創造、預言、そしてあなたの心の間の永遠のつながり",
+        "zh": "创造、预言与你心灵的永恒连结",
+        "hi": "सृष्टि, भविष्यवाणी और आपके हृदय के बीच का शाश्वत संबंध"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6,
+        "pt": 6,
+        "fr": 6,
+        "ja": 6,
+        "zh": 6,
+        "hi": 6
+      }
+    },
+    {
+      "id": "hammer_of_god_001",
+      "version": "1.0",
+      "emoji": "🔨",
+      "files": {
+        "es": "hammer_of_god_es_001.json",
+        "en": "hammer_of_god_en_001.json",
+        "fr": "hammer_of_god_fr_001.json",
+        "pt": "hammer_of_god_pt_001.json",
+        "ja": "hammer_of_god_ja_001.json",
+        "zh": "hammer_of_god_zh_001.json",
+        "hi": "hammer_of_god_hi_001.json"
+      },
+      "titles": {
+        "es": "El Martillo de Dios",
+        "en": "The Hammer of God",
+        "fr": "Le Marteau de Dieu",
+        "pt": "O Martelo de Deus",
+        "ja": "神のハンマー",
+        "zh": "神的锤子",
+        "hi": "परमेश्वर का हथौड़ा"
+      },
+      "subtitles": {
+        "es": "De ejecutores del juicio a adoradores del Mesías: La historia redentora de los Medos",
+        "en": "From executors of judgment to worshipers of the Messiah: The redemptive story of the Medes",
+        "fr": "D'exécuteurs du jugement à adorateurs du Messie: L'histoire rédemptrice des Mèdes",
+        "pt": "De executores do juízo a adoradores do Messias: A história redentora dos Medos",
+        "ja": "裁きの執行者から救い主の礼拝者へ：メディア人の贖いの物語",
+        "zh": "从审判的执行者到弥赛亚的敬拜者：玛代人的救赎故事",
+        "hi": "न्याय के निष्पादकों से मसीहा के उपासकों तक: मादियों की छुटकारे की कहानी"
+      },
+      "estimated_reading_minutes": {
+        "es": 8,
+        "en": 8,
+        "fr": 8,
+        "pt": 8,
+        "ja": 8,
+        "zh": 8,
+        "hi": 8
+      }
+    },
+    {
+      "id": "balaam_humble_vision_001",
+      "version": "1.1",
+      "emoji": "🫏",
+      "files": {
+        "es": "balaam_humble_vision_es_001.json",
+        "en": "balaam_humble_vision_en_001.json",
+        "fr": "balaam_humble_vision_fr_001.json",
+        "pt": "balaam_humble_vision_pt_001.json",
+        "ja": "balaam_humble_vision_ja_001.json",
+        "zh": "balaam_humble_vision_zh_001.json",
+        "hi": "balaam_humble_vision_hi_001.json"
+      },
+      "titles": {
+        "es": "Cuando la Burra Vio al Ángel y el Profeta Estaba Ciego",
+        "en": "When the Donkey Saw the Angel and the Prophet Was Blind",
+        "fr": "Quand l'Ânesse Vit l'Ange et le Prophète Était Aveugle",
+        "pt": "Quando a Jumenta Viu o Anjo e o Profeta Estava Cego",
+        "ja": "ろばが天使を見て預言者が盲目だったとき",
+        "zh": "当驴看见天使而先知却瞎眼时",
+        "hi": "जब गधी ने स्वर्गदूत को देखा और भविष्यवक्ता अंधा था"
+      },
+      "subtitles": {
+        "es": "La advertencia más solemne sobre revelación sin transformación",
+        "en": "The most solemn warning about revelation without transformation",
+        "fr": "L'avertissement le plus solennel sur la révélation sans transformation",
+        "pt": "A advertência mais solene sobre revelação sem transformação",
+        "ja": "変革のない啓示についての最も厳粛な警告",
+        "zh": "关于没有改变的启示最严肃的警告",
+        "hi": "प्रकाशन के बिना परिवर्तन के बारे में सबसे गंभीर चेतावनी"
+      },
+      "estimated_reading_minutes": {
+        "es": 8,
+        "en": 8,
+        "fr": 8,
+        "pt": 8,
+        "ja": 8,
+        "zh": 8,
+        "hi": 8
+      }
+    },
+    {
+      "id": "logos_creation_001",
+      "version": "1.1",
+      "emoji": "📖",
+      "files": {
+        "es": "logos_creation_es_001.json",
+        "en": "logos_creation_en_001.json",
+        "pt": "logos_creation_pt_001.json",
+        "fr": "logos_creation_fr_001.json",
+        "ja": "logos_creation_ja_001.json",
+        "zh": "logos_creation_zh_001.json",
+        "hi": "logos_creation_hi_001.json"
+      },
+      "titles": {
+        "es": "En el Principio era el Verbo",
+        "en": "In the Beginning was the Word",
+        "pt": "No Princípio Era o Verbo",
+        "fr": "Au commencement était la Parole",
+        "ja": "初めに、ことばがあった",
+        "zh": "太初有道",
+        "hi": "आदि में वचन था"
+      },
+      "subtitles": {
+        "es": "Cuando Juan declara que Jesús es el Logos eterno que creó todas las cosas",
+        "en": "When John declares that Jesus is the eternal Logos who created all things",
+        "pt": "Quando João declara que Jesus é o Logos eterno que criou todas as coisas",
+        "fr": "Lorsque Jean déclare que Jésus est le Logos éternel qui a créé toutes choses",
+        "ja": "ヨハネがイエスはすべてのものを創造した永遠のロゴスであると宣言するとき",
+        "zh": "当约翰宣告耶稣是创造万有的永恒之道",
+        "hi": "जब यूहन्ना घोषणा करता है कि यीशु शाश्वत लोगॉस है जिसने सब कुछ सृजा"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6,
+        "pt": 5,
+        "fr": 5,
+        "ja": 5,
+        "zh": 5,
+        "hi": 5
+      }
+    },
+    {
+      "id": "lamb_of_god_001",
+      "version": "1.1",
+      "emoji": "🐑",
+      "files": {
+        "es": "lamb_of_god_es_001.json",
+        "en": "lamb_of_god_en_001.json",
+        "pt": "lamb_of_god_pt_001.json",
+        "fr": "lamb_of_god_fr_001.json",
+        "ja": "lamb_of_god_ja_001.json",
+        "zh": "lamb_of_god_zh_001.json",
+        "hi": "lamb_of_god_hi_001.json"
+      },
+      "titles": {
+        "es": "El Cordero de Dios",
+        "en": "The Lamb of God",
+        "pt": "O Cordeiro de Deus",
+        "fr": "L'Agneau de Dieu",
+        "ja": "神の小羊",
+        "zh": "神的羔羊",
+        "hi": "परमेश्वर का मेम्ना"
+      },
+      "subtitles": {
+        "es": "La culminación de 1,500 años de sistema sacrificial en una sola declaración",
+        "en": "The culmination of 1,500 years of sacrificial system in a single declaration",
+        "pt": "A culminação de 1.500 anos de sistema sacrificial em uma única declaração",
+        "fr": "L'aboutissement de 1 500 ans de système sacrificiel en une seule déclaration",
+        "ja": "1,500年の犠牲システムが一つの宣言で頂点に達する",
+        "zh": "1500年献祭制度在一句宣告中的顶点",
+        "hi": "एक एकमात्र घोषणा में 1,500 वर्षों की बलिदान प्रणाली की परिणति"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 5,
+        "pt": 5,
+        "fr": 5,
+        "ja": 5,
+        "zh": 5,
+        "hi": 5
+      }
+    },
+    {
+      "id": "natanael_fig_tree_001",
+      "version": "1.1",
+      "emoji": "🌳",
+      "files": {
+        "es": "natanael_fig_tree_es_001.json",
+        "en": "natanael_fig_tree_en_001.json",
+        "pt": "natanael_fig_tree_pt_001.json",
+        "fr": "natanael_fig_tree_fr_001.json",
+        "ja": "natanael_fig_tree_ja_001.json",
+        "zh": "natanael_fig_tree_zh_001.json",
+        "hi": "natanael_fig_tree_hi_001.json"
+      },
+      "titles": {
+        "es": "Debajo de la Higuera",
+        "en": "Under the Fig Tree",
+        "pt": "Debaixo da Figueira",
+        "fr": "Sous le Figuier",
+        "ja": "いちじくの木の下で",
+        "zh": "在无花果树下",
+        "hi": "अंजीर के पेड़ के नीचे"
+      },
+      "subtitles": {
+        "es": "El encuentro donde Jesús revela que conoce tus secretos más profundos",
+        "en": "The encounter where Jesus reveals He knows your deepest secrets",
+        "pt": "O encontro onde Jesus revela que conhece seus segredos mais profundos",
+        "fr": "La rencontre où Jésus révèle qu'Il connaît vos secrets les plus profonds",
+        "ja": "イエスがあなたの最も深い秘密を知っていることを明かす出会い",
+        "zh": "耶稣显明他知道你内心深处秘密的相遇",
+        "hi": "वह मुलाकात जहां यीशु प्रकट करता है कि वह आपके गहरे रहस्यों को जानता है"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 5,
+        "pt": 5,
+        "fr": 5,
+        "ja": 5,
+        "zh": 5,
+        "hi": 5
+      }
+    },
+    {
+      "id": "cana_wedding_001",
+      "version": "1.2",
+      "emoji": "👰‍♀️",
+      "files": {
+        "es": "cana_wedding_es_001.json",
+        "en": "cana_wedding_en_001.json",
+        "pt": "cana_wedding_pt_001.json",
+        "fr": "cana_wedding_fr_001.json",
+        "hi": "cana_wedding_hi_001.json",
+        "ja": "cana_wedding_ja_001.json",
+        "zh": "cana_wedding_zh_001.json"
+      },
+      "titles": {
+        "es": "Las Bodas de Caná",
+        "en": "The Wedding at Cana",
+        "pt": "As Bodas de Caná",
+        "fr": "Les noces de Cana",
+        "hi": "काना का विवाह",
+        "ja": "カナの婚礼",
+        "zh": "迦拿的婚筵"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús convierte lo ordinario en extraordinario",
+        "en": "When Jesus turns the ordinary into extraordinary",
+        "pt": "Quando Jesus transforma o ordinário em extraordinário",
+        "fr": "Quand Jésus transforme l'ordinaire en extraordinaire",
+        "hi": "जब यीशु सामान्य को असाधारण में बदल देता है",
+        "ja": "イエスが普通のものを特別なものに変えるとき",
+        "zh": "当耶稣将平凡变为非凡"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 5,
+        "pt": 5,
+        "fr": 5,
+        "hi": 5,
+        "ja": 5,
+        "zh": 5
+      }
+    },
+    {
+      "id": "born_again_001",
+      "version": "1.1",
+      "emoji": "🍃",
+      "files": {
+        "es": "born_again_es_001.json",
+        "en": "born_again_en_001.json",
+        "pt": "born_again_pt_001.json",
+        "fr": "born_again_fr_001.json",
+        "ja": "born_again_ja_001.json",
+        "zh": "born_again_zh_001.json"
+      },
+      "titles": {
+        "es": "Es Necesario Nacer de Nuevo",
+        "en": "You Must Be Born Again",
+        "pt": "Vós Tendes de Nascer de Novo",
+        "fr": "Il faut que vous naissiez de nouveau",
+        "ja": "新しく生まれなければならない",
+        "zh": "你必须重生"
+      },
+      "subtitles": {
+        "es": "El misterio del nuevo nacimiento espiritual revelado",
+        "en": "The mystery of spiritual rebirth revealed",
+        "pt": "Quando o mestre de Israel descobre que sua religião não é suficiente",
+        "fr": "Quand le maître d'Israël découvre que sa religion ne suffit pas",
+        "ja": "イスラエルの教師が、自分の宗教では不十分であることを発見したとき",
+        "zh": "当以色列的教师发现他的宗教并不足够"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6,
+        "pt": 5,
+        "fr": 5,
+        "ja": 5,
+        "zh": 5
+      }
+    },
+    {
+      "id": "temple_cleansing_001",
+      "version": "1.1",
+      "emoji": "🔥",
+      "files": {
+        "es": "temple_cleansing_es_001.json",
+        "en": "temple_cleansing_en_001.json",
+        "pt": "temple_cleansing_pt_001.json",
+        "fr": "temple_cleansing_fr_001.json",
+        "ja": "temple_cleansing_ja_001.json",
+        "zh": "temple_cleansing_zh_001.json"
+      },
+      "titles": {
+        "es": "La Purificación del Templo",
+        "en": "The Cleansing of the Temple",
+        "pt": "A Purificação do Templo",
+        "fr": "La Purification du Temple",
+        "ja": "神殿の清め",
+        "zh": "洁净圣殿"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús declara que Él es el Templo verdadero",
+        "en": "When Jesus declares that He is the true Temple",
+        "pt": "Quando Jesus declara que Ele é o verdadeiro Templo",
+        "fr": "Quand Jésus déclare qu'Il est le véritable Temple",
+        "ja": "イエスが御霊自身が真の神殿であると宣言するとき",
+        "zh": "耶稣宣告自己是真正的圣殿"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6,
+        "pt": 6,
+        "fr": 6,
+        "ja": 6,
+        "zh": 6
+      }
+    },
+    {
+      "id": "woman_at_well_001",
+      "version": "1.1",
+      "emoji": "⛲",
+      "files": {
+        "es": "woman_at_well_es_001.json",
+        "en": "woman_at_well_en_001.json",
+        "fr": "woman_at_well_fr_001.json",
+        "pt": "woman_at_well_pt_001.json",
+        "ja": "woman_at_well_ja_001.json",
+        "zh": "woman_at_well_zh_001.json"
+      },
+      "titles": {
+        "es": "La Mujer del Pozo",
+        "en": "The Woman at the Well",
+        "fr": "La Femme au Puits",
+        "pt": "A Mulher no Poço",
+        "ja": "井戸の女",
+        "zh": "井边的妇人"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús rompe todas las barreras por una conversación que cambiará una ciudad",
+        "en": "When Jesus breaks every barrier for a conversation that will transform a city",
+        "fr": "Quand Jésus brise toutes les barrières pour une conversation qui transformera une ville",
+        "pt": "Quando Jesus quebra todas as barreiras por uma conversa que mudará uma cidade",
+        "ja": "イエスがすべての壁を打ち破り、町を変える会話をする時",
+        "zh": "当耶稣打破一切隔阂，带来改变城市的对话"
+      },
+      "estimated_reading_minutes": {
+        "es": 5,
+        "en": 5,
+        "fr": 5,
+        "pt": 5,
+        "ja": 5,
+        "zh": 5
+      }
+    },
+    {
+      "id": "i_am_before_abraham_001",
+      "version": "1.0",
+      "emoji": "⚡",
+      "files": {
+        "es": "i_am_before_abraham_es_001.json",
+        "en": "i_am_before_abraham_en_001.json",
+        "pt": "i_am_before_abraham_pt_001.json",
+        "fr": "i_am_before_abraham_fr_001.json",
+        "ja": "i_am_before_abraham_ja_001.json",
+        "zh": "i_am_before_abraham_zh_001.json"
+      },
+      "titles": {
+        "es": "YO SOY: Antes que Abraham Fuese",
+        "en": "I AM: Before Abraham Was",
+        "pt": "EU SOU: Antes que Abraão Existisse",
+        "fr": "JE SUIS : Avant qu'Abraham Fût",
+        "ja": "わたしはある：アブラハムが生まれる前から",
+        "zh": "我是：在亚伯拉罕出生以前"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús reclama eternidad y la multitud toma piedras",
+        "en": "When Jesus claims eternity and the mob grabs stones",
+        "pt": "Quando Jesus reivindica a eternidade e a multidão pega pedras",
+        "fr": "Quand Jésus revendique l'éternité et la foule saisit des pierres",
+        "ja": "イエスが永遠性を主張し、群衆が石を取り上げたとき",
+        "zh": "当耶稣宣称永恒，而众人拿起石头"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6,
+        "pt": 6,
+        "fr": 6,
+        "ja": 6,
+        "zh": 6
+      }
+    },
+    {
+      "id": "good_shepherd_001",
+      "version": "1.0",
+      "emoji": "🐑",
+      "files": {
+        "es": "good_shepherd_es_001.json",
+        "en": "good_shepherd_en_001.json",
+        "pt": "good_shepherd_pt_001.json",
+        "fr": "good_shepherd_fr_001.json",
+        "ja": "good_shepherd_ja_001.json",
+        "zh": "good_shepherd_zh_001.json"
+      },
+      "titles": {
+        "es": "El Buen Pastor",
+        "en": "The Good Shepherd",
+        "pt": "O Bom Pastor",
+        "fr": "Le Bon Berger",
+        "ja": "良い羊飼い",
+        "zh": "好牧人"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús declara que conoce a sus ovejas por nombre",
+        "en": "When Jesus declares He knows His sheep by name",
+        "pt": "Quando Jesus declara que conhece Suas ovelhas pelo nome",
+        "fr": "Quand Jésus déclare qu'Il connaît Ses brebis par leur nom",
+        "ja": "イエスが羊を名前で知っていると宣言するとき",
+        "zh": "当耶稣宣告祂按名认识祂的羊"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6,
+        "pt": 6,
+        "fr": 6,
+        "ja": 6,
+        "zh": 6
+      }
+    },
+    {
+      "id": "jesus_troubled_himself_001",
+      "version": "1.0",
+      "emoji": "😢",
+      "files": {
+        "es": "jesus_troubled_himself_es_001.json",
+        "en": "jesus_troubled_himself_en_001.json",
+        "pt": "jesus_troubled_himself_pt_001.json",
+        "fr": "jesus_troubled_himself_fr_001.json",
+        "ja": "jesus_troubled_himself_ja_001.json",
+        "zh": "jesus_troubled_himself_zh_001.json"
+      },
+      "titles": {
+        "es": "Se Turbó a Sí Mismo",
+        "en": "He Troubled Himself",
+        "pt": "Ele Se Perturbou",
+        "fr": "Il Se Troubla Lui-même",
+        "ja": "御霊自身を悩まされた",
+        "zh": "他使自己心里悲叹"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús eligió entrar en nuestro dolor",
+        "en": "When Jesus chose to enter our pain",
+        "pt": "Quando Jesus escolheu entrar em nossa dor",
+        "fr": "Quand Jésus a choisi d'entrer dans notre douleur",
+        "ja": "イエスが私たちの痛みに入ることを選ばれたとき",
+        "zh": "当耶稣选择进入我们的痛苦"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "passed_from_death_001",
+      "version": "1.2",
+      "emoji": "🔄",
+      "files": {
+        "es": "passed_from_death_es_001.json",
+        "en": "passed_from_death_en_001.json",
+        "pt": "passed_from_death_pt_001.json",
+        "fr": "passed_from_death_fr_001.json",
+        "ja": "passed_from_death_ja_001.json",
+        "zh": "passed_from_death_zh_001.json"
+      },
+      "titles": {
+        "es": "Pasados de Muerte a Vida",
+        "en": "Passed from Death to Life",
+        "pt": "Passados de Morte para Vida",
+        "fr": "Passé de la Mort à la Vie",
+        "ja": "死からいのちへ渡された",
+        "zh": "从死到生"
+      },
+      "subtitles": {
+        "es": "La revelación final: ya no puedes 'des-nacer'",
+        "en": "The final revelation: you cannot 'un-birth' yourself",
+        "pt": "A revelação final: você não pode 'des-nascer'",
+        "fr": "La révélation finale : vous ne pouvez pas 'dé-naître'",
+        "ja": "最終的な啓示：あなたは自分を「生まれなかったこと」にできない",
+        "zh": "最终的启示：你不能'不出生'"
+      },
+      "estimated_reading_minutes": {
+        "es": 8,
+        "en": 8,
+        "pt": 8,
+        "fr": 8,
+        "ja": 8,
+        "zh": 8
+      }
+    },
+    {
+      "id": "transfiguration_001",
+      "version": "1.0",
+      "emoji": "⛰️",
+      "files": {
+        "es": "transfiguration_es_001.json",
+        "en": "transfiguration_en_001.json",
+        "pt": "transfiguration_pt_001.json",
+        "fr": "transfiguration_fr_001.json",
+        "ja": "transfiguration_ja_001.json",
+        "zh": "transfiguration_zh_001.json"
+      },
+      "titles": {
+        "es": "La Transfiguración",
+        "en": "The Transfiguration",
+        "pt": "A Transfiguração",
+        "fr": "La Transfiguration",
+        "ja": "変貌",
+        "zh": "登山变像"
+      },
+      "subtitles": {
+        "es": "Cuando el velo de la carne se abre y la gloria irrumpe",
+        "en": "When the veil of flesh opens and glory breaks through",
+        "pt": "Quando o véu da carne se abre e a glória irrompe",
+        "fr": "Quand le voile de la chair s'ouvre et la gloire éclate",
+        "ja": "肉の覆いが開かれ、栄光が輝き出るとき",
+        "zh": "当肉身的幔子揭开，荣耀突破而出"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "buried_talent_001",
+      "version": "1.1",
+      "emoji": "💰",
+      "files": {
+        "es": "buried_talent_es_001.json",
+        "en": "buried_talent_en_001.json",
+        "pt": "buried_talent_pt_001.json",
+        "fr": "buried_talent_fr_001.json",
+        "ja": "buried_talent_ja_001.json",
+        "zh": "buried_talent_zh_001.json"
+      },
+      "titles": {
+        "es": "El Talento Enterrado",
+        "en": "The Buried Talent",
+        "pt": "O Talento Enterrado",
+        "fr": "Le Talent Enfoui",
+        "ja": "埋められたタラント",
+        "zh": "被埋葬的他连得"
+      },
+      "subtitles": {
+        "es": "Cuando el miedo paraliza y las manos quedan vacías",
+        "en": "When fear paralyzes and hands remain empty",
+        "pt": "Quando o medo paralisa e as mãos ficam vazias",
+        "fr": "Quand la peur paralyse et que les mains restent vides",
+        "ja": "恐れが麻痺させ、手が空になるとき",
+        "zh": "当恐惧使人瘫痪,双手空空如也"
+      },
+      "estimated_reading_minutes": {
+        "es": 8,
+        "en": 8,
+        "pt": 8,
+        "fr": 8,
+        "ja": 8,
+        "zh": 8
+      }
+    },
+    {
+      "id": "triumphal_entry_001",
+      "version": "1.0",
+      "emoji": "🌴",
+      "files": {
+        "es": "triumphal_entry_es_001.json",
+        "en": "triumphal_entry_en_001.json",
+        "fr": "triumphal_entry_fr_001.json",
+        "pt": "triumphal_entry_pt_001.json",
+        "ja": "triumphal_entry_ja_001.json",
+        "zh": "triumphal_entry_zh_001.json"
+      },
+      "titles": {
+        "es": "La Entrada Triunfal",
+        "en": "The Triumphal Entry",
+        "fr": "L'Entrée Triomphale",
+        "pt": "A Entrada Triunfal",
+        "ja": "勝利の入城",
+        "zh": "荣入圣城"
+      },
+      "subtitles": {
+        "es": "Cuando el Rey rechazado entra a Jerusalén montado en un pollino, no en un caballo de guerra",
+        "en": "When the rejected King enters Jerusalem riding on a donkey, not a warhorse",
+        "fr": "Quand le Roi rejeté entre à Jérusalem monté sur un ânon, pas sur un cheval de guerre",
+        "pt": "Quando o Rei rejeitado entra em Jerusalém montado em um jumentinho, não em um cavalo de guerra",
+        "ja": "拒絶された王が、軍馬ではなくろばに乗ってエルサレムに入られる時",
+        "zh": "当被拒绝的王骑着驴驹而非战马进入耶路撒冷"
+      },
+      "estimated_reading_minutes": {
+        "es": 5,
+        "en": 5,
+        "fr": 5,
+        "pt": 5,
+        "ja": 5,
+        "zh": 5
+      }
+    },
+    {
+      "id": "gethsemane_agony_001",
+      "version": "1.2",
+      "emoji": "🫒",
+      "files": {
+        "es": "gethsemane_agony_es_001.json",
+        "en": "gethsemane_agony_en_001.json",
+        "pt": "gethsemane_agony_pt_001.json",
+        "fr": "gethsemane_agony_fr_001.json",
+        "ja": "gethsemane_agony_ja_001.json",
+        "zh": "gethsemane_agony_zh_001.json"
+      },
+      "titles": {
+        "es": "La Agonía del Testador",
+        "en": "The Agony of the Testator",
+        "pt": "A Agonia do Testador",
+        "fr": "L'Agonie du Testateur",
+        "ja": "遺言者の苦悶",
+        "zh": "立约者的痛苦"
+      },
+      "subtitles": {
+        "es": "Cuando el Hijo de Dios suda sangre en la prensa de aceite",
+        "en": "When the Son of God sweats blood in the olive press",
+        "pt": "Quando o Filho de Deus sua sangue no lagar de azeite",
+        "fr": "Quand le Fils de Dieu sue du sang dans le pressoir à olives",
+        "ja": "神の御子がオリーブの圧搾器で血の汗を流すとき",
+        "zh": "当神的儿子在橄榄压榨机中流出血汗时"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "new_covenant_cup_001",
+      "version": "1.2",
+      "emoji": "🍷",
+      "files": {
+        "es": "new_covenant_cup_es_001.json",
+        "en": "new_covenant_cup_en_001.json",
+        "pt": "new_covenant_cup_pt_001.json",
+        "fr": "new_covenant_cup_fr_001.json",
+        "ja": "new_covenant_cup_ja_001.json",
+        "zh": "new_covenant_cup_zh_001.json"
+      },
+      "titles": {
+        "es": "La Copa del Nuevo Pacto",
+        "en": "The Cup of the New Covenant",
+        "pt": "A Taça da Nova Aliança",
+        "fr": "La Coupe de la Nouvelle Alliance",
+        "ja": "新しい契約の杯",
+        "zh": "新约的杯"
+      },
+      "subtitles": {
+        "es": "Cuando el Testador firma con su sangre el testamento de nuestra libertad",
+        "en": "When the Testator signs with his blood the testament of our freedom",
+        "pt": "Quando o Testador assina com seu sangue o testamento de nossa liberdade",
+        "fr": "Quand le Testateur signe de son sang le testament de notre liberté",
+        "ja": "遺言者が私たちの自由の遺言を血で署名するとき",
+        "zh": "当立约者用他的血签署我们自由的遗嘱时"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "cup_of_wrath_001",
+      "version": "1.3",
+      "emoji": "😱",
+      "files": {
+        "es": "cup_of_wrath_es_001.json",
+        "en": "cup_of_wrath_en_001.json",
+        "pt": "cup_of_wrath_pt_001.json",
+        "fr": "cup_of_wrath_fr_001.json",
+        "ja": "cup_of_wrath_ja_001.json",
+        "zh": "cup_of_wrath_zh_001.json"
+      },
+      "titles": {
+        "es": "La Copa de la Ira",
+        "en": "The Cup of Wrath",
+        "pt": "A Taça da Ira",
+        "fr": "La Coupe de la Colère",
+        "ja": "怒りの杯",
+        "zh": "忿怒的杯"
+      },
+      "subtitles": {
+        "es": "Cuando el Inocente bebe el juicio que nos correspondía",
+        "en": "When the Innocent drinks the judgment that belonged to us",
+        "pt": "Quando o Inocente bebe o juízo que nos pertencia",
+        "fr": "Quand l'Innocent boit le jugement qui nous appartenait",
+        "ja": "無実の方が私たちに属していた裁きを飲むとき",
+        "zh": "当无辜者喝下属于我们的审判时"
+      },
+      "estimated_reading_minutes": {
+        "es": 8,
+        "en": 8,
+        "pt": 8,
+        "fr": 8,
+        "ja": 8,
+        "zh": 8
+      }
+    },
+    {
+      "id": "veil_torn_001",
+      "version": "1.3",
+      "emoji": "🏛️",
+      "files": {
+        "es": "veil_torn_es_001.json",
+        "en": "veil_torn_en_001.json",
+        "pt": "veil_torn_pt_001.json",
+        "fr": "veil_torn_fr_001.json",
+        "ja": "veil_torn_ja_001.json",
+        "zh": "veil_torn_zh_001.json"
+      },
+      "titles": {
+        "es": "El Velo Rasgado",
+        "en": "The Torn Veil",
+        "pt": "O Véu Rasgado",
+        "fr": "Le Voile Déchiré",
+        "ja": "裂け分かれた幕",
+        "zh": "裂开的幔子"
+      },
+      "subtitles": {
+        "es": "Cuando Dios abre el camino al Lugar Santísimo",
+        "en": "When God opens the way to the Holy of Holies",
+        "pt": "Quando Deus abre o caminho para o Santo dos Santos",
+        "fr": "Quand Dieu ouvre le chemin vers le Saint des Saints",
+        "ja": "神が至聖所への道を開くとき",
+        "zh": "当神开辟通往至圣所的道路时"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "saints_resurrected_001",
+      "version": "1.2",
+      "emoji": "⚰️",
+      "files": {
+        "es": "saints_resurrected_es_001.json",
+        "en": "saints_resurrected_en_001.json",
+        "pt": "saints_resurrected_pt_001.json",
+        "fr": "saints_resurrected_fr_001.json",
+        "ja": "saints_resurrected_ja_001.json",
+        "zh": "saints_resurrected_zh_001.json"
+      },
+      "titles": {
+        "es": "Los Santos Resucitados",
+        "en": "The Resurrected Saints",
+        "pt": "Os Santos Ressuscitados",
+        "fr": "Les Saints Ressuscités",
+        "ja": "よみがえった聖人たち",
+        "zh": "复活的圣徒"
+      },
+      "subtitles": {
+        "es": "Cuando la muerte de Cristo liberó a los cautivos del Hades",
+        "en": "When Christ's death freed the captives from Hades",
+        "pt": "Quando a morte de Cristo libertou os cativos do Hades",
+        "fr": "Quand la mort du Christ a libéré les captifs de l'Hadès",
+        "ja": "キリストの死がハデスの捕虜を解放したとき",
+        "zh": "当基督的死释放了阴间的囚徒时"
+      },
+      "estimated_reading_minutes": {
+        "es": 8,
+        "en": 8,
+        "pt": 8,
+        "fr": 8,
+        "ja": 8,
+        "zh": 8
+      }
+    },
+    {
+      "id": "breath_new_adam_001",
+      "version": "1.0",
+      "emoji": "☁️",
+      "files": {
+        "es": "breath_new_adam_es_001.json",
+        "en": "breath_new_adam_en_001.json",
+        "pt": "breath_new_adam_pt_001.json",
+        "fr": "breath_new_adam_fr_001.json",
+        "ja": "breath_new_adam_ja_001.json",
+        "zh": "breath_new_adam_zh_001.json"
+      },
+      "titles": {
+        "es": "El Soplo del Nuevo Adán",
+        "en": "The Breath of the New Adam",
+        "pt": "O Sopro do Novo Adão",
+        "fr": "Le Souffle du Nouvel Adam",
+        "ja": "新しいアダムの息",
+        "zh": "新亚当的气息"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús reconecta al hombre con Dios",
+        "en": "When Jesus reconnects man with God",
+        "pt": "Quando Jesus reconecta o homem com Deus",
+        "fr": "Quand Jésus reconnecte l'homme avec Dieu",
+        "ja": "イエスが人を神と再びつなぐとき",
+        "zh": "当耶稣将人与神重新连接"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "road_to_emmaus_001",
+      "version": "1.2",
+      "emoji": "🚶",
+      "files": {
+        "es": "road_to_emmaus_es_001.json",
+        "en": "road_to_emmaus_en_001.json",
+        "pt": "road_to_emmaus_pt_001.json",
+        "fr": "road_to_emmaus_fr_001.json",
+        "ja": "road_to_emmaus_ja_001.json",
+        "zh": "road_to_emmaus_zh_001.json"
+      },
+      "titles": {
+        "es": "El Camino a Emaús",
+        "en": "The Road to Emmaus",
+        "pt": "O Caminho de Emaús",
+        "fr": "Le Chemin d'Emmaüs",
+        "ja": "エマオへの道",
+        "zh": "去以马忤斯的路上"
+      },
+      "subtitles": {
+        "es": "Cuando el Cristo resucitado camina contigo sin que lo reconozcas, hasta que parte el pan",
+        "en": "When the risen Christ walks with you unrecognized, until He breaks the bread",
+        "pt": "Quando o Cristo ressuscitado caminha com você sem ser reconhecido, até partir o pão",
+        "fr": "Quand le Christ ressuscité marche avec vous sans être reconnu, jusqu'à la fraction du pain",
+        "ja": "復活したキリストがあなたと共に歩んでいるのに、パンを裂くまで気づかない時",
+        "zh": "当复活的基督与你同行却未被认出，直到祂擘饼"
+      },
+      "estimated_reading_minutes": {
+        "es": 10,
+        "en": 10,
+        "pt": 10,
+        "fr": 10,
+        "ja": 10,
+        "zh": 10
+      }
+    },
+    {
+      "id": "restoration_by_fire_001",
+      "version": "1.0",
+      "emoji": "🔥",
+      "files": {
+        "es": "restoration_by_fire_es_001.json",
+        "en": "restoration_by_fire_en_001.json",
+        "pt": "restoration_by_fire_pt_001.json",
+        "fr": "restoration_by_fire_fr_001.json",
+        "ja": "restoration_by_fire_ja_001.json",
+        "zh": "restoration_by_fire_zh_001.json"
+      },
+      "titles": {
+        "es": "Las Brasas de la Restauración",
+        "en": "The Coals of Restoration",
+        "pt": "As Brasas da Restauração",
+        "fr": "Les Braises de la Restauration",
+        "ja": "回復の炭火",
+        "zh": "恢复的炭火"
+      },
+      "subtitles": {
+        "es": "Cuando el olor del fracaso se convierte en el aroma del perdón",
+        "en": "When the smell of failure becomes the aroma of forgiveness",
+        "pt": "Quando o cheiro do fracasso se torna o aroma do perdão",
+        "fr": "Quand l'odeur de l'échec devient l'arôme du pardon",
+        "ja": "失敗の匂いが赦しの香りになるとき",
+        "zh": "当失败的气味变成宽恕的芬芳"
+      },
+      "estimated_reading_minutes": {
+        "es": 9,
+        "en": 9,
+        "pt": 9,
+        "fr": 9,
+        "ja": 9,
+        "zh": 9
+      }
+    },
+    {
+      "id": "great_commission_001",
+      "version": "1.0",
+      "emoji": "🌍",
+      "files": {
+        "es": "great_commission_es_001.json",
+        "en": "great_commission_en_001.json",
+        "pt": "great_commission_pt_001.json",
+        "fr": "great_commission_fr_001.json",
+        "ja": "great_commission_ja_001.json",
+        "zh": "great_commission_zh_001.json"
+      },
+      "titles": {
+        "es": "La Gran Comisión",
+        "en": "The Great Commission",
+        "pt": "A Grande Comissão",
+        "fr": "La Grande Commission",
+        "ja": "大宣教命令",
+        "zh": "大使命"
+      },
+      "subtitles": {
+        "es": "Cuando Jesús transforma a seguidores en enviados",
+        "en": "When Jesus transforms followers into sent ones",
+        "pt": "Quando Jesus transforma seguidores em enviados",
+        "fr": "Quand Jésus transforme les disciples en envoyés",
+        "ja": "イエスが従う者を遣わされる者へと変える時",
+        "zh": "当耶稣将跟随者转变为奉差者"
+      },
+      "estimated_reading_minutes": {
+        "es": 6,
+        "en": 6,
+        "pt": 6,
+        "fr": 6,
+        "ja": 6,
+        "zh": 6
+      }
+    },
+    {
+      "id": "ascension_victory_001",
+      "version": "1.0",
+      "emoji": "☁️",
+      "files": {
+        "es": "ascension_victory_es_001.json",
+        "en": "ascension_victory_en_001.json",
+        "pt": "ascension_victory_pt_001.json",
+        "fr": "ascension_victory_fr_001.json",
+        "ja": "ascension_victory_ja_001.json",
+        "zh": "ascension_victory_zh_001.json"
+      },
+      "titles": {
+        "es": "La Ascensión Victoriosa",
+        "en": "The Victorious Ascension",
+        "pt": "A Ascensão Vitoriosa",
+        "fr": "L'Ascension victorieuse",
+        "ja": "勝利の昇天",
+        "zh": "得胜的升天"
+      },
+      "subtitles": {
+        "es": "Cuando el Rey conquista el trono y envía el Espíritu",
+        "en": "When the King conquers the throne and sends the Spirit",
+        "pt": "Quando o Rei conquista o trono e envia o Espírito",
+        "fr": "Quand le Roi conquiert le trône et envoie l'Esprit",
+        "ja": "王が御座を征服し、御霊を送られるとき",
+        "zh": "当君王得胜宝座并差遣圣灵"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "pentecost_power_001",
+      "version": "1.0",
+      "emoji": "🔥",
+      "files": {
+        "es": "pentecost_power_es_001.json",
+        "en": "pentecost_power_en_001.json",
+        "pt": "pentecost_power_pt_001.json",
+        "fr": "pentecost_power_fr_001.json",
+        "ja": "pentecost_power_ja_001.json",
+        "zh": "pentecost_power_zh_001.json"
+      },
+      "titles": {
+        "es": "El Poder de Pentecostés",
+        "en": "The Power of Pentecost",
+        "pt": "O Poder de Pentecostes",
+        "fr": "La puissance de la Pentecôte",
+        "ja": "ペンテコステの力",
+        "zh": "五旬节的能力"
+      },
+      "subtitles": {
+        "es": "Cuando el Espíritu Santo transforma cobardes en valientes",
+        "en": "When the Holy Spirit transforms cowards into the courageous",
+        "pt": "Quando o Espírito Santo transforma covardes em corajosos",
+        "fr": "Quand le Saint-Esprit transforme les lâches en courageux",
+        "ja": "聖霊が臆病者を勇敢な者へと変える時",
+        "zh": "当圣灵将懦夫转变为勇士"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "damascus_road_001",
+      "version": "1.0",
+      "emoji": "⚡",
+      "files": {
+        "es": "damascus_road_es_001.json",
+        "en": "damascus_road_en_001.json",
+        "pt": "damascus_road_pt_001.json",
+        "fr": "damascus_road_fr_001.json",
+        "ja": "damascus_road_ja_001.json",
+        "zh": "damascus_road_zh_001.json"
+      },
+      "titles": {
+        "es": "El Camino a Damasco",
+        "en": "The Road to Damascus",
+        "pt": "O Caminho para Damasco",
+        "fr": "Le chemin de Damas",
+        "ja": "ダマスコへの道",
+        "zh": "大马士革的路上"
+      },
+      "subtitles": {
+        "es": "Cuando la luz de Cristo derriba al perseguidor más feroz",
+        "en": "When the light of Christ strikes down the fiercest persecutor",
+        "pt": "Quando a luz de Cristo derruba o perseguidor mais feroz",
+        "fr": "Quand la lumière de Christ terrasse le plus féroce des persécuteurs",
+        "ja": "キリストの光が最も激しい迫害者を打ち倒す時",
+        "zh": "当基督的光击倒最凶猛的逼迫者"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "gold_silver_ashes_001",
+      "version": "1.0",
+      "emoji": "🔥",
+      "files": {
+        "es": "gold_silver_ashes_es_001.json",
+        "en": "gold_silver_ashes_en_001.json",
+        "pt": "gold_silver_ashes_pt_001.json",
+        "fr": "gold_silver_ashes_fr_001.json",
+        "ja": "gold_silver_ashes_ja_001.json",
+        "zh": "gold_silver_ashes_zh_001.json"
+      },
+      "titles": {
+        "es": "Oro, Plata o Cenizas",
+        "en": "Gold, Silver or Ashes",
+        "pt": "Ouro, Prata ou Cinzas",
+        "fr": "Or, Argent ou Cendres",
+        "ja": "金、銀、それとも灰",
+        "zh": "金银还是灰烬"
+      },
+      "subtitles": {
+        "es": "Cuando el fuego prueba la calidad de tu obra",
+        "en": "When fire tests the quality of your work",
+        "pt": "Quando o fogo prova a qualidade da sua obra",
+        "fr": "Quand le feu éprouve la qualité de ton œuvre",
+        "ja": "火があなたの働きの質を試すとき",
+        "zh": "当火试验你工作的质量"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    },
+    {
+      "id": "zechariah_14_return_001",
+      "version": "1.0",
+      "emoji": "⛰️",
+      "files": {
+        "es": "zechariah_14_return_es_001.json",
+        "en": "zechariah_14_return_en_001.json",
+        "fr": "zechariah_14_return_fr_001.json",
+        "pt": "zechariah_14_return_pt_001.json",
+        "ja": "zechariah_14_return_ja_001.json",
+        "zh": "zechariah_14_return_zh_001.json"
+      },
+      "titles": {
+        "es": "Zacarías 14: Cuando Sus Pies Toquen el Monte de los Olivos",
+        "en": "Zechariah 14: When His Feet Touch the Mount of Olives",
+        "fr": "Zacharie 14 : Quand Ses Pieds Toucheront le Mont des Oliviers",
+        "pt": "Zacarias 14: Quando Seus Pés Tocarem o Monte das Oliveiras",
+        "ja": "ゼカリヤ書14章:御足がオリーブ山に触れる時",
+        "zh": "撒迦利亚书14章：当祂的脚踏在橄榄山上"
+      },
+      "subtitles": {
+        "es": "El día en que el cielo desciende y la tierra es transformada",
+        "en": "The day when heaven descends and the earth is transformed",
+        "fr": "Le jour où le ciel descend et la terre est transformée",
+        "pt": "O dia em que o céu desce e a terra é transformada",
+        "ja": "天が降り、地が変えられる日",
+        "zh": "天降大地、地球转化的那一天"
+      },
+      "estimated_reading_minutes": {
+        "es": 9,
+        "en": 9,
+        "fr": 9,
+        "pt": 9,
+        "ja": 9,
+        "zh": 9
+      }
+    },
+    {
+      "id": "full_hands_king_001",
+      "version": "1.0",
+      "emoji": "👑",
+      "files": {
+        "es": "full_hands_king_es_001.json",
+        "en": "full_hands_king_en_001.json",
+        "pt": "full_hands_king_pt_001.json",
+        "fr": "full_hands_king_fr_001.json",
+        "ja": "full_hands_king_ja_001.json",
+        "zh": "full_hands_king_zh_001.json"
+      },
+      "titles": {
+        "es": "Manos Llenas para el Rey",
+        "en": "Full Hands for the King",
+        "pt": "Mãos Cheias para o Rei",
+        "fr": "Mains Pleines pour le Roi",
+        "ja": "王のための満たされた手",
+        "zh": "为王预备满手"
+      },
+      "subtitles": {
+        "es": "Cuando el Alfa y la Omega trae su recompensa",
+        "en": "When the Alpha and Omega brings His reward",
+        "pt": "Quando o Alfa e o Ômega traz sua recompensa",
+        "fr": "Quand l'Alpha et l'Oméga apporte sa récompense",
+        "ja": "アルファとオメガが報いをもって来られるとき",
+        "zh": "当阿拉法和俄梅戛带着祂的赏赐而来"
+      },
+      "estimated_reading_minutes": {
+        "es": 7,
+        "en": 7,
+        "pt": 7,
+        "fr": 7,
+        "ja": 7,
+        "zh": 7
+      }
+    }
+  ]
 }
