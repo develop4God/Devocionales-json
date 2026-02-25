@@ -744,7 +744,8 @@
         "pt": "new_covenant_cup_pt_001.json",
         "fr": "new_covenant_cup_fr_001.json",
         "ja": "new_covenant_cup_ja_001.json",
-        "zh": "new_covenant_cup_zh_001.json"
+        "zh": "new_covenant_cup_zh_001.json",
+        "hi": "new_covenant_cup_hi_001.json"
       },
       "titles": {
         "es": "La Copa del Nuevo Pacto",
@@ -752,7 +753,8 @@
         "pt": "A Taça da Nova Aliança",
         "fr": "La Coupe de la Nouvelle Alliance",
         "ja": "新しい契約の杯",
-        "zh": "新约的杯"
+        "zh": "新约的杯",
+        "hi": "नई वाचा का कटोरा"
       },
       "subtitles": {
         "es": "Cuando el Testador firma con su sangre el testamento de nuestra libertad",
@@ -760,7 +762,8 @@
         "pt": "Quando o Testador assina com seu sangue o testamento de nossa liberdade",
         "fr": "Quand le Testateur signe de son sang le testament de notre liberté",
         "ja": "遺言者が私たちの自由の遺言を血で署名するとき",
-        "zh": "当立约者用他的血签署我们自由的遗嘱时"
+        "zh": "当立约者用他的血签署我们自由的遗嘱时",
+        "hi": "जब वसीयतकर्ता अपने लहू से हमारी स्वतंत्रता की वसीयत पर हस्ताक्षर करता है"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -768,7 +771,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     },
     {
@@ -781,7 +785,8 @@
         "pt": "cup_of_wrath_pt_001.json",
         "fr": "cup_of_wrath_fr_001.json",
         "ja": "cup_of_wrath_ja_001.json",
-        "zh": "cup_of_wrath_zh_001.json"
+        "zh": "cup_of_wrath_zh_001.json",
+        "hi": "cup_of_wrath_hi_001.json"
       },
       "titles": {
         "es": "La Copa de la Ira",
@@ -789,7 +794,8 @@
         "pt": "A Taça da Ira",
         "fr": "La Coupe de la Colère",
         "ja": "怒りの杯",
-        "zh": "忿怒的杯"
+        "zh": "忿怒的杯",
+        "hi": "क्रोध का कटोरा"
       },
       "subtitles": {
         "es": "Cuando el Inocente bebe el juicio que nos correspondía",
@@ -797,7 +803,8 @@
         "pt": "Quando o Inocente bebe o juízo que nos pertencia",
         "fr": "Quand l'Innocent boit le jugement qui nous appartenait",
         "ja": "無実の方が私たちに属していた裁きを飲むとき",
-        "zh": "当无辜者喝下属于我们的审判时"
+        "zh": "当无辜者喝下属于我们的审判时",
+        "hi": "जब निर्दोष वह दंड पीता है जो हमारा था"
       },
       "estimated_reading_minutes": {
         "es": 8,
@@ -805,7 +812,8 @@
         "pt": 8,
         "fr": 8,
         "ja": 8,
-        "zh": 8
+        "zh": 8,
+        "hi": 8
       }
     },
     {
@@ -818,7 +826,8 @@
         "pt": "veil_torn_pt_001.json",
         "fr": "veil_torn_fr_001.json",
         "ja": "veil_torn_ja_001.json",
-        "zh": "veil_torn_zh_001.json"
+        "zh": "veil_torn_zh_001.json",
+        "hi": "veil_torn_hi_001.json"
       },
       "titles": {
         "es": "El Velo Rasgado",
@@ -826,7 +835,8 @@
         "pt": "O Véu Rasgado",
         "fr": "Le Voile Déchiré",
         "ja": "裂け分かれた幕",
-        "zh": "裂开的幔子"
+        "zh": "裂开的幔子",
+        "hi": "फटा हुआ पर्दा"
       },
       "subtitles": {
         "es": "Cuando Dios abre el camino al Lugar Santísimo",
@@ -834,7 +844,8 @@
         "pt": "Quando Deus abre o caminho para o Santo dos Santos",
         "fr": "Quand Dieu ouvre le chemin vers le Saint des Saints",
         "ja": "神が至聖所への道を開くとき",
-        "zh": "当神开辟通往至圣所的道路时"
+        "zh": "当神开辟通往至圣所的道路时",
+        "hi": "जब परमेश्वर परम पवित्र स्थान का मार्ग खोलता है"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -842,7 +853,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     },
     {
@@ -855,7 +867,8 @@
         "pt": "saints_resurrected_pt_001.json",
         "fr": "saints_resurrected_fr_001.json",
         "ja": "saints_resurrected_ja_001.json",
-        "zh": "saints_resurrected_zh_001.json"
+        "zh": "saints_resurrected_zh_001.json",
+        "hi": "saints_resurrected_hi_001.json"
       },
       "titles": {
         "es": "Los Santos Resucitados",
@@ -863,7 +876,8 @@
         "pt": "Os Santos Ressuscitados",
         "fr": "Les Saints Ressuscités",
         "ja": "よみがえった聖人たち",
-        "zh": "复活的圣徒"
+        "zh": "复活的圣徒",
+        "hi": "पुनरुत्थित संत"
       },
       "subtitles": {
         "es": "Cuando la muerte de Cristo liberó a los cautivos del Hades",
@@ -871,7 +885,8 @@
         "pt": "Quando a morte de Cristo libertou os cativos do Hades",
         "fr": "Quand la mort du Christ a libéré les captifs de l'Hadès",
         "ja": "キリストの死がハデスの捕虜を解放したとき",
-        "zh": "当基督的死释放了阴间的囚徒时"
+        "zh": "当基督的死释放了阴间的囚徒时",
+        "hi": "जब मसीह की मृत्यु ने अधोलोक के बंदियों को मुक्त किया"
       },
       "estimated_reading_minutes": {
         "es": 8,
@@ -879,7 +894,8 @@
         "pt": 8,
         "fr": 8,
         "ja": 8,
-        "zh": 8
+        "zh": 8,
+        "hi": 8
       }
     },
     {
@@ -892,7 +908,8 @@
         "pt": "breath_new_adam_pt_001.json",
         "fr": "breath_new_adam_fr_001.json",
         "ja": "breath_new_adam_ja_001.json",
-        "zh": "breath_new_adam_zh_001.json"
+        "zh": "breath_new_adam_zh_001.json",
+        "hi": "breath_new_adam_hi_001.json"
       },
       "titles": {
         "es": "El Soplo del Nuevo Adán",
@@ -900,7 +917,8 @@
         "pt": "O Sopro do Novo Adão",
         "fr": "Le Souffle du Nouvel Adam",
         "ja": "新しいアダムの息",
-        "zh": "新亚当的气息"
+        "zh": "新亚当的气息",
+        "hi": "नए आदम की श्वास"
       },
       "subtitles": {
         "es": "Cuando Jesús reconecta al hombre con Dios",
@@ -908,7 +926,8 @@
         "pt": "Quando Jesus reconecta o homem com Deus",
         "fr": "Quand Jésus reconnecte l'homme avec Dieu",
         "ja": "イエスが人を神と再びつなぐとき",
-        "zh": "当耶稣将人与神重新连接"
+        "zh": "当耶稣将人与神重新连接",
+        "hi": "जब यीशु ने मनुष्य को परमेश्वर से पुनः जोड़ा"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -916,7 +935,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     },
     {
@@ -929,7 +949,8 @@
         "pt": "road_to_emmaus_pt_001.json",
         "fr": "road_to_emmaus_fr_001.json",
         "ja": "road_to_emmaus_ja_001.json",
-        "zh": "road_to_emmaus_zh_001.json"
+        "zh": "road_to_emmaus_zh_001.json",
+        "hi": "road_to_emmaus_hi_001.json"
       },
       "titles": {
         "es": "El Camino a Emaús",
@@ -937,7 +958,8 @@
         "pt": "O Caminho de Emaús",
         "fr": "Le Chemin d'Emmaüs",
         "ja": "エマオへの道",
-        "zh": "去以马忤斯的路上"
+        "zh": "去以马忤斯的路上",
+        "hi": "एम्माऊस का मार्ग"
       },
       "subtitles": {
         "es": "Cuando el Cristo resucitado camina contigo sin que lo reconozcas, hasta que parte el pan",
@@ -945,7 +967,8 @@
         "pt": "Quando o Cristo ressuscitado caminha com você sem ser reconhecido, até partir o pão",
         "fr": "Quand le Christ ressuscité marche avec vous sans être reconnu, jusqu'à la fraction du pain",
         "ja": "復活したキリストがあなたと共に歩んでいるのに、パンを裂くまで気づかない時",
-        "zh": "当复活的基督与你同行却未被认出，直到祂擘饼"
+        "zh": "当复活的基督与你同行却未被认出，直到祂擘饼",
+        "hi": "जब पुनरुत्थित मसीह आपके साथ अपरिचित चलता है, जब तक वह रोटी नहीं तोड़ता"
       },
       "estimated_reading_minutes": {
         "es": 10,
@@ -953,7 +976,8 @@
         "pt": 10,
         "fr": 10,
         "ja": 10,
-        "zh": 10
+        "zh": 10,
+        "hi": 10
       }
     },
     {
