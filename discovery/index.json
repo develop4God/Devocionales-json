@@ -543,7 +543,8 @@
         "pt": "passed_from_death_pt_001.json",
         "fr": "passed_from_death_fr_001.json",
         "ja": "passed_from_death_ja_001.json",
-        "zh": "passed_from_death_zh_001.json"
+        "zh": "passed_from_death_zh_001.json",
+        "hi": "passed_from_death_hi_001.json"
       },
       "titles": {
         "es": "Pasados de Muerte a Vida",
@@ -551,7 +552,8 @@
         "pt": "Passados de Morte para Vida",
         "fr": "Passé de la Mort à la Vie",
         "ja": "死からいのちへ渡された",
-        "zh": "从死到生"
+        "zh": "从死到生",
+        "hi": "मृत्यु से जीवन में पार"
       },
       "subtitles": {
         "es": "La revelación final: ya no puedes 'des-nacer'",
@@ -559,7 +561,8 @@
         "pt": "A revelação final: você não pode 'des-nascer'",
         "fr": "La révélation finale : vous ne pouvez pas 'dé-naître'",
         "ja": "最終的な啓示：あなたは自分を「生まれなかったこと」にできない",
-        "zh": "最终的启示：你不能'不出生'"
+        "zh": "最终的启示：你不能'不出生'",
+        "hi": "अंतिम प्रकाशन: आप अब 'अजन्मे' नहीं हो सकते"
       },
       "estimated_reading_minutes": {
         "es": 8,
@@ -567,7 +570,8 @@
         "pt": 8,
         "fr": 8,
         "ja": 8,
-        "zh": 8
+        "zh": 8,
+        "hi": 8
       }
     },
     {
@@ -580,7 +584,8 @@
         "pt": "transfiguration_pt_001.json",
         "fr": "transfiguration_fr_001.json",
         "ja": "transfiguration_ja_001.json",
-        "zh": "transfiguration_zh_001.json"
+        "zh": "transfiguration_zh_001.json",
+        "hi": "transfiguration_hi_001.json"
       },
       "titles": {
         "es": "La Transfiguración",
@@ -588,7 +593,8 @@
         "pt": "A Transfiguração",
         "fr": "La Transfiguration",
         "ja": "変貌",
-        "zh": "登山变像"
+        "zh": "登山变像",
+        "hi": "रूपान्तरण"
       },
       "subtitles": {
         "es": "Cuando el velo de la carne se abre y la gloria irrumpe",
@@ -596,7 +602,8 @@
         "pt": "Quando o véu da carne se abre e a glória irrompe",
         "fr": "Quand le voile de la chair s'ouvre et la gloire éclate",
         "ja": "肉の覆いが開かれ、栄光が輝き出るとき",
-        "zh": "当肉身的幔子揭开，荣耀突破而出"
+        "zh": "当肉身的幔子揭开，荣耀突破而出",
+        "hi": "जब देह का परदा खुलता है और महिमा प्रकट होती है"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -604,7 +611,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     },
     {
@@ -654,7 +662,8 @@
         "fr": "triumphal_entry_fr_001.json",
         "pt": "triumphal_entry_pt_001.json",
         "ja": "triumphal_entry_ja_001.json",
-        "zh": "triumphal_entry_zh_001.json"
+        "zh": "triumphal_entry_zh_001.json",
+        "hi": "triumphal_entry_hi_001.json"
       },
       "titles": {
         "es": "La Entrada Triunfal",
@@ -662,7 +671,8 @@
         "fr": "L'Entrée Triomphale",
         "pt": "A Entrada Triunfal",
         "ja": "勝利の入城",
-        "zh": "荣入圣城"
+        "zh": "荣入圣城",
+        "hi": "विजयी प्रवेश"
       },
       "subtitles": {
         "es": "Cuando el Rey rechazado entra a Jerusalén montado en un pollino, no en un caballo de guerra",
@@ -670,7 +680,8 @@
         "fr": "Quand le Roi rejeté entre à Jérusalem monté sur un ânon, pas sur un cheval de guerre",
         "pt": "Quando o Rei rejeitado entra em Jerusalém montado em um jumentinho, não em um cavalo de guerra",
         "ja": "拒絶された王が、軍馬ではなくろばに乗ってエルサレムに入られる時",
-        "zh": "当被拒绝的王骑着驴驹而非战马进入耶路撒冷"
+        "zh": "当被拒绝的王骑着驴驹而非战马进入耶路撒冷",
+        "hi": "जब तिरस्कृत राजा यरूशलेम में गधे पर सवार होकर प्रवेश करता है, न कि युद्ध के घोड़े पर"
       },
       "estimated_reading_minutes": {
         "es": 5,
@@ -678,7 +689,8 @@
         "fr": 5,
         "pt": 5,
         "ja": 5,
-        "zh": 5
+        "zh": 5,
+        "hi": 5
       }
     },
     {
@@ -691,7 +703,8 @@
         "pt": "gethsemane_agony_pt_001.json",
         "fr": "gethsemane_agony_fr_001.json",
         "ja": "gethsemane_agony_ja_001.json",
-        "zh": "gethsemane_agony_zh_001.json"
+        "zh": "gethsemane_agony_zh_001.json",
+        "hi": "gethsemane_agony_hi_001.json"
       },
       "titles": {
         "es": "La Agonía del Testador",
@@ -699,7 +712,8 @@
         "pt": "A Agonia do Testador",
         "fr": "L'Agonie du Testateur",
         "ja": "遺言者の苦悶",
-        "zh": "立约者的痛苦"
+        "zh": "立约者的痛苦",
+        "hi": "वसीयतकर्ता की व्यथा"
       },
       "subtitles": {
         "es": "Cuando el Hijo de Dios suda sangre en la prensa de aceite",
@@ -707,7 +721,8 @@
         "pt": "Quando o Filho de Deus sua sangue no lagar de azeite",
         "fr": "Quand le Fils de Dieu sue du sang dans le pressoir à olives",
         "ja": "神の御子がオリーブの圧搾器で血の汗を流すとき",
-        "zh": "当神的儿子在橄榄压榨机中流出血汗时"
+        "zh": "当神的儿子在橄榄压榨机中流出血汗时",
+        "hi": "जब परमेश्वर का पुत्र जैतून की कोल्हू में लहू जैसा पसीना बहाता है"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -715,7 +730,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     },
     {
