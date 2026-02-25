@@ -297,7 +297,8 @@
         "pt": "born_again_pt_001.json",
         "fr": "born_again_fr_001.json",
         "ja": "born_again_ja_001.json",
-        "zh": "born_again_zh_001.json"
+        "zh": "born_again_zh_001.json",
+        "hi": "born_again_hi_001.json"
       },
       "titles": {
         "es": "Es Necesario Nacer de Nuevo",
@@ -305,7 +306,8 @@
         "pt": "Vós Tendes de Nascer de Novo",
         "fr": "Il faut que vous naissiez de nouveau",
         "ja": "新しく生まれなければならない",
-        "zh": "你必须重生"
+        "zh": "你必须重生",
+        "hi": "तुम्हें फिर से जन्म लेना होगा"
       },
       "subtitles": {
         "es": "El misterio del nuevo nacimiento espiritual revelado",
@@ -313,7 +315,8 @@
         "pt": "Quando o mestre de Israel descobre que sua religião não é suficiente",
         "fr": "Quand le maître d'Israël découvre que sa religion ne suffit pas",
         "ja": "イスラエルの教師が、自分の宗教では不十分であることを発見したとき",
-        "zh": "当以色列的教师发现他的宗教并不足够"
+        "zh": "当以色列的教师发现他的宗教并不足够",
+        "hi": "जब इस्राएल का गुरु यह जान लेता है कि उसका धर्म पर्याप्त नहीं है"
       },
       "estimated_reading_minutes": {
         "es": 6,
@@ -321,7 +324,8 @@
         "pt": 5,
         "fr": 5,
         "ja": 5,
-        "zh": 5
+        "zh": 5,
+        "hi": 5
       }
     },
     {
@@ -334,7 +338,8 @@
         "pt": "temple_cleansing_pt_001.json",
         "fr": "temple_cleansing_fr_001.json",
         "ja": "temple_cleansing_ja_001.json",
-        "zh": "temple_cleansing_zh_001.json"
+        "zh": "temple_cleansing_zh_001.json",
+        "hi": "temple_cleansing_hi_001.json"
       },
       "titles": {
         "es": "La Purificación del Templo",
@@ -342,7 +347,8 @@
         "pt": "A Purificação do Templo",
         "fr": "La Purification du Temple",
         "ja": "神殿の清め",
-        "zh": "洁净圣殿"
+        "zh": "洁净圣殿",
+        "hi": "मंदिर की शुद्धि"
       },
       "subtitles": {
         "es": "Cuando Jesús declara que Él es el Templo verdadero",
@@ -350,7 +356,8 @@
         "pt": "Quando Jesus declara que Ele é o verdadeiro Templo",
         "fr": "Quand Jésus déclare qu'Il est le véritable Temple",
         "ja": "イエスが御霊自身が真の神殿であると宣言するとき",
-        "zh": "耶稣宣告自己是真正的圣殿"
+        "zh": "耶稣宣告自己是真正的圣殿",
+        "hi": "जब यीशु घोषणा करता है कि वह ही सच्चा मंदिर है"
       },
       "estimated_reading_minutes": {
         "es": 6,
@@ -358,7 +365,8 @@
         "pt": 6,
         "fr": 6,
         "ja": 6,
-        "zh": 6
+        "zh": 6,
+        "hi": 6
       }
     },
     {
@@ -371,7 +379,8 @@
         "fr": "woman_at_well_fr_001.json",
         "pt": "woman_at_well_pt_001.json",
         "ja": "woman_at_well_ja_001.json",
-        "zh": "woman_at_well_zh_001.json"
+        "zh": "woman_at_well_zh_001.json",
+        "hi": "woman_at_well_hi_001.json"
       },
       "titles": {
         "es": "La Mujer del Pozo",
@@ -379,7 +388,8 @@
         "fr": "La Femme au Puits",
         "pt": "A Mulher no Poço",
         "ja": "井戸の女",
-        "zh": "井边的妇人"
+        "zh": "井边的妇人",
+        "hi": "कुएँ पर की स्त्री"
       },
       "subtitles": {
         "es": "Cuando Jesús rompe todas las barreras por una conversación que cambiará una ciudad",
@@ -387,7 +397,8 @@
         "fr": "Quand Jésus brise toutes les barrières pour une conversation qui transformera une ville",
         "pt": "Quando Jesus quebra todas as barreiras por uma conversa que mudará uma cidade",
         "ja": "イエスがすべての壁を打ち破り、町を変える会話をする時",
-        "zh": "当耶稣打破一切隔阂，带来改变城市的对话"
+        "zh": "当耶稣打破一切隔阂，带来改变城市的对话",
+        "hi": "जब यीशु एक ऐसी बातचीत के लिए हर बाधा तोड़ता है जो एक पूरे नगर को बदल देगी"
       },
       "estimated_reading_minutes": {
         "es": 5,
@@ -395,7 +406,8 @@
         "fr": 5,
         "pt": 5,
         "ja": 5,
-        "zh": 5
+        "zh": 5,
+        "hi": 5
       }
     },
     {
@@ -408,7 +420,8 @@
         "pt": "i_am_before_abraham_pt_001.json",
         "fr": "i_am_before_abraham_fr_001.json",
         "ja": "i_am_before_abraham_ja_001.json",
-        "zh": "i_am_before_abraham_zh_001.json"
+        "zh": "i_am_before_abraham_zh_001.json",
+        "hi": "i_am_before_abraham_hi_001.json"
       },
       "titles": {
         "es": "YO SOY: Antes que Abraham Fuese",
@@ -416,7 +429,8 @@
         "pt": "EU SOU: Antes que Abraão Existisse",
         "fr": "JE SUIS : Avant qu'Abraham Fût",
         "ja": "わたしはある：アブラハムが生まれる前から",
-        "zh": "我是：在亚伯拉罕出生以前"
+        "zh": "我是：在亚伯拉罕出生以前",
+        "hi": "मैं हूं: इब्राहीम से पहले"
       },
       "subtitles": {
         "es": "Cuando Jesús reclama eternidad y la multitud toma piedras",
@@ -424,7 +438,8 @@
         "pt": "Quando Jesus reivindica a eternidade e a multidão pega pedras",
         "fr": "Quand Jésus revendique l'éternité et la foule saisit des pierres",
         "ja": "イエスが永遠性を主張し、群衆が石を取り上げたとき",
-        "zh": "当耶稣宣称永恒，而众人拿起石头"
+        "zh": "当耶稣宣称永恒，而众人拿起石头",
+        "hi": "जब यीशु अनन्तता का दावा करता है और भीड़ पत्थर उठाती है"
       },
       "estimated_reading_minutes": {
         "es": 6,
@@ -432,7 +447,8 @@
         "pt": 6,
         "fr": 6,
         "ja": 6,
-        "zh": 6
+        "zh": 6,
+        "hi": 6
       }
     },
     {
@@ -445,7 +461,8 @@
         "pt": "good_shepherd_pt_001.json",
         "fr": "good_shepherd_fr_001.json",
         "ja": "good_shepherd_ja_001.json",
-        "zh": "good_shepherd_zh_001.json"
+        "zh": "good_shepherd_zh_001.json",
+        "hi": "good_shepherd_hi_001.json"
       },
       "titles": {
         "es": "El Buen Pastor",
@@ -453,7 +470,8 @@
         "pt": "O Bom Pastor",
         "fr": "Le Bon Berger",
         "ja": "良い羊飼い",
-        "zh": "好牧人"
+        "zh": "好牧人",
+        "hi": "अच्छा चरवाहा"
       },
       "subtitles": {
         "es": "Cuando Jesús declara que conoce a sus ovejas por nombre",
@@ -461,7 +479,8 @@
         "pt": "Quando Jesus declara que conhece Suas ovelhas pelo nome",
         "fr": "Quand Jésus déclare qu'Il connaît Ses brebis par leur nom",
         "ja": "イエスが羊を名前で知っていると宣言するとき",
-        "zh": "当耶稣宣告祂按名认识祂的羊"
+        "zh": "当耶稣宣告祂按名认识祂的羊",
+        "hi": "जब यीशु घोषणा करता है कि वह अपनी भेड़ों को नाम से जानता है"
       },
       "estimated_reading_minutes": {
         "es": 6,
@@ -469,7 +488,8 @@
         "pt": 6,
         "fr": 6,
         "ja": 6,
-        "zh": 6
+        "zh": 6,
+        "hi": 6
       }
     },
     {
@@ -482,7 +502,8 @@
         "pt": "jesus_troubled_himself_pt_001.json",
         "fr": "jesus_troubled_himself_fr_001.json",
         "ja": "jesus_troubled_himself_ja_001.json",
-        "zh": "jesus_troubled_himself_zh_001.json"
+        "zh": "jesus_troubled_himself_zh_001.json",
+        "hi": "jesus_troubled_himself_hi_001.json"
       },
       "titles": {
         "es": "Se Turbó a Sí Mismo",
@@ -490,7 +511,8 @@
         "pt": "Ele Se Perturbou",
         "fr": "Il Se Troubla Lui-même",
         "ja": "御霊自身を悩まされた",
-        "zh": "他使自己心里悲叹"
+        "zh": "他使自己心里悲叹",
+        "hi": "उसने स्वयं को व्याकुल किया"
       },
       "subtitles": {
         "es": "Cuando Jesús eligió entrar en nuestro dolor",
@@ -498,7 +520,8 @@
         "pt": "Quando Jesus escolheu entrar em nossa dor",
         "fr": "Quand Jésus a choisi d'entrer dans notre douleur",
         "ja": "イエスが私たちの痛みに入ることを選ばれたとき",
-        "zh": "当耶稣选择进入我们的痛苦"
+        "zh": "当耶稣选择进入我们的痛苦",
+        "hi": "जब यीशु ने हमारे दर्द में प्रवेश करना चुना"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -506,7 +529,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     },
     {
