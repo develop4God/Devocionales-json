@@ -625,7 +625,8 @@
         "pt": "buried_talent_pt_001.json",
         "fr": "buried_talent_fr_001.json",
         "ja": "buried_talent_ja_001.json",
-        "zh": "buried_talent_zh_001.json"
+        "zh": "buried_talent_zh_001.json",
+        "hi": "buried_talent_hi_001.json"
       },
       "titles": {
         "es": "El Talento Enterrado",
@@ -633,7 +634,8 @@
         "pt": "O Talento Enterrado",
         "fr": "Le Talent Enfoui",
         "ja": "埋められたタラント",
-        "zh": "被埋葬的他连得"
+        "zh": "被埋葬的他连得",
+        "hi": "दफनाई गई प्रतिभा"
       },
       "subtitles": {
         "es": "Cuando el miedo paraliza y las manos quedan vacías",
@@ -641,7 +643,8 @@
         "pt": "Quando o medo paralisa e as mãos ficam vazias",
         "fr": "Quand la peur paralyse et que les mains restent vides",
         "ja": "恐れが麻痺させ、手が空になるとき",
-        "zh": "当恐惧使人瘫痪,双手空空如也"
+        "zh": "当恐惧使人瘫痪,双手空空如也",
+        "hi": "जब डर लकवा मारता है और हाथ खाली रह जाते हैं"
       },
       "estimated_reading_minutes": {
         "es": 8,
@@ -649,7 +652,8 @@
         "pt": 8,
         "fr": 8,
         "ja": 8,
-        "zh": 8
+        "zh": 8,
+        "hi": 8
       }
     },
     {
@@ -1195,7 +1199,8 @@
         "pt": "gold_silver_ashes_pt_001.json",
         "fr": "gold_silver_ashes_fr_001.json",
         "ja": "gold_silver_ashes_ja_001.json",
-        "zh": "gold_silver_ashes_zh_001.json"
+        "zh": "gold_silver_ashes_zh_001.json",
+        "hi": "gold_silver_ashes_hi_001.json"
       },
       "titles": {
         "es": "Oro, Plata o Cenizas",
@@ -1203,7 +1208,8 @@
         "pt": "Ouro, Prata ou Cinzas",
         "fr": "Or, Argent ou Cendres",
         "ja": "金、銀、それとも灰",
-        "zh": "金银还是灰烬"
+        "zh": "金银还是灰烬",
+        "hi": "सोना, चाँदी या राख"
       },
       "subtitles": {
         "es": "Cuando el fuego prueba la calidad de tu obra",
@@ -1211,7 +1217,8 @@
         "pt": "Quando o fogo prova a qualidade da sua obra",
         "fr": "Quand le feu éprouve la qualité de ton œuvre",
         "ja": "火があなたの働きの質を試すとき",
-        "zh": "当火试验你工作的质量"
+        "zh": "当火试验你工作的质量",
+        "hi": "जब आग आपके काम की गुणवत्ता को परखती है"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -1219,7 +1226,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     },
     {
@@ -1232,7 +1240,8 @@
         "fr": "zechariah_14_return_fr_001.json",
         "pt": "zechariah_14_return_pt_001.json",
         "ja": "zechariah_14_return_ja_001.json",
-        "zh": "zechariah_14_return_zh_001.json"
+        "zh": "zechariah_14_return_zh_001.json",
+        "hi": "zechariah_14_return_hi_001.json"
       },
       "titles": {
         "es": "Zacarías 14: Cuando Sus Pies Toquen el Monte de los Olivos",
@@ -1240,7 +1249,8 @@
         "fr": "Zacharie 14 : Quand Ses Pieds Toucheront le Mont des Oliviers",
         "pt": "Zacarias 14: Quando Seus Pés Tocarem o Monte das Oliveiras",
         "ja": "ゼカリヤ書14章:御足がオリーブ山に触れる時",
-        "zh": "撒迦利亚书14章：当祂的脚踏在橄榄山上"
+        "zh": "撒迦利亚书14章：当祂的脚踏在橄榄山上",
+        "hi": "जकर्याह 14: जब उसके पाँव जैतून पर्वत पर पड़ेंगे"
       },
       "subtitles": {
         "es": "El día en que el cielo desciende y la tierra es transformada",
@@ -1248,7 +1258,8 @@
         "fr": "Le jour où le ciel descend et la terre est transformée",
         "pt": "O dia em que o céu desce e a terra é transformada",
         "ja": "天が降り、地が変えられる日",
-        "zh": "天降大地、地球转化的那一天"
+        "zh": "天降大地、地球转化的那一天",
+        "hi": "वह दिन जब स्वर्ग उतरेगा और पृथ्वी बदल जाएगी"
       },
       "estimated_reading_minutes": {
         "es": 9,
@@ -1256,7 +1267,8 @@
         "fr": 9,
         "pt": 9,
         "ja": 9,
-        "zh": 9
+        "zh": 9,
+        "hi": 9
       }
     },
     {
@@ -1269,7 +1281,8 @@
         "pt": "full_hands_king_pt_001.json",
         "fr": "full_hands_king_fr_001.json",
         "ja": "full_hands_king_ja_001.json",
-        "zh": "full_hands_king_zh_001.json"
+        "zh": "full_hands_king_zh_001.json",
+        "hi": "full_hands_king_hi_001.json"
       },
       "titles": {
         "es": "Manos Llenas para el Rey",
@@ -1277,7 +1290,8 @@
         "pt": "Mãos Cheias para o Rei",
         "fr": "Mains Pleines pour le Roi",
         "ja": "王のための満たされた手",
-        "zh": "为王预备满手"
+        "zh": "为王预备满手",
+        "hi": "राजा के लिए भरे हाथ"
       },
       "subtitles": {
         "es": "Cuando el Alfa y la Omega trae su recompensa",
@@ -1285,7 +1299,8 @@
         "pt": "Quando o Alfa e o Ômega traz sua recompensa",
         "fr": "Quand l'Alpha et l'Oméga apporte sa récompense",
         "ja": "アルファとオメガが報いをもって来られるとき",
-        "zh": "当阿拉法和俄梅戛带着祂的赏赐而来"
+        "zh": "当阿拉法和俄梅戛带着祂的赏赐而来",
+        "hi": "जब आल्फा और ओमेगा अपना इनाम लेकर आता है"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -1293,7 +1308,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     }
   ]
