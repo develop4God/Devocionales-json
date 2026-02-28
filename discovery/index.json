@@ -990,7 +990,8 @@
         "pt": "restoration_by_fire_pt_001.json",
         "fr": "restoration_by_fire_fr_001.json",
         "ja": "restoration_by_fire_ja_001.json",
-        "zh": "restoration_by_fire_zh_001.json"
+        "zh": "restoration_by_fire_zh_001.json",
+        "hi": "restoration_by_fire_hi_001.json"
       },
       "titles": {
         "es": "Las Brasas de la Restauración",
@@ -998,7 +999,8 @@
         "pt": "As Brasas da Restauração",
         "fr": "Les Braises de la Restauration",
         "ja": "回復の炭火",
-        "zh": "恢复的炭火"
+        "zh": "恢复的炭火",
+        "hi": "पुनर्स्थापना की अंगीठी"
       },
       "subtitles": {
         "es": "Cuando el olor del fracaso se convierte en el aroma del perdón",
@@ -1006,7 +1008,8 @@
         "pt": "Quando o cheiro do fracasso se torna o aroma do perdão",
         "fr": "Quand l'odeur de l'échec devient l'arôme du pardon",
         "ja": "失敗の匂いが赦しの香りになるとき",
-        "zh": "当失败的气味变成宽恕的芬芳"
+        "zh": "当失败的气味变成宽恕的芬芳",
+        "hi": "जब असफलता की गंध क्षमा की सुगंध बन जाती है"
       },
       "estimated_reading_minutes": {
         "es": 9,
@@ -1014,7 +1017,8 @@
         "pt": 9,
         "fr": 9,
         "ja": 9,
-        "zh": 9
+        "zh": 9,
+        "hi": 9
       }
     },
     {
@@ -1109,7 +1113,8 @@
         "pt": "pentecost_power_pt_001.json",
         "fr": "pentecost_power_fr_001.json",
         "ja": "pentecost_power_ja_001.json",
-        "zh": "pentecost_power_zh_001.json"
+        "zh": "pentecost_power_zh_001.json",
+        "hi": "pentecost_power_hi_001.json"
       },
       "titles": {
         "es": "El Poder de Pentecostés",
@@ -1117,7 +1122,8 @@
         "pt": "O Poder de Pentecostes",
         "fr": "La puissance de la Pentecôte",
         "ja": "ペンテコステの力",
-        "zh": "五旬节的能力"
+        "zh": "五旬节的能力",
+        "hi": "पिन्तेकुस्त की सामर्थ"
       },
       "subtitles": {
         "es": "Cuando el Espíritu Santo transforma cobardes en valientes",
@@ -1125,7 +1131,8 @@
         "pt": "Quando o Espírito Santo transforma covardes em corajosos",
         "fr": "Quand le Saint-Esprit transforme les lâches en courageux",
         "ja": "聖霊が臆病者を勇敢な者へと変える時",
-        "zh": "当圣灵将懦夫转变为勇士"
+        "zh": "当圣灵将懦夫转变为勇士",
+        "hi": "जब पवित्र आत्मा कायरों को साहसी में बदल देता है"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -1133,7 +1140,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     },
     {
@@ -1146,7 +1154,8 @@
         "pt": "damascus_road_pt_001.json",
         "fr": "damascus_road_fr_001.json",
         "ja": "damascus_road_ja_001.json",
-        "zh": "damascus_road_zh_001.json"
+        "zh": "damascus_road_zh_001.json",
+        "hi": "damascus_road_hi_001.json"
       },
       "titles": {
         "es": "El Camino a Damasco",
@@ -1154,7 +1163,8 @@
         "pt": "O Caminho para Damasco",
         "fr": "Le chemin de Damas",
         "ja": "ダマスコへの道",
-        "zh": "大马士革的路上"
+        "zh": "大马士革的路上",
+        "hi": "दमिश्क का मार्ग"
       },
       "subtitles": {
         "es": "Cuando la luz de Cristo derriba al perseguidor más feroz",
@@ -1162,7 +1172,8 @@
         "pt": "Quando a luz de Cristo derruba o perseguidor mais feroz",
         "fr": "Quand la lumière de Christ terrasse le plus féroce des persécuteurs",
         "ja": "キリストの光が最も激しい迫害者を打ち倒す時",
-        "zh": "当基督的光击倒最凶猛的逼迫者"
+        "zh": "当基督的光击倒最凶猛的逼迫者",
+        "hi": "जब मसीह का प्रकाश सबसे उग्र सताने वाले को गिरा देता है"
       },
       "estimated_reading_minutes": {
         "es": 7,
@@ -1170,7 +1181,8 @@
         "pt": 7,
         "fr": 7,
         "ja": 7,
-        "zh": 7
+        "zh": 7,
+        "hi": 7
       }
     },
     {
