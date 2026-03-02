@@ -1,0 +1,259 @@
+{
+    "encounters": [
+        {
+            "id": "peter_water_001",
+            "version": "1.0",
+            "emoji": "🌊",
+            "status": "published",
+            "mood_primary": "storm",
+            "accent_color": "#1e3a5f",
+            "has_interactive": true,
+            "testament": "new",
+            "character": "Peter",
+            "files": {
+                "en": "peter_water_001_en.json",
+                "es": "peter_water_001_es.json",
+                "pt": "peter_water_001_pt.json",
+                "fr": "peter_water_001_fr.json",
+                "ja": "peter_water_001_ja.json",
+                "zh": "peter_water_001_zh.json"
+            },
+            "titles": {
+                "en": "The Night Peter Walked on Water",
+                "es": "La Noche que Pedro Caminó sobre el Agua",
+                "pt": "A Noite em que Pedro Caminhou sobre as Águas",
+                "fr": "La Nuit où Pierre Marcha sur l'Eau",
+                "ja": "ペテロが水の上を歩いた夜",
+                "zh": "彼得踏水而行的那夜"
+            },
+            "subtitles": {
+                "en": "When faith and fear collide at 3am on the Sea of Galilee",
+                "es": "Cuando la fe y el miedo colisionan a las 3am en el Mar de Galilea",
+                "pt": "Quando fé e medo colidem às 3h da manhã no Mar da Galileia",
+                "fr": "Quand la foi et la peur s'affrontent à 3h du matin sur la mer de Galilée",
+                "ja": "ガリラヤ湖の午前3時、信仰と恐れが衝突するとき",
+                "zh": "当信心与恐惧在加利利海凌晨三点相遇"
+            },
+            "scripture_reference": {
+                "en": "Matthew 14:22-33",
+                "es": "Mateo 14:22-33",
+                "pt": "Mateus 14:22-33",
+                "fr": "Matthieu 14:22-33",
+                "ja": "マタイ14:22-33",
+                "zh": "马太福音14:22-33"
+            },
+            "estimated_reading_minutes": {
+                "en": 11,
+                "es": 11,
+                "pt": 11,
+                "fr": 11,
+                "ja": 11,
+                "zh": 11
+            }
+        },
+        {
+            "id": "bartimaeus_001",
+            "version": "1.0",
+            "emoji": "👁️",
+            "status": "coming_soon",
+            "mood_primary": "darkness",
+            "accent_color": "#2a1500",
+            "has_interactive": false,
+            "testament": "new",
+            "character": "Bartimaeus",
+            "files": {
+                "en": "bartimaeus_en_001.json",
+                "es": "bartimaeus_es_001.json",
+                "pt": "bartimaeus_pt_001.json",
+                "fr": "bartimaeus_fr_001.json",
+                "ja": "bartimaeus_ja_001.json",
+                "zh": "bartimaeus_zh_001.json"
+            },
+            "titles": {
+                "en": "Bartimaeus Receives Sight",
+                "es": "Bartimeo Recibe la Vista",
+                "pt": "Bartimeu Recebe a Visão",
+                "fr": "Bartimée Reçoit la Vue",
+                "ja": "バルティマイが視力を受ける",
+                "zh": "巴底买得见光明"
+            },
+            "subtitles": {
+                "en": "The blind man who refused to be silenced — and was seen by Jesus",
+                "es": "El ciego que se negó a guardar silencio — y fue visto por Jesús",
+                "pt": "O cego que se recusou a se calar — e foi visto por Jesus",
+                "fr": "L'aveugle qui refusa de se taire — et fut vu par Jésus",
+                "ja": "沈黙を拒んだ盲人 — そしてイエスに見られた",
+                "zh": "拒绝沉默的盲人——被耶稣看见"
+            },
+            "scripture_reference": {
+                "en": "Mark 10:46-52",
+                "es": "Marcos 10:46-52",
+                "pt": "Marcos 10:46-52",
+                "fr": "Marc 10:46-52",
+                "ja": "マルコ10:46-52",
+                "zh": "马可福音10:46-52"
+            },
+            "estimated_reading_minutes": {
+                "en": 7,
+                "es": 7,
+                "pt": 7,
+                "fr": 7,
+                "ja": 7,
+                "zh": 7
+            }
+        },
+        {
+            "id": "woman_well_encounter_001",
+            "version": "1.0",
+            "emoji": "⛲",
+            "status": "coming_soon",
+            "mood_primary": "midday",
+            "accent_color": "#3d1a00",
+            "has_interactive": false,
+            "testament": "new",
+            "character": "Woman at the Well",
+            "files": {
+                "en": "woman_well_encounter_en_001.json",
+                "es": "woman_well_encounter_es_001.json",
+                "pt": "woman_well_encounter_pt_001.json",
+                "fr": "woman_well_encounter_fr_001.json",
+                "ja": "woman_well_encounter_ja_001.json",
+                "zh": "woman_well_encounter_zh_001.json"
+            },
+            "titles": {
+                "en": "The Woman Who Came Alone",
+                "es": "La Mujer que Vino Sola",
+                "pt": "A Mulher que Veio Sozinha",
+                "fr": "La Femme qui Vint Seule",
+                "ja": "一人でやって来た女",
+                "zh": "独自前来的女人"
+            },
+            "subtitles": {
+                "en": "Five husbands, one stranger, and water that never runs dry",
+                "es": "Cinco esposos, un extraño, y agua que nunca se agota",
+                "pt": "Cinco maridos, um estranho, e água que nunca seca",
+                "fr": "Cinq maris, un étranger, et une eau qui ne tarit jamais",
+                "ja": "五人の夫、一人の見知らぬ人、そして尽きることのない水",
+                "zh": "五个丈夫，一个陌生人，永不枯竭的水"
+            },
+            "scripture_reference": {
+                "en": "John 4:1-42",
+                "es": "Juan 4:1-42",
+                "pt": "João 4:1-42",
+                "fr": "Jean 4:1-42",
+                "ja": "ヨハネ4:1-42",
+                "zh": "约翰福音4:1-42"
+            },
+            "estimated_reading_minutes": {
+                "en": 9,
+                "es": 9,
+                "pt": 9,
+                "fr": 9,
+                "ja": 9,
+                "zh": 9
+            }
+        },
+        {
+            "id": "zacchaeus_001",
+            "version": "1.0",
+            "emoji": "🌳",
+            "status": "coming_soon",
+            "mood_primary": "crowd",
+            "accent_color": "#1a2e00",
+            "has_interactive": false,
+            "testament": "new",
+            "character": "Zacchaeus",
+            "files": {
+                "en": "zacchaeus_en_001.json",
+                "es": "zacchaeus_es_001.json",
+                "pt": "zacchaeus_pt_001.json",
+                "fr": "zacchaeus_fr_001.json",
+                "ja": "zacchaeus_ja_001.json",
+                "zh": "zacchaeus_zh_001.json"
+            },
+            "titles": {
+                "en": "The Man in the Tree",
+                "es": "El Hombre en el Árbol",
+                "pt": "O Homem na Árvore",
+                "fr": "L'Homme dans l'Arbre",
+                "ja": "木の上の男",
+                "zh": "树上的那个人"
+            },
+            "subtitles": {
+                "en": "The most hated man in Jericho — and Jesus chose his house",
+                "es": "El hombre más odiado en Jericó — y Jesús eligió su casa",
+                "pt": "O homem mais odiado em Jericó — e Jesus escolheu sua casa",
+                "fr": "L'homme le plus détesté de Jéricho — et Jésus choisit sa maison",
+                "ja": "エリコで最も嫌われた男 — そしてイエスは彼の家を選ばれた",
+                "zh": "耶利哥最被憎恶的人——耶稣却选了他的家"
+            },
+            "scripture_reference": {
+                "en": "Luke 19:1-10",
+                "es": "Lucas 19:1-10",
+                "pt": "Lucas 19:1-10",
+                "fr": "Luc 19:1-10",
+                "ja": "ルカ19:1-10",
+                "zh": "路加福音19:1-10"
+            },
+            "estimated_reading_minutes": {
+                "en": 7,
+                "es": 7,
+                "pt": 7,
+                "fr": 7,
+                "ja": 7,
+                "zh": 7
+            }
+        },
+        {
+            "id": "mary_garden_001",
+            "version": "1.0",
+            "emoji": "🌸",
+            "status": "coming_soon",
+            "mood_primary": "grief",
+            "accent_color": "#1a0a2e",
+            "has_interactive": false,
+            "testament": "new",
+            "character": "Mary Magdalene",
+            "files": {
+                "en": "mary_garden_en_001.json",
+                "es": "mary_garden_es_001.json",
+                "pt": "mary_garden_pt_001.json",
+                "fr": "mary_garden_fr_001.json",
+                "ja": "mary_garden_ja_001.json",
+                "zh": "mary_garden_zh_001.json"
+            },
+            "titles": {
+                "en": "She Heard Her Name",
+                "es": "Ella Escuchó Su Nombre",
+                "pt": "Ela Ouviu Seu Nome",
+                "fr": "Elle Entendit Son Nom",
+                "ja": "彼女は自分の名前を聞いた",
+                "zh": "她听见了自己的名字"
+            },
+            "subtitles": {
+                "en": "Mary at the empty tomb — grief, darkness, and one word that changed everything",
+                "es": "María ante el sepulcro vacío — dolor, oscuridad, y una palabra que lo cambió todo",
+                "pt": "Maria diante do túmulo vazio — dor, escuridão e uma palavra que mudou tudo",
+                "fr": "Marie devant le tombeau vide — douleur, obscurité, et un mot qui changea tout",
+                "ja": "空の墓のマリア — 悲しみ、暗闇、そしてすべてを変えた一言",
+                "zh": "马利亚在空坟墓前——悲痛、黑暗，以及改变一切的一个字"
+            },
+            "scripture_reference": {
+                "en": "John 20:1-18",
+                "es": "Juan 20:1-18",
+                "pt": "João 20:1-18",
+                "fr": "Jean 20:1-18",
+                "ja": "ヨハネ20:1-18",
+                "zh": "约翰福音20:1-18"
+            },
+            "estimated_reading_minutes": {
+                "en": 8,
+                "es": 8,
+                "pt": 8,
+                "fr": 8,
+                "ja": 8,
+                "zh": 8
+            }
+        }
+    ]
+}
