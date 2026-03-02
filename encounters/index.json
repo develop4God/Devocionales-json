@@ -5,6 +5,7 @@
             "version": "1.0",
             "emoji": "🌊",
             "status": "published",
+            "intro_image": "peter_intro.jpg",
             "mood_primary": "storm",
             "accent_color": "#1e3a5f",
             "has_interactive": true,
