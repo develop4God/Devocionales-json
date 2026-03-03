@@ -17,7 +17,8 @@
                 "pt": "peter_water_001_pt.json",
                 "fr": "peter_water_001_fr.json",
                 "ja": "peter_water_001_ja.json",
-                "zh": "peter_water_001_zh.json"
+                "zh": "peter_water_001_zh.json",
+                "hi": "peter_water_001_hi.json"
             },
             "titles": {
                 "en": "The Night Peter Walked on Water",
@@ -25,7 +26,8 @@
                 "pt": "A Noite em que Pedro Caminhou sobre as Águas",
                 "fr": "La Nuit où Pierre Marcha sur l'Eau",
                 "ja": "ペテロが水の上を歩いた夜",
-                "zh": "彼得踏水而行的那夜"
+                "zh": "彼得踏水而行的那夜",
+                "hi": "वह रात जब पतरस पानी पर चला"
             },
             "subtitles": {
                 "en": "When faith and fear collide at 3:00 am on the Sea of Galilee",
@@ -42,7 +44,8 @@
                 "pt": "Mateus 14:22-33",
                 "fr": "Matthieu 14:22-33",
                 "ja": "マタイ14:22-33",
-                "zh": "马太福音14:22-33"
+                "zh": "马太福音14:22-33",
+                "hi": "मत्ती 14:22-33"
             },
             "estimated_reading_minutes": {
                 "en": 11,
@@ -50,7 +53,8 @@
                 "pt": 11,
                 "fr": 11,
                 "ja": 11,
-                "zh": 11
+                "zh": 11,
+                "hi": 11
             }
         },
         {
@@ -69,7 +73,8 @@
                 "pt": "bartimaeus_pt_001.json",
                 "fr": "bartimaeus_fr_001.json",
                 "ja": "bartimaeus_ja_001.json",
-                "zh": "bartimaeus_zh_001.json"
+                "zh": "bartimaeus_zh_001.json",
+                "hi": "bartimaeus_hi_001.json"
             },
             "titles": {
                 "en": "Bartimaeus Receives Sight",
@@ -77,7 +82,8 @@
                 "pt": "Bartimeu Recebe a Visão",
                 "fr": "Bartimée Reçoit la Vue",
                 "ja": "バルティマイが視力を受ける",
-                "zh": "巴底买得见光明"
+                "zh": "巴底买得见光明",
+                "hi": "बरतिमाई को दृष्टि मिलती है"
             },
             "subtitles": {
                 "en": "The blind man who refused to be silenced — and was seen by Jesus",
@@ -85,7 +91,8 @@
                 "pt": "O cego que se recusou a se calar — e foi visto por Jesus",
                 "fr": "L'aveugle qui refusa de se taire — et fut vu par Jésus",
                 "ja": "沈黙を拒んだ盲人 — そしてイエスに見られた",
-                "zh": "拒绝沉默的盲人——被耶稣看见"
+                "zh": "拒绝沉默的盲人——被耶稣看见",
+                "hi": "वह अंधा जिसने चुप रहने से इनकार किया — और यीशु ने उसे देखा"
             },
             "scripture_reference": {
                 "en": "Mark 10:46-52",
@@ -93,7 +100,8 @@
                 "pt": "Marcos 10:46-52",
                 "fr": "Marc 10:46-52",
                 "ja": "マルコ10:46-52",
-                "zh": "马可福音10:46-52"
+                "zh": "马可福音10:46-52",
+                "hi": "मरकुस 10:46-52"
             },
             "estimated_reading_minutes": {
                 "en": 7,
@@ -101,7 +109,8 @@
                 "pt": 7,
                 "fr": 7,
                 "ja": 7,
-                "zh": 7
+                "zh": 7,
+                "hi": 7
             }
         },
         {
@@ -120,7 +129,8 @@
                 "pt": "woman_well_encounter_pt_001.json",
                 "fr": "woman_well_encounter_fr_001.json",
                 "ja": "woman_well_encounter_ja_001.json",
-                "zh": "woman_well_encounter_zh_001.json"
+                "zh": "woman_well_encounter_zh_001.json",
+                "hi": "woman_well_encounter_hi_001.json"
             },
             "titles": {
                 "en": "The Woman Who Came Alone",
@@ -128,7 +138,8 @@
                 "pt": "A Mulher que Veio Sozinha",
                 "fr": "La Femme qui Vint Seule",
                 "ja": "一人でやって来た女",
-                "zh": "独自前来的女人"
+                "zh": "独自前来的女人",
+                "hi": "वह स्त्री जो अकेली आई"
             },
             "subtitles": {
                 "en": "Five husbands, one stranger, and water that never runs dry",
@@ -136,7 +147,8 @@
                 "pt": "Cinco maridos, um estranho, e água que nunca seca",
                 "fr": "Cinq maris, un étranger, et une eau qui ne tarit jamais",
                 "ja": "五人の夫、一人の見知らぬ人、そして尽きることのない水",
-                "zh": "五个丈夫，一个陌生人，永不枯竭的水"
+                "zh": "五个丈夫，一个陌生人，永不枯竭的水",
+                "hi": "पाँच पति, एक अजनबी, और वह पानी जो कभी नहीं सूखता"
             },
             "scripture_reference": {
                 "en": "John 4:1-42",
@@ -144,7 +156,8 @@
                 "pt": "João 4:1-42",
                 "fr": "Jean 4:1-42",
                 "ja": "ヨハネ4:1-42",
-                "zh": "约翰福音4:1-42"
+                "zh": "约翰福音4:1-42",
+                "hi": "यूहन्ना 4:1-42"
             },
             "estimated_reading_minutes": {
                 "en": 9,
@@ -152,7 +165,8 @@
                 "pt": 9,
                 "fr": 9,
                 "ja": 9,
-                "zh": 9
+                "zh": 9,
+                "hi": 9
             }
         },
         {
@@ -171,7 +185,8 @@
                 "pt": "zacchaeus_pt_001.json",
                 "fr": "zacchaeus_fr_001.json",
                 "ja": "zacchaeus_ja_001.json",
-                "zh": "zacchaeus_zh_001.json"
+                "zh": "zacchaeus_zh_001.json",
+                "hi": "zacchaeus_hi_001.json"
             },
             "titles": {
                 "en": "The Man in the Tree",
@@ -179,7 +194,8 @@
                 "pt": "O Homem na Árvore",
                 "fr": "L'Homme dans l'Arbre",
                 "ja": "木の上の男",
-                "zh": "树上的那个人"
+                "zh": "树上的那个人",
+                "hi": "पेड़ पर चढ़ा आदमी"
             },
             "subtitles": {
                 "en": "The most hated man in Jericho — and Jesus chose his house",
@@ -187,7 +203,8 @@
                 "pt": "O homem mais odiado em Jericó — e Jesus escolheu sua casa",
                 "fr": "L'homme le plus détesté de Jéricho — et Jésus choisit sa maison",
                 "ja": "エリコで最も嫌われた男 — そしてイエスは彼の家を選ばれた",
-                "zh": "耶利哥最被憎恶的人——耶稣却选了他的家"
+                "zh": "耶利哥最被憎恶的人——耶稣却选了他的家",
+                "hi": "यरीहो का सबसे घृणित आदमी — और यीशु ने उसके घर को चुना"
             },
             "scripture_reference": {
                 "en": "Luke 19:1-10",
@@ -195,7 +212,8 @@
                 "pt": "Lucas 19:1-10",
                 "fr": "Luc 19:1-10",
                 "ja": "ルカ19:1-10",
-                "zh": "路加福音19:1-10"
+                "zh": "路加福音19:1-10",
+                "hi": "लूका 19:1-10"
             },
             "estimated_reading_minutes": {
                 "en": 7,
@@ -203,7 +221,8 @@
                 "pt": 7,
                 "fr": 7,
                 "ja": 7,
-                "zh": 7
+                "zh": 7,
+                "hi": 7
             }
         },
         {
@@ -222,7 +241,8 @@
                 "pt": "mary_garden_pt_001.json",
                 "fr": "mary_garden_fr_001.json",
                 "ja": "mary_garden_ja_001.json",
-                "zh": "mary_garden_zh_001.json"
+                "zh": "mary_garden_zh_001.json",
+                "hi": "mary_garden_hi_001.json"
             },
             "titles": {
                 "en": "She Heard Her Name",
@@ -230,7 +250,8 @@
                 "pt": "Ela Ouviu Seu Nome",
                 "fr": "Elle Entendit Son Nom",
                 "ja": "彼女は自分の名前を聞いた",
-                "zh": "她听见了自己的名字"
+                "zh": "她听见了自己的名字",
+                "hi": "उसने अपना नाम सुना"
             },
             "subtitles": {
                 "en": "Mary at the empty tomb — grief, darkness, and one word that changed everything",
@@ -238,7 +259,8 @@
                 "pt": "Maria diante do túmulo vazio — dor, escuridão e uma palavra que mudou tudo",
                 "fr": "Marie devant le tombeau vide — douleur, obscurité, et un mot qui changea tout",
                 "ja": "空の墓のマリア — 悲しみ、暗闇、そしてすべてを変えた一言",
-                "zh": "马利亚在空坟墓前——悲痛、黑暗，以及改变一切的一个字"
+                "zh": "马利亚在空坟墓前——悲痛、黑暗，以及改变一切的一个字",
+                "hi": "खाली कब्र के सामने मरियम — दुःख, अंधेरा, और एक शब्द जिसने सब कुछ बदल दिया"
             },
             "scripture_reference": {
                 "en": "John 20:1-18",
@@ -246,7 +268,8 @@
                 "pt": "João 20:1-18",
                 "fr": "Jean 20:1-18",
                 "ja": "ヨハネ20:1-18",
-                "zh": "约翰福音20:1-18"
+                "zh": "约翰福音20:1-18",
+                "hi": "यूहन्ना 20:1-18"
             },
             "estimated_reading_minutes": {
                 "en": 8,
@@ -254,7 +277,8 @@
                 "pt": 8,
                 "fr": 8,
                 "ja": 8,
-                "zh": 8
+                "zh": 8,
+                "hi": 8
             }
         }
     ]
