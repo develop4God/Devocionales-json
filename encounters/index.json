@@ -12,13 +12,13 @@
             "testament": "new",
             "character": "Peter",
             "files": {
-                "en": "peter_water_001_en.json",
-                "es": "peter_water_001_es.json",
-                "pt": "peter_water_001_pt.json",
-                "fr": "peter_water_001_fr.json",
-                "ja": "peter_water_001_ja.json",
-                "zh": "peter_water_001_zh.json",
-                "hi": "peter_water_001_hi.json"
+                "en": "peter_water_en_001.json",
+                "es": "peter_water_es_001.json",
+                "pt": "peter_water_pt_001.json",
+                "fr": "peter_water_fr_001.json",
+                "ja": "peter_water_ja_001.json",
+                "zh": "peter_water_zh_001.json",
+                "hi": "peter_water_hi_001.json"
             },
             "titles": {
                 "en": "The Night Peter Walked on Water",
