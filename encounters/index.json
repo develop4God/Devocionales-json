@@ -62,6 +62,7 @@
             "version": "1.1",
             "emoji": "👁️",
             "status": "published",
+            "intro_image": "bartimaeus_intro.jpg",
             "mood_primary": "darkness",
             "accent_color": "#2a1500",
             "has_interactive": false,
