@@ -119,6 +119,15 @@
             "version": "1.0",
             "emoji": "⛲",
             "status": "coming_soon",
+            "release_date": {
+                "es": "Próxima semana",
+                "en": "Next week",
+                "pt": "Próxima semana",
+                "fr": "La semaine prochaine",
+                "ja": "来週",
+                "zh": "下周",
+                "hi": "अगले सप्ताह"
+            },
             "mood_primary": "midday",
             "accent_color": "#3d1a00",
             "has_interactive": false,
@@ -175,6 +184,15 @@
             "version": "1.0",
             "emoji": "🌳",
             "status": "coming_soon",
+            "release_date": {
+                "es": "En 2 semanas",
+                "en": "In 2 weeks",
+                "pt": "Em 2 semanas",
+                "fr": "Dans 2 semaines",
+                "ja": "2週間後",
+                "zh": "2周后",
+                "hi": "2 सप्ताह में"
+            },
             "mood_primary": "crowd",
             "accent_color": "#1a2e00",
             "has_interactive": false,
@@ -231,6 +249,15 @@
             "version": "1.0",
             "emoji": "🌸",
             "status": "coming_soon",
+            "release_date": {
+                "es": "Semana Santa",
+                "en": "Holy Week",
+                "pt": "Semana Santa",
+                "fr": "Semaine Sainte",
+                "ja": "聖週間",
+                "zh": "圣周",
+                "hi": "पवित्र सप्ताह"
+            },
             "mood_primary": "grief",
             "accent_color": "#1a0a2e",
             "has_interactive": false,
